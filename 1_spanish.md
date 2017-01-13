@@ -28,14 +28,12 @@ http://tureng.com/en/french-english/savoir
 http://tureng.com/en/german-english/kennen
 
 
-
 - tardar - VT
 - empalagoso <ADJ> cloying
 - tornar - to return, to become
 - tornarse - to become again, return back to being .. 
 - el pavor = dread
 - despavorido = terrfied, in dread
-- la ala = wing
 - inmenso/a =<ADJ> immense
 - desgarrar
 - el necio = fool
