@@ -21,28 +21,48 @@ http://www.123teachme.com/translated_sentences/sp/arreglarse
 
 http://conjugator.reverso.net/conjugation-rules-model-spanish.html
 
+- bots giving usage examples and statistics on any word:
+
+http://www.123teachme.com/translated_sentences/sp/mantener
+
+http://www.espanol-ingles.com.mx/word-profile/spanish/mantener
+
 - translator - useful alternative to google, often better:
 
 http://tureng.com/en/spanish-english/resaber
+
 http://tureng.com/en/french-english/savoir
+
 http://tureng.com/en/german-english/kennen
 
+- useful texts with audio:
 
-- tardar - VT
-- empalagoso <ADJ> cloying
-- tornar - to return, to become
-- tornarse - to become again, return back to being .. 
-- el pavor = dread
-- despavorido = terrfied, in dread
-- inmenso/a =<ADJ> immense
-- desgarrar
-- el necio = fool
-- acarrear = bring
-- cosechar= reap, crop <REG>
-- mimar = to pamper
-- flechar = to sweep off (Romantic connotation)
-- el ataud = coffin
-- 
+http://www.learnpracticalspanishonline.com/intermediate/intermediate-readings.html
+
+- TODO traer EGs - LOTS
+
+- TODO !! THE tender GROUP !!	
+
+87 	tender 		to lay out 
+
+87B     tenderse        to lie down	
+
+83 	atender 	to attend to, pay attention to 
+
+95 	extender 	to extend
+
+- WORDS: ANYONE ANYWHERE ANY* vs * CUALQU* - NOT 1-TO-1
+- los trucos
+- El gobierno acudirA ante la ONU.
+.. en Aras de lo politicamente correcto
+
+El valemadrismo aka "importamadrismo" = an ancient mexican philosophy/religion complex
+
+- Que ya no roben! = stop ripping off!
+
+- blindarse 
+
+- TODO maybe add preterite into subjunctive intro
 
 
 - TODO - GOTO this section and complete conjugation of all verbs
@@ -57,7 +77,7 @@ http://tureng.com/en/german-english/kennen
 - yo estuve ahi = "I was there"
 
 
-## TODO - INTEGRATE THESE VERB "FAMILIES"
+## TODO - INTEGRATE MORE VERB "FAMILIES"
 
 
 ############################################################
@@ -69,18 +89,21 @@ http://tureng.com/en/german-english/kennen
 - PREAMBLE - KEY TO ABBREVS LIKE SPA = Spanish
 - STOP-PRESS AND TODOS
 - WORDS - SOME INTRO HELPERS : COGNATE RULES
+- SPANISH ALPHABET - HOW2 SAY LETTERS (CHARACTERS) A B C ..
+- SPANISH USEFUL STARTER EXPRESSIONS
 - WORDS - SOME INTRO HELPERS : HACER TENER HABER ESTAR SOY
 - NOUNS INTRO ( + PRONOUNS + ADJECTIVES)
 - VERBS INTRO
 - VERB THEORY: CONJUGATIONS, TENSES, STRUCTURES, VI VT VRs
 - REGULAR VERBS TOP-50
-- VERBS: VERBS: NEXT-100 -AR REGULAR (AND ALMOSTS) (REST OF THEM) LIST
+- VERBS: NEXT-100 -AR ALMOST-REGULAR IRREGS LIST
 - VERBS: INTRO: EZ TENSES: FUTURE, PRESENT-PERFECT, FUTURE-PERFECT
 - VERBS: INTRO: REGULAR 3 PASTS: preterite, imperfect, pluperfect
 - IRREGULAR VERBS INTRO 1: AUXs HABER ESTAR AND THE NON-AUX SER
 - VERBS: INTRO: MORE EZ TENSES: PROGRESSIVE TENSES
 - VERBS: INTRO: PASSIVE VOICE
 - ODDS-N-ENDS: PARA and POR; OTRA; ..
+- The NOTORIOUS RR ROLLED R
 - IRREGULAR VERBS INTRO 2: THE OTHERS
 - VERBS: TOP-100 IRREGULARS LIST
 - VERBS - THE 3 HACK-UP NOT-QUITE TENSES with AUXs IR, ACABAR, VOLVER
@@ -89,6 +112,7 @@ http://tureng.com/en/german-english/kennen
 - VERBS: SUBJUNCTIVE TRIGGER CLAUSES: NEGATIVE THEN POSITIVE LIST
 - VERBS DISCUSSION: THINGS TO IGNORE, THINGS TO FOCUS ON
 - VERBS: IRREGULARS
+- VERBS: "GROUP-R0" - REFLEXIVES LIKE GUSTAR, NOT REALLY IRREG
 - VERBS: PRESENT "STEM-CHANGE" S1, S2, S3
 - VERBS: IRREGULARS: PRESENT -UIR
 - VERBS: IRREGULARS: PRESENT -C*R - 1ST-SING C => ZC
@@ -102,8 +126,15 @@ http://tureng.com/en/german-english/kennen
 - VERBS: IMPORTANT REFLEXIVES
 - VERBS: SUBJUNCTIVE MOOD 2: PRESENT IRREGS: HABER ESTAR SER ++ .. 
 - VERBS: SUBJUNCTIVE MOOD 3: PAST
+- VERBS: PRETERITE PRESENT-SUBJUNCTIVE - PATTERNS
 - VERBS: SUBJUNCTIVES AND THE 2 CONDITIONALS
 - VERBS: ALL THE AUXs: ROUND-UP DISCUSSION
+- VERBS: IRREG PARTICIPLES REVIEW
+- VERBS: ALL TENSES REVIEW + MEMORY HELPER MNEMONICS
+- VERBS: ALL TENSES REVIEW: -ir -er SAME BUT FOR TINY DETAI
+- VERBS: ALL TENSES REVIEW: -ar vs (-er/ir) SYSTEMATIC DIFF
+- VERBS: FUTURES INDICATIVE vs SUBJUNCTIVE - PATTERNS
+- WORDS: ANYONE ANYWHERE ANY* vs * CUALQU* - NOT 1-TO-1
 - WORDS: SAME ENG, DIFFERENT SPA: PREGUNTAR vs PEDIR; SALIR vs DEJAR; ETC ..
 - VERB WALKS
 - VERB-WALK: ESTAR SOY HABER
@@ -116,6 +147,11 @@ http://tureng.com/en/german-english/kennen
 - VERB-WALK: FORMAR GROUP
 - VERB-WALK: PODER
 - VERB-WALK: GUSTAR REVISITED
+- VERB-WALK: BEBER vs VIVIR
+- VERB-WALK: SENTAR vs SENTIR
+- VERB-WALK: SUBJUNCTIVE USAGE MCU EVERYDAY COMMON EGs
+- EXERCISES - CAR RENTAL
+- EXERCISES - SHOULD COULD WOULD PERFECTS SUBJUNCTIVES CONDITIONALS
 - VOCABULARY BUILDING INTRO
 - VOCABULARY BUILDING ONLINE HELPERS
 - VOCABULARY ALPHABET
@@ -138,6 +174,7 @@ http://tureng.com/en/german-english/kennen
 - EG = e.g.
 - ENG = English
 - ESPA - Spanish spoken on European continent i.e. Spain
+- FEM = feminine gender
 - FF = FALSE-FRIEND = identical word SPA <> ENG, but different meanings
 - FIG = figurative sense, as opposed to literally
 - FR  = French
@@ -147,7 +184,8 @@ http://tureng.com/en/german-english/kennen
 - INF = infinitive
 - ITSO = in the sense of ..
 - LATAM = Latin American or roughly, all SPA outside ESPA (Europe).
-- MCU = More common usage
+- MASC = masculine gender
+- MCU  = More common usage
 - PLUR = plural
 - PORT = Portuguese
 - PPL  = Past Participle and present participle (gerund)
@@ -175,7 +213,7 @@ http://tureng.com/en/german-english/kennen
 
 - FF: But the FALSE-FRIENDS problem arises, where the same word has different meanings
 
-- eg. available => disponible [like FR] - and many others ..
+- eg. available => disponible <like FR> - and many others ..
 
 - another aspect of "false friends" is MCU
 
@@ -211,7 +249,7 @@ http://tureng.com/en/german-english/kennen
 
 - Elegant > Elegante, Important > Importante
 
-- end in –ence change to –encia [FEM]
+- end in –ence change to –encia <FEM>
 
 - Competence > Competencia, Difference > Diferencia
 
@@ -225,7 +263,77 @@ http://tureng.com/en/german-english/kennen
 
 ################################################################
 
-# WORDS - SOME INTRO HELPERS : HACER TENER HABER ESTAR SOY
+# SPANISH ALPHABET - HOW2 SAY LETTERS (CHARACTERS) A B C ..
+
+################################################################
+
+Letter  Pronunciation of Spanish Letter   Name Pronunciation Tips
+a	a	say the ah sound in ENG my omitting tailing ee sound.
+b	be	like an English b. close to pronunciation of SPAN v.
+c	ce	like ENG k in most cases. Before e or i, like an s
+ch	che	RAE not considered a letter anymore, sounds like ch in cheese.
+d	de	like ENG d, but tongue against upper teeth instead of roof.
+                - often sounds like a whispery th sound, esp between two vowels.
+e	e       like the eh in ENG mate omitting the tailing ee sound.
+f	efe	ENG f.
+g	ge	ENG g,except before e or i, harsh CHTH akin to ENG h. Very similar to SPAN j.
+h	hache	Silent delimitation and aspiration, except words from other langs EG Hawái .
+i	i	ENG  ee but shorter. Before the vowels a, e, and o, it makes a y sound.
+j	jota	ENG h varies by location/dialect; can be harsh spitting in back of throat.
+k	ka	uncommon in Spanish, ENG  k but with less breath.
+l	ele	ENG l, but raise tongue closer to roof of mouth rather than dipped down.
+ll	elle	RAE not considered a letter anymore, like ENG y, but LATAM zsh ssh ch ..
+m	eme	ENG m.
+n	ene	ENG n.
+ñ	eñe	"nasal": completely separate letter from n, like ni in onion or ny in canyon.
+o	o	ENG o in so, but shorter.
+p	pe	close to ENG p, but with less breath.
+q	cu	always followed by the letter u and sounds like English k.
+r	ere	!?! DIFFICULT SAGA.
+-- sounds similar to the d sound in English caddy in most cases, "inside" a word, but ..
+-- at the beginning of a word, or when doubled up, it has a trilled sound DRRRRRacula
+s	ese	ENG s
+t	te	Softer than ENG t, SPA tongue touches the teeth, no explosion of breath after.
+u	u	ENG oo in food, but shorter.
+v	ve	like SPA b. lips do not touch, less aspiration.
+w	doble ve  - not native to Spanish, but sounded like English w.
+x	equis   usually pronounced like the ks in English socks. However, ..
+-- in place and person names (especially those from Mexico), can be pronounced hh zsh ssh 
+y	i griega    Mostly English y in yes. At end of a word, it sounds like the letter i.
+z	zeta	ENG s, but in Barcelona ENG th - also in many other parts of Spain.
+
+
+################################################################
+
+# SPANISH USEFUL STARTER EXPRESSIONS
+
+################################################################
+
+- nombre = Fred   apellido = Bloggs
+
+- que es su nombre? Fred
+
+- que es su apellido?  = Bloggs
+
+- como se llamo? Fred Bloggs
+
+- do you speak spanish?¿   = hablas español?
+
+- what is the date today = ¿Cuál es la fecha de hoy?
+
+- who is that? = ¿quien es ese?
+
+- who did that? = ¿quien hizo eso?
+
+- who did that to you? = quien te hizo eso?
+
+
+
+
+
+################################################################
+
+# WORDS - SOME INTRO HELPERS AKA AUXs: HACER TENER HABER ESTAR SOY
 
 ################################################################
 
@@ -235,9 +343,11 @@ http://tureng.com/en/german-english/kennen
 
 - haber - AUX to have ITSO perfect tenses "I have created ST"
 
-- estar - AUX to be ITSO progressive tenses "I am / was doing ST"
+- estar - to be and AUX ITSO progressive tenses "I am / was doing ST"
 
 - ser - "to be" NOT AUX, just ITSO "I am English" (permanent equate)
+
+-- COMPLICATION TO IGNORE FOR NOW: ser also has an AUX usage, in passive voice.
 
 - hacer: hace buen tiempo hoy = The weather today is good
 
@@ -285,10 +395,10 @@ http://tureng.com/en/german-english/kennen
 - el culebra macho / la culebra hembra
 
 
-### MAS NOUNS RULE: ending -o -s -r -l -n -ma -grama => MAS 
+### MASC NOUNS RULE: ending -o -s -r -l -n -ma -grama => MASC 
 
 
-### MAS nouns ending in a consonant often have corresponding FEM ending -a.
+### MASC nouns ending in a consonant often have corresponding FEM ending -a.
 
 - esp -or MASC => -a FEM
  
@@ -315,7 +425,7 @@ el artista / la artista
 
 -- and "one by one" stepping off a boat goes "una persona, y una, y una.." 
 
--d esp -ad => FEM eg. la pared, la edad, la ciudad [the final d is very quiet, almost silent]
+-d esp -ad => FEM eg. la pared, la edad, la ciudad (the final d is very quiet, almost silent)
 
 la televisión
 la decisión
@@ -329,32 +439,37 @@ la gratitud
 la certidumbre
 la muchedumbre
 
-### Beware these nouns that end in -a but are MAS
+### Beware these nouns that end in -a but are MASC
 
 - esp Many nouns that end in -ma are masculine. 
 
-el problema
-el telegrama
-el programa
-el mapa
-el sistema
-el poema
-el tema
-el clima
-el idioma
+### MASC nouns MCU ending in -a are exceptions that must be memorized:
+
+- NB ALL THESE ARE CHECKED CORRECT! Ignore any suggestions otherwise.
+
+el agua ! ALSO a GENDER-BENDER !! doubly irregular.
 el día
 el mapa
 el planeta
 el sofá
-el ala = wing
+el ala
 el cura = priest
+el centinela <THINK sentinel> = sentry, guard
+el machista = male-chauvinist-pig
 el electricista = electrician
+el carterista = pickpocket
+el esfera = sphere, spherical face
+el problema
+el programa
+el sistema
+el telegrama
+el poema
+el tema
+el clima
+el idioma = language <FF>
 
 - Beware the few nouns that end in -ma but are feminine: la cama, la pluma.
 
-### 5 MAS nouns that end in -a are simply exceptions and must be memorized.
-
-el día, el mapa, el planeta, el sofá, el cura
 
 ### Notable nouns that end in -o are feminine: la mano, la radio
 
@@ -373,7 +488,7 @@ el día, el mapa, el planeta, el sofá, el cura
 
 - + same happens in other cases too.
 
-### Besides above nouns, several slightly change meaning between MAS and FEM eg. ..
+### Besides above nouns, several slightly change meaning between MASC and FEM eg. ..
 
 - el optico = optician  [BUT..]
 
@@ -470,17 +585,19 @@ http://users.ipfw.edu/JEHLE/VERBLIST.HTM
 
 ## REGULAR, IRREGULAR, AUXILIARIES, STEM-CHANGE, FUNNY-PRETERITE, etc.
 
-- Altho it is helpful to distinguish REGULAR, IRREGULAR, ..
+- Altho it is helpful to distinguish verbs as REGULAR, IRREGULAR, ..
 
--- and obviously necessary to give special attention to AUXILIARIES,
+-- and obviously necessary to give special attention to AUXILIARIES, ..
 
-- truly "REGULAR" is rare, all REGULARs have some complication as follows ..
+--- REGULAR vs IRREGULAR distinction is blurry if applied to one specific verb, ..
 
--- STEM-CHANGE in SPA often happens in REGULAR as well as IRREGULAR,
+---- better to apply the distinction to 1 tense or even 1 person.
 
---- so many REGULAR aren't really really regular,
+- "slightly IRREG" is very common, "almost-REG"s with tiny complication EG ..
 
--- likewise FUNNY-PRETERITE is not exclusively in IRREGULAR.
+-- STEM-CHANGE in SPA often happens, MCU is o => ue.
+
+-- likewise FUNNY-PRETERITE is common.
 
 
 
@@ -525,16 +642,32 @@ partir: parto, partes, parte, partimos, partís, parten
 
 0. The preterite - aka simple past - is exactly that, eg. yesterday I played tennis with Jon.
 
-1. Imperfect tense: formed in ENG w auxiliary 'used' + to-infinitive, eg. I used to go pub-crawling with John
+1. Imperfect tense: used for indefinite past - MCU!
+-- imperfect is used generally in the narated past where ENG preterite would be used.
+-- Sometimes, not quite exactly, equivalent ENG w 'used' + to-infinitive, EG I used to play tennis with John.
+-- BUT COMPLICATION: imperfect has MCU than merely ITSO ENG "..used to.."
+-- COMPLICATION FURTHER: ENG "..used to.." often translates with SPA AUX soler, instead of SPA imperfect.
 
 2. The pluperfect tense - aka past perfect: formed in ENG w auxiliary 'had' + past participle.
 
 ## VERB THEORY: THE SUBJUNCTIVES AND THE 2 CONDITIONALS: LATER! 
 
+- for now, be aware of SPA subjunctive, 
 
-Past-Anterior / relative-past / preterite-perfect = 1 event in the past before (relative to) another event in the past
+- classic case: "Dudo que .. <SUBJ>" = "I doubt that .." then whatever stanza follows must go SUBJ.
+ 
+
+### VERB THEORY: SPA Past-Anterior / relative-past / preterite-perfect ALMOST NEVER SEEN
+
+- Past-Anterior AKA relative-past AKA preterite-perfect = ..
+
+- 1 event in past before (relative to) another event in past
+
+- can be ignored altogether except you should be able to identify it.
 
 - the event (exp past-anterior) has completely terminated before the main event
+
+### VERB THEORY: PERFECT TENSES SPA + ENG ARE BASICALLY IDENTICAL
 
 - as in English, all perfect tenses form by auxiliary to-have (haber) + past-participle 
 
@@ -553,9 +686,18 @@ Future-Perfect = ENG will + have + past-participle SPA
 
 - In particular, the first thing a beginner SPA student notices is how direly MCU IMPORTANT the SPA VR seems, ..
 
-- The SPA VR is everywhere, in all sorts of places where something else would be used in ENG; so ..
+- The SPA VR is everywhere, in all sorts of places where something else would be used in ENG.
 
-- Verbs function in different ways: 
+### SPA COMPLICATION with PRONOUNS ..
+
+- Often SPA inserts an extra pronoun - MCU "..lo.." where none would occur in ENG,
+
+- this "extra lo" seems redundant, connecting the verb with 2 objects saying the same thing.
+
+- basically, this ties in with SPA different way of using reflexive verbs VRs.
+
+
+### RECALL how Verbs function in different ways: 
 
 - Some (a) can need direct objects, (b) others don't, and some (c) perform the action on the subject itself. 
 
@@ -609,6 +751,14 @@ Future-Perfect = ENG will + have + past-participle SPA
 - En su cama only provides extra information about where. 
 
 - You could have the one word sentence: Duerme. <ENG she's sleeping but literally "She sleeps">
+
+- Same applies to entrar <VI> enter, go in, come in.
+
+-- ¿Quién entró en la casa? = Who entered the house? <NB because VI, NO DIRECT OBJ so "en la casa">
+
+- NB this consturction with a SPA VI that owuld have VT-like usage in ENG.
+
+- cannot say "entered the house" ENG VI because entrar is VI in SPA
 
 - NOTICE UP FRONT THE DIFFICULT REFLEXIVE gustar (to be pleasing) - Me gustan los plátanos. 
 
@@ -672,7 +822,7 @@ Se casaron. (They got married (to each other).)
 
 ############################################################
 
-# REGULAR VERBS TOP-100
+# REGULAR VERBS TOP-200
 
 ############################################################
 
@@ -680,11 +830,19 @@ Se casaron. (They got married (to each other).)
 
 ## VERBS: THE 3 REGULAR PRESENT INDICATIVES -ar -er -ir
 
-- 2 broad patterns for regulars: -ar and -er/ir - but can think 3 for completeness:
+- 2 patterns for regulars: -ar and -er/ir - but can think 3 for completeness:
 
 -- hablar - speak  hablado/hablando  = hablo hablas habla hablamos hablan (hablan)
 -- comer  - eat    comido/comiendo   = como  comes  come  comemos  comen  (comen)
 -- partir - leave  partido/partiendo = parto partes parte partimos parten (parten)
+
+- NB 1-PER-PL IN PRES IND - comemos vs partimos - only column where -er and -ir differ.
+
+- AND THIS DIFFERENCE IS JUST IN THIS 1 TENSE - ALL OTHER TENSES SAME. 
+
+= !THIS IS GOLD! CRITICAL! POINT! -er and -ir are SAME THING, except for that 1 MINOR DETAIL!!
+
+- So you need never bother with -er vs -ir baggage - just think of them as the same thing.
 
 - above follows LATAM convention without ESPA vosotros .. is 2ND-PLUR
 
@@ -697,33 +855,44 @@ Se casaron. (They got married (to each other).)
 
 ### -ar REGULAR SUSPECTS
 
-- amar   - love :                amado/amando      = amo amas ama amamos amáis aman
-- crear  - create, bring, earn:  creado/creando    = creo creas crea      creamos crean
-- echar  - throw :               echado/echando    = echo echas echa      echamos echan
-- escuchar - hear:            escuchado/escuchando = escucho escuchas escucha escuchamos escuchan
-- llevar - bring [MC heave]:     llevado/llevando   = llevo llevas lleva   llevamos llevan
-- pasar -  pass, happen [MC]:    pasado/pasando     = paso pasas pasa       pasamos pasan  
-- repasar -review,revise [MC]:   repasado/repasando = repaso repasas repasa repasamos repasan 
-- pasear - take a walk:          paseado/paseando   = paseo paseas pasea    paseamos pasean 
+- the 2ND-PLUR -áis form is mostly removed for brevity
+
+- pasar -  pass, happen       =  pasado/pasando     : paso pasas pasa   pasamos  pasáis pasan  
+- repasar - review,revise     =  repasado/repasando : repaso repasas repasa repasamos repasan 
+- pasear - take a walk        =  paseado/paseando   : paseo paseas pasea    paseamos pasean  
+- quedar  - stay,remain       =  quedado/quedando   : quedo quedas queda    quedamos quedan 
+- escuchar - hear           =  escuchado/escuchando : escucho escuchas escucha escuchamos escuchan
+- llevar - bring <think heave> =  llevado/llevando  : llevo llevas lleva   llevamos llevan
+- conllevar - carry           = conllevado/conllevando  : conllevo ..
+- dejar  - let, leave         =   dejado/dejando    : dejo dejas deja       dejamos dejan
+- llamar - to call, to name:     llamado/llamando   = llamo llamas llama   llamamos llaman
 - desear - desire,want [MC]:     deseado/deseando   = deseo deseas desea    deseamos desean 
-- prestar - lend/borrow [MC]:    prestado/prestando = presto prestas presta prestamos prestan 
-- quedar  - stay,remain:         quedado/quedando   = quedo quedas queda    quedamos quedan 
-- quitar - remove, take away:    quitado/quitando     = quito quitas quita    quitamos quitan
-- viajar - travel, journey:      viajado/vaijando     = viajo viajas viaja    viajamos viajan	
-- mirar  - look at, watch, observe:    mirado/mirando = miro miras mira miramos miráis miran
-- mudar  - move house/home/residence:  mudado/mudando = mudo mudas muda mudamos mudáis mudan
+- prestar - lend/borrow [MC]:    prestado/prestando = presto prestas presta prestamos prestan
+- quitar - remove, take away:    quitado/quitando    = quito quitas quita  quitamos quitan
+- viajar - travel, journey:      viajado/vaijando    = viajo viajas viaja  viajamos viajan	
+- mirar  - look at, watch, observe:    mirado/mirando = miro miras  mira   miramos miran
+- dudar  - doubt               = dudado/dudando : dudo dudas duda dudamos dudan
+- mudar  - move house/home/residence:  mudado/mudando = mudo mudas  muda   mudamos mudan
 - mudarse
+- echar  - throw              =  echado/echando     : echo echas echa      echamos echan
+- cosechar - reap, crop <REG> =  cosecha[n]do       : cosecho cosechas cosecha 
+- flechar  - shoot with an arrow, sweep off (Romantic connotation) = flecha[n]do : flecho
+- terminar - to finish, end:   terminado/terminando  = termino terminas termina terminamos terminan
 - esperar - hope:              esperado/esperando =
 - hallar  - find:              hallado/hallando   = 
 - hallarse =  be located at .., to find oneself at .. <ALTS: encontrarse, estar >
 - tratar - treat, handle:      tratado/tratando   = trato tratas trata    tratamos tratan
 - ahorrar - save(money) [MC]:  ahorrado/ahorrando = ahorro ahorras ahorra ahorramos ahorran 
-- ganar  - win,gain,earn [MC]: ganado/ganando     = gano ganas gana       ganamos ganan  
-- dejar  - let, leave [MC]:    dejado/dejando     = dejo dejas deja       dejamos dejan  
+- tomar  - take, drink      :  tomado/tomando     = toma tomas toma tomamos toman
+- acabar - end, finish with :  acabado/acabando   = acabo acabas acaba acabamos acaban
+- usar   - use              :  usado/usando       = uso usas usa  usamos usan
+- amar   - love :                amado/amando     = amo amas ama  amamos aman
+- crear  - create, bring, earn:  creado/creando    = creo creas crea      creamos crean
+- ganar  - win,gain,earn [MC]: ganado/ganando     = gano ganas gana       ganamos ganan 
 - gastar - use up, spend [MC]: gastado/gastando   = gasto gastas gasta    gastamos gastan
 - llorar - cry, weep:          llorado/llorando   = lloro lloras llora    lloramos lloran
 - bloquear - block off:        bloqueado/bloqueando = bloqueo bloqueas bloquea bloqueamos bloquean
-- buscar   - search, look for: buscado/buscando   = busco buscas busca    buscamos buscan
+- montar -  get in, ride, assemble montado/montando = monto montas monta montamos montan
 - bucear  - dive, scuba-dive   buceado/buceando   = buceo buceas bucea    buceamos bucean
 - comprar - buy, purchase      comprado/comprando = 
 - descansar - rest         descansado/descansando = descanso	descansas descansa descansamos descansan
@@ -732,6 +901,7 @@ Se casaron. (They got married (to each other).)
 - cancelar - cancel, stamp:    cancelado/cancelando = cancelo cancelas cancela cancelamos cancelan 
 - olvidar  - forget            olvidado/olvidando = olvido olvidas olvida olvidamos olvidan 
 - ocupar   - occupy 	          ocupado/ocupando   = ocupo ocupas ocupa    ocupamos ocupan
+- odiar    - hate              odia[n]do          = odio odias odia odiamos odiáis  odian 
 - enviar   - send (letter)     enviado/enviando   = envio envias envia    enviamos envian
 - gritar   - shout             gritado/gritando   = grito gritas grita    gritamos gritan
 - dibujar  - draw              dibujado/dibujando = dibujo dibujas dibuja dibujamos dibujan
@@ -739,24 +909,98 @@ Se casaron. (They got married (to each other).)
 - bailar  - dance:             bailado/bailando     = bailo bailas baila      bailamos bailan
 - caminar - walk, go:          caminado/caminando   = camino caminas camina   caminamos caminan
 - cocinar - cook:              cocinado/cocinando   = cocino cocinas cocina   cocinamos cocinan
-- arrojar - throw [away] (MCU ITSO garbage out bus windows) = arrojado/arrojando arrojo arrojas
-- tirar - throw (ALT ITSO chucking away / discarding) = tirado/tirando tiro tiras tira tiramos tiran
+- arrojar - throw [away] <MCU ITSO garbage out bus windows> = arrojado/arrojando arrojo arrojas
+- tirar - throw <ALT ITSO chucking away / discarding> = tirado/tirando tiro tiras tira tiramos tiran
 - brindar - offer, to toast    brindado/brindando = brindo brindas brinda  brindamos brindan
-- disfrutar - enjoy:           disfrutado/disfrutando = disfruto disfrutas disfruta disfrutamos disfrutan
+- disfrutar - enjoy:       disfrutado/disfrutando = disfruto disfrutas disfruta disfrutamos disfrutan
+- culpar    - blame
 - disculpar - apologise:
 - disculparse - apologise
 - disimular - conceal, disguise: disimulado/disimulando   = disimulo disimulas disimula disimulamos
 - enseNar - teach:             enseñado/enseñando         =  enseño enseñas enseña   enseñamos enseñan
 - empeorar - get worse, deteriorate: empeorado/empeorando = empeoro empeoras empeora empeoramos empeoran
+- extrañar = miss, come as a surprise, no wonder ..
+- formar  - form, shape, fashion, make : formado/formando = formado formadas formada formadamos formadan
+- formar <GROUP MCU: conformar, informar, reformar, deformar>
 - mejorar  - improve:          mejorado/mejorando   = mejoro mejoras mejora   mejoramos mejoran
 - superar - exceed, overcome:  superado/superando   = supero superas supera   superamos superan
+- aceptar - accept, approve, to agree to = acepta[n]do : acepto aceptas acepta aceptamos aceptan	
 - visitar - visit:             visitado/visitando   = visito visitas visita   visitamos visitan
+- fijar   - fix, fasten, secure  = fijado/fijando : fijo fijas fija fijamos fijan
+- fijarse -  pay attention [to]
 - contestar - answer:      contestado/contestando   = contesto contestas contesta  contestamos contestan
 - conversar - converse:    conversado/conversando   = converso conversas conversa  conversamos conversan
 - [ex]cavar - dig:         [ex]cavado/cavando       = cavo cavas cava cavamos cavan <excavar means+conjugates same>
 - susurrar - whisper:     susurrado/susurrando     = susurro susurras susurra susurramos susurran
-- soplar   - blow:        soplado/soplando        = solplo solplas solpla solplamos solplan
-- demandar - sue, legally demand: demandado/demandando = demando demandas demanda demandamos demandan
+- soplar   - blow:        sopla[n]do               = soplo soplas sopla soplamos soplan
+- demandar - sue, legally demand: demanda[n]do     = demando demandas demanda demandamos demandan
+- botar   - fling, launch:       botado/botando     = boto botas bota botamos botan
+- necesitar - need, require: necesitado/necesitando  = necesito necesitas necesita necesitamos necesitan
+- entrar - enter, go in, come in =  entrado/entrando : entro
+- resultar - turn out (to be) =                      = resulta[n]do : resulto 
+- cambiar - change <ITSO money, also cash a cheq>   = cambia[n]do :  cambio  
+- preguntar - question, ask [a question], inquire = pregunta[n]do : pregunto
+- ubicar    - locate                              = ubica[n]do : ubico
+- mencionar - mention, name, refer to             = menciona[n]do : menciono mencionas menciona
+- lograr    - get, obtain, to achieve, attain     = logra[n]do : logro logras logra
+- presentar - introduce
+- representar - represent 
+- preparar    - prepare, get (something) ready
+- considerar - consider
+- evitar     - avoid, to prevent 
+- acompañar  - accompany
+- mandar     - order (give an order), to send 	
+- asegurar   - assure, secure, insure, ensure < TODO insure? really? not just ensure? > 	
+- matar      - kill, slaughter 	
+- estudiar   - study	
+- ayudar     - help 
+- observar   - observe 
+- imaginar   - imagine 	
+- desarrollar - develop, expand, to unroll, unwind, to unfold 	
+- señalar    - point out, indicate, signal
+- aprovechar - take advantage of	
+- apoyar     - support, hold up, to back
+- votar      - vote	
+- tornar     - return, become
+- tornarse   - become
+- apurar     - drain <ITSO to the last drop, often FIG>, to exhaust
+- apurarse   - hurry up, exert yourself as much as possible
+- ordenar    - order, sort out, tidy up
+- reclamar   - demand, protest, complain
+- salvar     - save, rescue, except, exclude 	
+- levantar   - raise, to lift 
+- trabajar   - work
+- expresar   - express, voice, state
+- guardar    - guard, protect, to keep
+- bajar      - lower, go down, descend, download, get off a vehicle
+- cortar     - cut
+- jalar      - pull <NB often written on doors next to empujar>
+- empujar    - push <NB often written on doors next to empujar>
+- citar      - to cite, quote, mention, 
+- citarse    - [arrange to] meet up with, make a date with, make a rendezvous with
+- solicitar  - request <think solicit>
+- expresar   - express, voice, state
+- iniciar    - initiate, begin, start
+- notar      - note, notice, observe
+- alegrar      = make happy, please
+- alegrarse    = be happy, be glad, become happy
+- reclinar   - recline
+- espolvorar   = sprinkle
+- desgarrar    = tear
+- desdinerar   = demarcate <ALT demarcar >
+- demarcar     = demarcate < ALT desdinerar>
+- [re]tardar   = delay, retard
+- contrafirmar = contradict
+- acollonar    = plug in <ITSO attach a device into power socket>
+- acarrear     = bring
+- mimar        = pamper
+- revelar      = reveal VT TODO check
+- ligar        = tie VT TODO check
+- subastar     = auction
+- publicar     = publish
+- preocupar[se] = worry
+
+
 
 ### -er REGULAR SUSPECTS
 
@@ -790,6 +1034,7 @@ suceder FF - happen, follow:  sucedido/sucediendo = <SAME> <FF> sucedo sucedes s
 - vivir    - to live:        vivido/viviendo            = vivo vives vive vivímos viven
 - admitir  - to admit:       admitido/admitiendo       = admito admites admite admitimos admiten
 - asistir  - to asist:         asistido/asistiendo     = asisto asistes asiste asistimos asisten 
+- agredir  - to attack         agredido/agrediendo     = agredo agredes agrede agredimos agreden
 - aNadir   - to add, increase  añadido/añadiendo       = añado añades añade añadimos añadís añaden
 - aplauder - to applaud, cheer:  aplaudido/aplaudiendo = aplaudo aplaudes aplaude aplaudimos aplauden
 - consumir - to consume:      consumido/consumiendo    = consumo consumes consume consumimos consumen
@@ -810,7 +1055,7 @@ suceder FF - happen, follow:  sucedido/sucediendo = <SAME> <FF> sucedo sucedes s
 
 ############################################################
 
-## VERBS: NEXT-100 -AR REGULAR (AND ALMOSTS) (REST OF THEM) LIST
+## VERBS: NEXT-100 -AR ALMOST-REGULAR IRREGS LIST
 
 ############################################################
 
@@ -818,85 +1063,97 @@ suceder FF - happen, follow:  sucedido/sucediendo = <SAME> <FF> sucedo sucedes s
    S3 = STEM-CHANGE GROUP-3
    F5 = FUNNY-PRETERITE GROUP-5
 
+- complicated -
 
-llegar F5 to arrive, come, reach        = llegado/llegando : llego llegas llega    llegamos llegan
-llevar    to carry, bring 	
-dejar 	  to leave, abandon, to let, allow 	
-llamar    to call, to name 	
-   tomar 	to take, drink
-   tratar 	to treat, handle 
-21 	terminar 	to finish, end 		
-23 	sacar 		to take out, stick out 	
-24 	necesitar 	to need, require 	
-25 	resultar 	to turn out (to be)	
-27 	cambiar 	to change 	
-28 	presentar 	to introduce 	
-29 	crear 		to create, to make 	
-30 	considerar 	to consider 	
-31 	acabar 		to finish, end 	
-32 	ganar 		to win, gain, earn, get, acquire 	
-33 	formar 		to form, shape, fashion, make
-35 	aceptar 	to accept, approve, to agree to 	
-36 	realizar 	to achieve, attain, accomplish 	
-37 	lograr 		to get, obtain, to achieve, attain 	
-38 F5	explicar 	to explain 	
-39 	preguntar 	to ask, inquire 	
-40 F5	tocar 		to touch, to play (an instrument) 	
-41 	estudiar 	to study 	
-42 	alcanzar 	to reach, catch up 	
-45 	utilizar 	to use, utilize 	
-46 	pagar 		to pay, pay for 	
-47 	ayudar 		to help 	
-48 	gustar 		to please, be pleasing 	
-49 	escuchar 	to listen, hear 	
-70 	importar 	to import, to be important 	
-71 	observar 	to observe 	
-72 	indicar 	to indicate 	
-73 	imaginar 	to imagine 	
-74 	desarrollar 	to develop, expand, to unroll, unwind, to unfold 	
-75 	señalar 	to point out, indicate, to signal
-76 	preparar 	to prepare, get (something) ready 	
-77 	significar 	to signify, mean 			 		
-17 	entrar 		to enter, go in, come in 	
-18 	trabajar 	to work 
-51 	levantar 	to raise, to lift 	
-52 	intentar 	to try, attempt 	
-53 	usar 		to use 
-57 	ocupar 		to occupy 	
-58 	continuar 	to continue 
-60 	acercar 	to bring near 	
-61 	dedicar 	to dedicate 
-65 	evitar 		to avoid, to prevent 	
-66 	interesar 	to interest, be of interest (to) 	
-67 	echar 		to throw, cast, fling 
-79 	faltar 		to lack, be lacking, be missing 	
-80 	acompañar 	to accompany 	
-81 	desear 		to desire, want, wish 	
-82 	enseñar 	to teach, instruct, train, educate 
-84 	representar 	to represent 	
-85 	mandar 		to order (give an order), to send 	
-86 	asegurar 	to assure, secure, insure 	
-87 	matar 		to kill, slaughter 	
-88 	entregar 	to deliver, hand over 	
-89 	colocar 	to locate, place 	
-90 	guardar 	to guard, protect, to keep 	
-91 	iniciar 	to initiate, begin, start 	
-92 	bajar 		to lower, go down, descend, download 	
-93 	notar 		to note, notice, observe
-95 	actuar 		to act, perform, operate 	
-96 	cortar 		to cut 
-98 	lanzar 		to throw, hurl, cast, fling 	
-99 	aprovechar 	to take advantage of 	
-100 	apoyar 		to support, hold up, to back 	
-101 S2  despertarse     to wake up, get up, rise
+andar      F1 walk, go             anda[n]do   : ando andas anda andamos andáis  andan
+desandar   F1 retrace a journey desanda[n]do   : desando desandas <.. SAME>
+estar      F1 <YES! estar is an IRREG -ar verb, in the group (andar,desandar,estar) - see elsewhere >
 
-103     apurar          to drain <ITSO to the last drop, often FIG>, to exhaust
-104     apurarse        to hurry up, exert yourself as much as possible
-106     ordenar         to order, sort out, tidy up
-107     reclamar        to demand, protest, complain
-108     solicitar       to request <think solicit>
+gustar     S0 please, be pleasing           = gusta[n]do :    gusto gustas gusta gustamos gustáis gustan
+interesar  S0 interest, be of interest (to) = interesa[n]do : intereso	
+faltar     S0 lack, be lacking, be missing  = falta[n]do    : falto
+importar   S0 import, be important 	    = importa[n]do  : importo
+costar     S1 cost       costa[n]do            : cuesto  cuestas   cuesta   costamos  costáis  cuestan
+acostar    S1 go to bed  acosta[n]do           : acuesto acuestas  acuesta  acostamos acostáis acuestan
+acostarse  S1 put to bed <ITSO SB else, child, guest> 
+acordar    S1 agree     = acorda[n]do         : acuerdo  acuerdas  acuerda  acordamos  acordáis  acuerdan
+almorzar   S1 lunch     =  almorza[n]do       : almuerzo almuerzas almuerza almorzamos almorzáis almuerzan
+solar      S1 pave         = sola[n]do        : suelo    suelas     suela     solamos     soláis     suelan
+asolar     S1 destroy      = asola[n]do       : asuelo   asuelas    asuela    asolamos    asoláis    asuelan 
+apostar    S1 bet          = aposta[n]do      : apuesto  apuestas   apuesta   apostamos   apostáis   apuestan
+amoblar    S1 furnish      =  amobla[n]do     : amueblo  amueblas   amuebla   amueblamos  amuebláis  amueblan 
+colar      S1 strain, slip =  cola[n]do       : cuelo    cuelas    cuela     colamos    coláis    cuelan 
+forzar     S1 force     = orza[n]doforzando   : fuerzo   fuerzas   fuerza    forzamos   forzáis   fuerzan
+reforzar   S1 reinforce = reforza[n]do        : refuerzo refuerzas refuerza  reforzamos reforzáis refuerzan
+rodar      S1 roll        = roda[n]do         : ruedo     ruedas     rueda     rodamos   rodáis    ruedan
+mostrar    S1 show        = mostra[n]do        : muestro   muestras   muestra   mostramos   muestran
+demostrar  S1 demo        = demostra[n]do       : demuestro demuestras demuestra demostramos demuestran
+acordar    S1 decide, resolve, agree (on) = acorda[n]do : acuerdo acuerdas acuerda ..
+poblar     S1 populate        = pobla[n]do    : pueblo   pueblas    puebla   poblamos    pueblan
+repoblar   S1 repopulate       = repobla[n]do : repueblo  repueblas  repuebla repoblamos repueblan
+recordar   S1 remember, remind = recorda[n]do : recuerdo recuerdas recuerda   recordamos recuerdan
+soltar     S1 loosen    solta[n]do            : suelto    sueltas    suelta   soltamos    soltáis    sueltan
+sonar      S1 sound     sona[n]do             : sueno     suenas     suena    sonamos     sonáis     suenan
+soNar      S1 dream <SAME but n=>N>
+volar      S1 fly         = vola[n]do          : vuelo     vuelas     vuela     volamos     voláis     vuelan
+probar     S1 try out     = proba[n]do         : pruebo    pruebas    prueba    probamos    probáis    prueban
+aprobar    S1 approve     = aproba[n]do        : apruebo   apruebas   aprueba   aprobamos   aprobáis   aprueban
+comprobar  S1 verify      = comproba[n]do      : compruebo compruebas comprueba comprobamos comprobáis comprueban 
+encontrar  S1 encounter     = enconta[n]do     : encuentro encuentras encuentra encontramos encontráis encuentran
+contar     S1 ! count       =  conta[n]do      : cuento    cuentas    cuenta    contamos    cuentáis   cuentan
+descontar  S1 ! discount   = desconta[n]do     : descuento descuentas descuenta descontamos descuentáis descuentan
+despertar  S2 wake up, get up, rise
+tocar    F5 touch, play (an instrument) = toca[n]do  : toco tocas toca    tocamos tocan
+buscar   F5 search, look for:           = busca[n]do : busco buscas busca buscamos buscan
+acercar  F5 bring near
+colocar  F5 locate, place 
+dedicar  F5 dedicate
+educar   F5 educate
+empacar  F5 pack
+explicar F5 explain
+fabricar F5 fabricate
+hincar   F5 sink
+hincarse F5 lie down
+indicar  F5 indicate 
+pescar   F5 fish 
+sacar    F5 take out, stick out	
+secar    F5 dry
+llegar   F6 arrive, come, reach         = llega[n]do : llego llegas llega llegamos llegan
+pagar    F6 pay, pay for 
+apagar   F6 switch off
+entregar F6 deliver, hand over, hand in
+jugar    F6 play (a game or sport)      juga[n]do    : juego juegas juega jugamos juegan 
+negar    F6 deny, refuse
+desnegar F6 gainsay - deny-a-denial <SAME as NEGAR>	
+renegar  F6 to deny vigorously, detest, abhor, renegade, apostatize, swear, blaspheme <FF renege>
+pegar    F6 deny, refuse
+pensar   S2     think              = pensa[n]do pensando : pienso piensas piensa pensamos piensan	
+cerrar   S2     close, shut        = cerra[n]do cerrando : cierro cierras cierra cerramos cierran
+comenzar S2+F7  begin, start, commence = comenza[n]do : comienzo comienzas comienza comenzamos comienzan
+empezar  S2+F7  begin, start, commence = empeza[n]do  : empiezo empiezas empieza empezamos empiezan
+almorzar S2+F7  have lunch             = almorza[n]do : almuerzo almuerzas almuerza almorzamos almorzáis almuerzan
+abrazar  F7     hug, embrace           = abraza[n]do  : abrazo abrazas abraza    abrazamos abrazáis abrazan
+alcanzar F7     reach, catch up        = alcanza[n]do : alcanzo alcanzas alcanza alcanzamos  alcanzan
+amenazar F7     menace, threaten       = amenaza[n]do : amenazo amenazas amenaza amenazamos  amenazan
+cruzar   F7    cross                   = cruza[n]do   : cruzo
+lanzar   F7   throw, launch <FR lancer> = lanza[n]do  : lanzo
+gozar    F7   enjoy                    = goza[n]do    : gozo
+rezar    F7   pray <ALT rogar>         = reza[n]do    : rezo
+realizar F7 <!FALSE-FRIEND!> achieve, attain, accomplish = realiza[n]do : realizo
+tropezar F7   trip up, stumble.        = tropeza[n]do : tropezo
+utilizar F7   use, utilize             = utiliza[n]do : utilizo
 
-recordar  remember, remind  recordado/recordando  = recuerdo recuerdas recuerda recordamos recuerdan
+
+############################################################
+
+## VERBS: NEXT-100 -AR REGULAR REST OF REGs LIST
+
+############################################################
+
+- TODO add candidates here then investigate
+
+
+
 
 
 
@@ -927,12 +1184,31 @@ partir: parto, partes, parte, partimos, partís (parten),  parten
 
 pronoun- yo ..,       tú ., él/UD ..,  nosotros .., vosotros ., ellos/UDS
 hablar - hablaré, hablarás, hablará,   hablaremos,   hablaréis,  hablarán
-comer  - comeré,  comerás,   comerá,   comeremos,     comeréis,  comerán
+comer
+  - comeré,  comerás,   comerá,   comeremos,     comeréis,  comerán
 partir - partiré, partirás, partirá,   partiremos,   partiréis,  partirán
 
 - RULE: using the infinitive as a stem - plain ol' verb, no exceptions, no complications ..
 
 -- append: é, -ás, -á, -emos, -éis, -án  REGARDLESS OF THE VERB, ITS STEM, ANYTHING.
+
+- also regardless even of irregulars: irregs have same endings too, just strange stems: 
+
+### IRREGULAR FUTURES ALSO EZ - LIST:
+
+haber  yo habré
+poder  yo podré
+tener  yo tendré
+hacer  yo haré
+poner  yo pondré
+decir  yo diré
+venir  yo vendré
+querer yo querré
+valer  yo valdré
+saber  yo sabré
+salir  yo saldré
+caber  yo cabré
+
 
 
 ## PRESENT PERFECT
@@ -980,19 +1256,25 @@ partir -  habré partido, habrás <>, habrá <>,  habremos <>, habréis <>,  hab
 pronoun- yo .., tú ., él/UD .., nosotros .., vosotros ., ellos/UDS
 hablar - hablé, hablaste, habló,   hablamos, hablasteis, hablaron
 comer  - comí,  comiste,  comió,    comimos,  comisteis, comieron
-partir - partí, partiste, partió,   abrimos,  abristeis, abrieron
+partir - partí, partiste, partió,   partimos,  partisteis, partieron
 
-- COMPLICATION: 3RD-PERSON PRETERITE SPELLS SAME AS 1ST-PERSON PRESENT, ..
+- COMPLICATION: -ar 3RD-PERSON PRETERITE SPELLS SAME AS 1ST-PERSON PRESENT, ..
 
 - SO STRONG "O" IN PRETERITE DISTINGUISHES FROM SOFT "O" IN PRESENT.
 
 - Also, context is used to distinguish.
 
+- YA COMPLICATION: ALL 1ST-PERSON PLURAL PRETERITE + PRESENT ARE SAME ..
 
-## Imperfect tense: (ENG w AUX 'used-to' + infinitive):
--- I used to go speak/eat/leave
--- NB this rare EG of SPA not using an AUX where ENG does use one ..
--- .. because SPA doesn't have a "used-to" !?!
+-- (except -er has comemos vs comimos but pronunciation is almost same)
+
+- Only context can distinguish: spelling and pronunciation same (almost for -er).
+
+
+## Imperfect tense: (ENG equiv often AUX 'used-to' + infinitive):
+-- most generally, SPA imperfect is just a generalized, indefinite past, often in narrative.
+-- can be used where ENG would use AUX like "I used to go speak/eat/leave"
+-- but exact equiv of ENG AUX "used-to" is SPA AUX "soler", MCU.
 -- NB -ar verb's *aba* is quite different from others' *ia*
 
 pronoun - yo .., tú ., él/UD ..,     nosotros ., vosotros ., ellos/UDS
@@ -1031,7 +1313,7 @@ partir -  había partido, habías <>, había <>, habíamos <>, habíais <>,  hab
 - haber     habido/habiendo
 
 - PRESENT: he has ha hemos han
--- thought: sounds like FR avoir indicative present j'ai tu-as il-a nous-avons il-ont 
+-- <THINK: sounds like FR avoir indicative present j'ai tu-as il-a nous-avons il-ont >
 
 - IMPERFECT:  había habías había habíamos haías habían
 -- + PAST-PARTICIPLE of <VERB>  => imperfect of <VERB>
@@ -1071,6 +1353,30 @@ partir -  había partido, habías <>, había <>, habíamos <>, habíais <>,  hab
 - cuanto hay de aqui de Cusco?
 
 - queda lejos?
+
+#### HAY - more tenses (can skip on first reading)
+
+habrá Habra ..         = there will be 
+
+habrá subasta de pinturas = there will be auction of paintings
+
+había ..         = there were ..
+
+han habido ..     = there had been
+
+Habrá habido ..     = there will have been
+
+Habría habido ..    = there would have been
+
+there used to be .. = solia ser <!! BETTER THAN HAY!! SEE LATER "soler" >
+
+Dudo que hubiera .. =  I doubt there was ..
+
+Dudo que haya .. = I doubt there is ..
+
+Dudo que haya habido alguna vez .. = I doubt there had ever been ..
+
+<!! ENOUGH! YOU GET THE IDEA: ALL 3S ARE POSSIBLE! >
 
 
 
@@ -1286,6 +1592,106 @@ In contrast, verb estar is used together with past participle to indicate a stat
 
 
 
+############################################################
+
+# The NOTORIOUS RR ROLLED R
+
+############################################################
+
+- GOLD site:
+
+http://studyspanish.com/pronunciation?var_pronunciation=letter_r
+
+- Practicing  the Rolling R Sound - maybe the most challenging sound, intimidating.
+
+- Maybe think of the single and double r as two separate letters with two distinct sounds.
+
+- single untrilled "r" (aka "short r") is not ENG r either - it's more like ENG "dd"
+
+- besides rr being R, when else does R happen?
+
+- beginning of a word = RR, deep inside a word = r: Roberto Ramirez EXCEPT !! ..
+
+-- EXCEPT after an L, N or S you STILL do a RR, despite being "inside" a word!
+
+- NB!!! Roberto and Ramirez: first R is trilled, 2nd r is not.
+
+- carro = <ENG car> = 2 rrs because just 1 - caro - would be short-r
+
+- caro = <ENG expensive> = short-r because "in the middle of a word" IE between 2 vowels
+
+- single-r is used whenever the single R appears *IN* a word, ..
+
+- so not at the beginning of a word, ..
+
+- and not after an L, N or S; .
+
+- that's when trill-RR is used. 
+
+- So when letter R is at the beginning of a word or after L, N or S, use RR ..
+
+-- EG: Ramon, Sonrisa, Israel, Alrededor.
+
+- try saying English words Dracula, train, bronze, pretty.
+
+-- they start with D, T, B, or P and have an R as the second letter in the word
+
+--- that toungue position is what you want; the one you have after DR, TR, BR, PR
+
+- do this for several weeks !?!?!??
+
+- then try doing a rolling R just by itself, without another consonant
+
+- see:  http://www.wikihow.com/Roll-Your-%22R%22s
+
+- use this rhyme to practice your rolling Rs! 
+
+-- ”El perro de san Roque no tiene rabo, porque Ramón Ramirez se lo ha robado.”
+
+-- ”El peRRo de san RRoque no tiene RRabo, porque RRamón RRamirez se lo ha Robado.”
+
+
+- rolling r. Let's get rolling!
+
+- 1 RR ..
+Pongo esta caja aRRiba de la otra.
+I put this box on top of the other one.
+
+- 2 RRs ..
+El perro esta corriendo en la calle.
+The dog is running in the street.
+
+- Tengo un caRR de color verde.
+I have a green car.
+
+- Yo prendi la BBQ y ahora voy a poner la carne en la paRRilla.
+I lit the BBQ and now I'm going to put the meat on the grill.
+
+- Tengo que amaRRar los arbustos para ponerlos en la basura.
+I have to tie up the bushes to put then in the trash.
+
+- Ocupamos tener hieRRo en las dietas.
+We need iron in our diets.
+
+- La mesa esta hecha de fieRRo.
+The table is made of steel.
+
+- Tengo ganas de comer arroz con carne.
+I have a taste for rice with meat.
+
+- Mis zapatos estan llenos de tieRRa.
+My shoes are full of mud.
+
+- La carta tiene tres páRRafos.
+The letter has three paragraphs.
+
+- La llave goteando fue una iRRitación.
+The dripping faucet was an irritation.
+
+- Esperé porque no te quize inteRRumpir.
+I waited because I didn't want to interrupt you.
+
+
 
 ############################################################
 
@@ -1309,7 +1715,7 @@ have --- be --- have - make
 
 ## THEN 2 MORE MAKES BAKERS' DOZEN 
 
-- poner dicer
+- poner decir
 - put - say
 
 
@@ -1413,7 +1819,7 @@ tener     tenido/teniendo     = tengo tienes tiene tenemos tienen
 
 ### HACER
 
-04  hacer     hecho/haciendo      = hago haces hace hacemos hacen
+hacer     hecho/haciendo : hago haces hace hacemos hacen
 
 
 #### hacer egs.
@@ -1531,7 +1937,7 @@ tener     tenido/teniendo     = tengo tienes tiene tenemos tienen
 
 ## this, that, these, those ..
 
-- that = ese/esa --and-- "that one" is just "eso" <THINK neuter but really SPA has no neuter, just MAS>.
+- that = ese/esa --and-- "that one" is just "eso" <THINK neuter but really SPA has no neuter, just MASC>.
  
 - this = este/esta --and-- "this one" is just "esto".
 
@@ -1573,12 +1979,11 @@ tener     tenido/teniendo     = tengo tienes tiene tenemos tienen
 !!  tener have         tenido/teniendo     = tengo tienes tiene tenemos tienen
 < to have as a possession or quality, ITSO 'I got..' >		
 obtener get, obtain obtenido/obteniendo = obtengo obtienes obtiene obtenemos obtienen 
-mantener  maintain, get       <GOES LIKE TENER>	
+mantener  maintain, keep, get <GOES LIKE TENER>	
 detener   arrest, stop, hold up, delay, detain	
 obtener   obtain, get         <GOES LIKE TENER>		
 contener  contain, hold       <GOES LIKE TENER>	
 sostener  support, to hold up <GOES LIKE TENER>
-mantener  maintain            <GOES LIKE TENER>	
 atener     guard              <GOES LIKE TENER>	
 atenerse   abide by           <GOES LIKE TENER>	
 entretener entertain          <GOES LIKE TENER>	
@@ -1630,18 +2035,14 @@ envolver  wrap      envuelto/envolviendo    = envuelvo  envuelves  envuelve  env
 revolver  turn around  revuelto/revolviendo =    revuelvo revuelves  revuelve  revolvemos <SAME aa> <FF> 
 
 
-!! contar  count, tell, relate   contado/contando = cuento    cuentas    cuenta    contamos cuentáis cuentan
-descontar  discount  descuento descuentas descuenta = descontamos descuentáis descuentan <SAME aa>
-18  pensar    think             pensado/pensando    = pienso piensas piensa pensamos piensan	
-
-
 salir     leave, go out       salido/saliendo     = salgo sales sale salimos salen
 sobresalir  to excel, to stand out, to stick out  = sobresalgo sobresales  <SAME aa>
 resalir <almost same meaning as obresalir>        = resalgo resales resale <SAME aa>
 
 saber   know (facts)           sabido/sabiendo        = sé sabes sabe sabemos saben
 
-conocer know (people, places)  conocido/conociendo  = conozco conoces conoce conocemos conocéis conocen 	
+conocer know (people, places)  conocido/conociendo  = conozco conoces conoce conocemos conocéis conocen 
+desconocer ignore (people, places)  desconocido/desconociendo  = desconozco desconoces desconoce .. 	
 reconocer recognize   reconocido/reconociendo  = reconozco reconoces reconoce reconocemos reconocéis reconocen  
 agradecer be thankful, grateful for: agradecido/agradeciendo agradezco agradeces agradece agradecemos agradecéis agradecen
 parecer  seem, appear 	  parecido/pareciendo   = parezco pareces parece parecemos parecen
@@ -1676,13 +2077,7 @@ suscribir
 comprender understand, comprehend  comprendido/comprendiendo = comprendo comprendes comprende comprendemos comprenden 
 entender   understand, comprehend  entendido/entendiendo    =  entiendo entiendes entiende entendemos entienden
 
-32  comenzar  begin, start, commence 	comenzado/comenzando  = comienzo comienzas comienza comenzamos comienzan
-34  empezar   begin, start, commence 	empezado/empezando   = empiezo empiezas empieza empezamos empiezan
-42  jugar     play (a game or sport)  jugado/jugando      = juego juegas juega jugamos juegan 	
-50  mostrar    show	         mostrado/mostrando  = muestro muestras muestra mostramos muestran
-50B demostrar  demonstrate, show   demostrado/demostrando  = muestro muestras <SAME as above>
-52  fijar      fix, fasten, secure  fijado/fijando   = fijo fijas fija fijamos fijan
-52B fijarse [en] pay attention [to]
+
 
 33  servir    serve                    servido/serviendo     = sirvo sirves sirve servimos sirven 
 34  caber     fit (in something)  cabido/cabiendo            = quepo cabes cabe cabemos caben
@@ -1714,7 +2109,7 @@ S1 promover  promote   movido/moviendo  = promuevo promueves  promueve promovemo
 59	freir 		freido/frito
 - fry <ITSO refritos "refried-beans" >	
 63 andar   to walk    andado/andando        = ando andas anda andamos andan 
-64 	preferir 	to prefer 	
+	
 65 crecer  grow [up] 	                       crecido/creciendo  = crezco creces crece  crecemos crecen
 66 surgir  arise, emerge, spring up, come out  surgido/surgiendo  = surjo  surges surge  surgimos surgen  [ONLY SUBJUNCTIVE IRREG]
 67 establecer 	to establish 	
@@ -1722,25 +2117,17 @@ S1 promover  promote   movido/moviendo  = promuevo promueves  promueve promovemo
 70  romper break    roto/rompiendo    =  rompo rompes rompe rompemos rompen       [ONLY PARTICIPLE IRREG]
 71  adquirir to obtain, acquire, buy 	 adquirido/adquiriendo =  adquiero adquieres adquiere adquirimos adquieren [ONLY T1 IRREG]
 	 	
-54  cerrar     close, shut 	   cerrado/cerrando    = cierro cierras cierra cerramos cierran
-69 	acordar 	to decide, resolve, agree (on)
-72 	negar 		to deny, refuse 
-   desnegar 	gainsay - deny-a-denial <SAME as NEGAR>
 73 	resolver 	to solve, to resolve, to settle (a debt, matter)	
 75	dormir 		to sleep 
 76 	pertenecer 	to belong, pertain 
-78 	expresar 	to express, voice, state 	
+	
 79 	defender 	to defend 	
 80 	constituir 	to constitute 
 83 	tender 		to lay out 
 83A 	extender 	to extend
 83B 	atender 	to attend to, pay attention to 
 85 	merecer 	to deserve, merit 	
-86 	incluir 	to include 	
-88 	despertar 	to awaken (somebody), wake up (somebody) 
-78 	expresar 	to express, voice, state 		
-84 	sentar 		to seat, sit (someone down) 	
-90 	salvar 		to save, rescue, to except, exclude 	
+86 	incluir 	to include
 91  	permanecer 	to stay, remain 
 imprimir  imprimido/impreso <OTHERWISE REG -ir>
 - to print <ITSO run a press or news-media think FR imprimer> 
@@ -1752,21 +2139,17 @@ proveer F5 supply, provide <think provisioning>  proveído/provisto    <IRREG PP
 herir       injure, hurt, wound, beat    herido/hiriendo  hiero hieres hiere herimos herís hieren
 malherir    to injure fatally, mortally wound <SAME aa>
 adherir     to adhere, stick        adherido/adhiriendo adhiero adhieres adhiere adherimos adherís adhieren
-
+64 	preferir 	to prefer 
 
 ### RE-ORG IN PROGRESS 
 	
-83 	atender 	to attend to, pay attention to 
 85 	merecer 	to deserve, merit 	
-86 	incluir 	to include 	
-87 	tender 		to lay out 	
+86 	incluir 	to include 
 
-90  salvar 		to save, rescue, to except, exclude 	
-84  sentar   sentado/sentando	=  siento sientas sienta sentamos sientan	
+	
+sentar to seat, sit (someone down) senta[n]do	 : siento sientas sienta sentamos sientan
 
 92 	permanecer 	to stay, remain
-95 	extender 	to extend 	
-96 	comprobar 	to verify, to check 	
 97  dormir  dormido/durmiendo  =  duermo duermes duerme dormimos duermen
 98 	conducir 	to drive, conduct 
 99B 	advertir 	to notice, observe, advise, warn
@@ -1893,13 +2276,13 @@ http://www.studyspanish.com/lessons/subj1.htm
 
 - habria .. = I / it / he / she would have ..[MCU important AUX]
 
-- habria [ITSO "it might be .." "shouldn't there be .." "there might/may be.."]
+- habria <ITSO "it might be .." "shouldn't there be .." "there might/may be..>
 
 - habriamos .. = We would have ..
 
 - habrian .. = they/you/(pl) would have ..
 
-- estuviera .. = I / it / he / she was ..[less common AUX]
+- estuviera .. = I / it / he / she was ..<less common AUX>
 
 - vaya .. = I/she/he/you should/might go ..
 
@@ -1907,15 +2290,15 @@ http://www.studyspanish.com/lessons/subj1.htm
 
 ## FOR REFERENCE, RECALL THE PRESENT INDICATIVE (ESPA FULL VERSION):
 
-hablar: hablo, hablas, habla, hablamos, habláis (hablan), hablan
-comer:  como, comes,   come,  comemos,  coméis (comen),   comen
-partir: parto, partes, parte, partimos, partís (parten),  parten 
+hablar: hablo hablas habla hablamos habláis (hablan) hablan
+comer:  como comes   come  comemos  coméis (comen)   comen
+partir: parto partes parte partimos partís (parten)  parten 
 
 ## NOW COMPARE PRESENT SUBJUNCTIVE (ESPA FULL VERSION):
 
-hablar: hable, hables, hable, hablemos, habléis (hablen), hablen
-como:   coma,  comas,  coma,  comamos,  comáis (comen),   coman
-partir: parta, partas, parta, partamos, partáis (partan), partan
+hablar: hable hables hable hablemos habléis (hablen) hablen
+como:   coma  comas  coma  comamos  comáis (comen)   coman
+partir: parta partas parta partamos partáis (partan) partan
 
 ## AARG! They swap around! a => e and e => a
 
@@ -1923,9 +2306,25 @@ partir: parta, partas, parta, partamos, partáis (partan), partan
 
 - come* and parte* becomes coma* and parta*
 
+### NOW COMPARE PRESENT - SUBJUNCTIVE - PRETERITES
 
+- AND PATTERN IS: ONLY 2 KINDS: (i) ar and (ii) (COMBO -er -ir)
 
+PRESENT:  hablo hablas habla   hablamos habláis   hablan
+SUBJUNC:  hable hables hable   hablemos habléis   hablen
+PRETERIT: hablé hablaste habló hablamos hablasteis hablaron
 
+PRESENT:  como comes   come    comemos  coméis    comen
+SUBJUNC:  coma comas   coma    comamos  comáis    coman
+PRETERIT: comí comiste comió   comimos  comisteis comieron
+
+- ir is same as above -er but for PRESENT-1ST-PLUR -imos. So ..
+
+PRESENT:  parto .. SAME ------ partimos ------ SAME ----- 
+SUBJUNC:  parta ... SAME --------------------------------
+PRETERIT: partí .. SAME ---------------------------------
+
+### see later whole section on above 
 
 ############################################################
 
@@ -2200,6 +2599,26 @@ http://www.studyspanish.com/lessons/subj7.htm
 ############################################################
 
 
+############################################################
+
+# VERBS: "GROUP-R0" - REFLEXIVES LIKE GUSTAR, NOT REALLY IRREG
+
+############################################################
+
+- TODO - many usage examples
+
+- all these have the same special reflexive usage
+
+- the conjugation is perfectly regular -ar !
+
+- but the usage is weird and must be noted. 
+
+gustar     please, be pleasing           = gusta[n]do :    gusto gustas gusta gustamos gustáis gustan
+interesar  interest, be of interest (to) = interesa[n]do : intereso	
+faltar     lack, be lacking, be missing  = falta[n]do    : falto
+importar   import, be important 	 = importa[n]do  : importo
+
+
 
 ############################################################
 
@@ -2222,7 +2641,7 @@ http://www.studyspanish.com/lessons/subj7.htm
 
 EG revolcar revolcado/revolcando
 
-- NOT SHOWN 2ND-PLUR -áis FORM if it is obvious how it derives from 3RD-PLUR -an
+- NOT SHOWN 2ND-PLUR -áis FORM if obvious how derived from 1ST-PLUR -amos/-áis
 
 costar     cost       costado/costando     cuesto  cuestas   cuesta   costamos  costáis  cuestan
 acostar    go to bed  acostado/acostando   acuesto acuestas  acuesta  acostamos acostáis acuestan
@@ -2261,8 +2680,8 @@ doler      duelo     dueles     duele     dolemos     doléis     duelen
 dormir     duermo    duermes    duerme    dormimos    dormís     duermen
 morder     muerdo    muerdes    muerde    mordemos    mordéis    muerden
 morir      muero     mueres     muere     morimos     morís      mueren
-mover      muevo     mueves     mueve     movemos     movéis     mueven
 oler       huelo     hueles     huele     olemos      oléis      huelen
+mover      muevo     mueves     mueve     movemos     movéis     mueven
 remover    remuevo   remueves   remueve   removemos   removéis   remueven
 promover   promuevo  promueves  promueve  promovemos  promovéis  promueven
 torcer     tuerzo    tuerces    tuerce    torcemos    torcéis    tuercen
@@ -2291,7 +2710,6 @@ revolver   revuelvo  revuelves  revuelve  revolvemos  revolvéis  revuelven
 - aprobar   = to pass a test, approve, agree, accept, adopt
 - comprobar = to verify, to check 
 - poblar    = to populate, settle, colonize, people
-- probar    = try out, taste
 - repoblar  = to repopulate, restock, reforest
 - sonar     = to sound
 - soNar     = to dream
@@ -2329,8 +2747,11 @@ empezar   begin, start  commence  empezado/empezando = empiezo empiezas empieza 
 despertar awaken, wake up   despertado/despertando = despierto despiertas despierta despertamos despiertan 
 quebrar   break, smash:  quebrado/quebrando = quiebro quiebras quiebra quebramos quebráis quiebran
 temblar   shake, tremble:  temblado/temblando = tiemblo tiemblas tiembla temblamos tembláis tiemblan
-nevar     nievo     nievas     nieva	  nevamos     neváis	nievan
-pensar    pienso    piensas    piensa     pensamos    pensáis	piensan
+tentar    tempt, feel, examine by touch :  tenta[n]do = tiento tientas tienta    tentamos  tentáis  tientan
+intentar  try, attempt :                 intenta[n]do = 
+nevar     neva[n]do   : nievo  nievas     nieva	  nevamos     neváis	nievan
+pensar    penda[n]do  : pienso piensas    piensa     pensamos    pensáis	piensan
+sentar    senta[n]do  : siento sientas    sienta     sentamos sientan
 defender  defiendo  defiendes  defiende   defendemos  defendéis  defienden
 encender  enciendo  enciendes  enciende	  encendemos  encendéis	encienden    
 entender  entiendo  entiendes  entiende	  entendemos  entendéis	entienden
@@ -2344,7 +2765,7 @@ mentir    lie   miento    mientes    miente     mentimos    mentís    mienten
 - herir = to hurt
 - mentir = to lie (as in state a falsehood)
 
-##  PRESENT STEM E => IE GROUP-2  WORK IN PROGRESS  TODO RE-ORG AND TIDY !!
+##  PRESENT STEM E => IE GROUP-S2  WORK IN PROGRESS  TODO RE-ORG AND TIDY !!
 
 desmembrar    to dismantle, dismember
 
@@ -2362,13 +2783,11 @@ invernar     to hibernate, winter
 manifestar   to manifest, reveal, display, show, declare
 mentar      to mention, name
 merendar    to snack, have a snack
-negar       to negate, say no
 nevar       to snow
 pensar      to think
 recomendar  to recommend
 regar       to water, irrigate, wash, sprinkle, spray
 remendar    to mend, repair, improve, patch [ENG mend]
-renegar     to deny vigorously, detest, abhor, renegade, apostatize, swear, blaspheme
 replegar    to fold over & over, fall back, retreat
 restregar   to scour, rub hard, scrub
 reventar    to burst, explode, blow up, break [think give vent]
@@ -2381,7 +2800,6 @@ soterrar     to bury underground, inter
 subarrendar  to sublease, sublet
 temblar      to tremble, shake
 tropezar     to trip, stumble
-tentar       to tempt, feel, examine by touch
 
 ascender     to ascend, promote
 encender   - to burn, light, turn on
@@ -2389,9 +2807,10 @@ defender     to defend
 descender    to descend
 ofender      to offend
 
+<GROUP VERB tener> 
 tener have         tenido/teniendo     = tengo tienes tiene tenemos tienen	
 obtener   get, obtain obtenido/obteniendo = obtengo obtienes obtiene obtenemos obtienen 
-mantener  maintain, get       <GOES LIKE TENER>
+mantener  maintain, keep, get <GOES LIKE TENER>
 detener   arrest, stop, detain	detenido/deteniendo = detengo detienes detiene detenemos detienen 
 contener  contain, hold       <GOES LIKE TENER>	
 sostener  support, to hold up <GOES LIKE TENER>
@@ -2402,10 +2821,12 @@ entretener entertain          <GOES LIKE TENER>
 abstener   abstain            <GOES LIKE TENER>	
 retener    retain	      <GOES LIKE TENER>
 
-tender       to extend, spread out, stretch forth  tendido/tendiendo   tiendo tiendes tiende tendemos tendéis tienden
-atender      to attend, pay attention, heed
-entender     to understand
-extender     to extend, stretch, stretch out
+<GROUP VERB tender> 
+tender   = extend, spread out, stretch forth  tendi[en]do : tiendo tiendes tiende tendemos tendéis tienden
+tenderse = to lie down
+atender  = attend, pay attention, heed
+entender = understand
+extender = to extend, stretch, stretch out
 
 heder        to stink, smell bad
 perder       to losen
@@ -2584,7 +3005,8 @@ proteger protejo proteges  protege    protegemos  protegéis protegen
 dirigir  dirijo  diriges  dirige    dirigimos  dirigís  dirigen
 elegir   elijo   eliges   elige     elegimos   elegís   eligen
 exigir   exijo   exiges   exige     exigimos   exigís   exigen
-fingir   finjo   finges   finge     fingimos   fingís   fingen
+fingir   finjo   finges   finge     fingimos   fingís     fingen
+restringir  restrinjo  restringes  restringe restringimos restringen
 
 - this one also gets an (e => i) change:
 
@@ -2595,12 +3017,13 @@ corregir corrijo corriges corrige   corregimos corregís corrigen
 - acoger  = to welcome
 - encoger = to shrink
 - escoger = to choose
-- recoger = to pick up
+- recoger = to pick up, fetch, bring
 - proteger =to protect
 - dirigir = to direct
 - elegir  = to elect
-- exigir  = to demand
-- fingir  = to pretend, fake
+- exigir   = to demand
+- fingir     = to pretend, fake
+- restringir = to restrict
 
 
 ############################################################
@@ -2623,18 +3046,19 @@ extinguir  extinguish  extinguido/extinguiendo extingo  extingues   extingue  ex
 
 ############################################################
 
-actuar   actúo	actúas	actúa	actuamos  actuáis  actúan 
+actuar    actúo	   actúas    actúa    actuamos    actuáis     actúan
+continuar continúo continúas continúa continuamos continuáis  continúan 
+liquar
+situar   sitúo  sitúas  sitúa   situamos  situáis sitúan
 confiar  confío confías	confía	confiamos confiáis confían
 enfriar  enfrío enfrías enfría  enfriamos enfriáis enfrían 
 enviar   envío  envías  envía   enviamos  enviáis  envían 
 espiar   espío  espías  espía   espiamos  espiáis  espían 
 fiar     fío    fías    fía     fiamos    fiáis    fían   
 guiar    guío   guías   guía    guiamos   guiáis   guían
-liquar
-situar   sitúo  sitúas  sitúa   situamos  situáis sitúan
 variar   varío  varías  varía   variamos  variáis varían 
 
-- fiar = to guarantee
+- fiar = to trust, guarantee
 
 
 
@@ -2643,6 +3067,8 @@ variar   varío  varías  varía   variamos  variáis varían
 # VERBS: PRESENT -IAR -UAR - JUST REGULAR, NO ACCENTS
 
 ############################################################
+
+- these are totally REG -ar despite ending in -iar
 
 anunciar
 cambiar
@@ -2653,6 +3079,12 @@ limpiar
 odiar    odio   odias   odia    odiamos    odiáis   odian 
 principiar
 pronunciar  pronuncio pronuncias pronuncia pronunciamos pronunciáis pronuncian  
+
+
+77 	significar 	to signify, mean 			 		
+
+95 	actuar 		to act, perform, operate 	
+
 
 
 ############################################################
@@ -2684,6 +3116,7 @@ pronunciar  pronuncio pronuncias pronuncia pronunciamos pronunciáis pronuncian
 VERB - ROOT  - + ENDINGS  -e -iste -o  -imos      -isteis     -ierOn
 estar  estuv   estuve estuviste	estuvo  estuvimos estuvisteis estuvieron
 andar  anduv   anduve anduviste	anduvo  anduvimos anduvisteis anduvieron
+desandar < oppo of andar IE retrace, grammar as andar>
 caber  cup     cupe   cupiste cupo      cupimos	  cupisteis cupieron
 haber  hub     hube   hubiste hubo      hubimos   hubisteis hubieron
 hacer  hic     hice   hiciste hizo *1   hicimos   hicisteis hicieron
@@ -2695,6 +3128,11 @@ tener  tuv     tuve   tuviste tuvo      tuvimos   tuvisteis tuvieron
 venir  vin     vine   viniste vino	vinimos   vinisteis vinieron
 
 - NB emphasized O in -ierOn.
+
+- helpful to compare regulars -er -ar
+
+hablar - hablé, hablaste, habló,   hablamos, hablasteis, hablaron
+comer  - comí,  comiste,  comió,    comimos,  comisteis, comieron
 
 - *1 hacer *ALMOST* follows rule but 3rd person is hizo.
 
@@ -2743,21 +3181,56 @@ poseer  pose  poseí  poseíste poseyó  poseímos	poseísteis poseyeron
 
 ## VERBS: FUNNY-PRETERITE GROUP F5 TOCAR 
 
-- C => QU 1ST-SINGULAR PRETERITE
+- C => QU 1ST-SINGULAR PRETERITE AND ALL SUBJUNCTIVE PRESENT GETS QUE*
 - NB except for this 1 complication, all these go like regular -ar verbs.
 
 VERB   - ROOT + ENDINGS  c=>qué	-aste -ó     -amos      -asteis       -aron
 tocar    toc    toqué    tocaste    tocó     tocamos     tocasteis    tocaron
 buscar   busc   busqué   buscaste   buscó    buscamos    buscasteis   buscaron
+acercar  acerc 	acerqué  acercaste  acercó   acercamos   acercasteis  acercaron
+colocar  coloc  coloqué  colocaste  colocó   colocamos   colocasteis  colocaron
 dedicar  dedic  dediqué  dedicaste  dedicó   dedicamos   dedicasteis  dedicaron
 educar   educ   eduqué   educaste   educó    educamos    educasteis   educaron
 empacar  empac  empaqué  empacaste  empacó   empacamos   empacasteis  empacaron
 explicar explic expliqué explicaste explicó  explicamos	 explicasteis explicaron
 fabricar fabric fabriqué fabricaste fabricó  fabricamos  fabricasteis fabricaron
+hincar   hinc   hinqué   hincaste   hincó    hincamos    hincasteis   hincaron
+hincarse
+indicar  indic  indiqué indicaste indicó  indicamos  indicasteis indicaron
 pescar   pesc   pesqué   pescaste   pescó    pescamos    pescasteis   pescaron
 sacar    sac    saqué    sacaste    sacó     sacamos     sacasteis    sacaron
 secar    sec    sequé    secaste    secó     secamos     secasteis    secaron
 
+### PRESENT SUBJUNCTIVE c=>qu THEN ENDINGS  -é -es -e -emos -éis -en	
+
+tocar    toqu   toqué 	 toques     toque    toquemos    toquéis      toquen
+buscar   busqu  busque   busques    busque   busquemos   busquéis     busquen
+acercar  acerqu acerque  acerques   acerque  acerquemos  acerquéis    acerquen
+colocar  coloqu coloque  coloques   coloque  coloquemos  coloquéis    coloquen
+dedicar  dediqu dedique  dediques   dedique  dediquemos  dediquéis    dediquen
+decucar  eduqu  eduque   eduques    eduque   eduquemos   eduquéis     eduquen
+explicar expliqu explique expliques explique expliquemos expliquéis   expliquen
+fabricar fabriqu fabrique fabriques fabrique fabriquemos fabriquéis   fabriquen
+hincar   hinqu  hinque   hinques    hinque   hinquemos   hinquéis     hinquen
+
+- and so on, you get the idea ...
+
+tocar    F5 touch, play (an instrument) = toca[n]do  : toco tocas toca    tocamos tocan
+buscar   F5 search, look for:           = busca[n]do : busco buscas busca buscamos buscan
+acercar  F5 bring near 
+colocar = to locate, place
+colocar  F5 locate, place 
+dedicar  F5 dedicate
+educar   F5 educate
+empacar  F5 pack
+explicar F5 explain
+fabricar F5 fabricate
+hincar   F5 sink
+hincarse F5 lie down
+indicar  F5 indicate 
+pescar   F5 fish 
+sacar    F5 take out, stick out	
+secar    F5 dry		
 
 
 ## VERBS: FUNNY-PRETERITE GROUP F6 LLEGAR 
@@ -2793,32 +3266,38 @@ investigar investig investigué investigaste investigó investigamos investigast
 ## VERBS: FUNNY-PRETERITE GROUP F7 CRUZAR 
 
 - Z => C 1ST-SINGULAR
+- NB SPA z is always pronounced like soft-c in ENG "ice", not like z in "zoo".
 - NB except for this 1 complication, all these go like regular -ar verbs.
+-- esp PRES indicative is unaffected as <ROOT>a[n]do
 
 VERB    - ROOT + ENDINGS  (z=>c)é  -aste -ó  -amos      -asteis      -aron
 almorzar almorz  almorcé almorzaste almorzó  almorzamos almorzasteis almorzaron
 abrazar  abraz   abracé	 abrazaste  abrazó   abrazamos  abrazasteis  abrazaron
+amenazar amenaz  amenacé amenazaste amenazó  amenazamos amenazasteis amenazaron
 avanzar  avanz   avancé	 avanzaste  avanzó   avanzamos  avanzasteis  avanzaron
 cruzar   cruz    crucé	 cruzaste   cruzó    cruzamos   cruzasteis   cruzaron
-empezar  empez   empecé	 empezaste  empezó   empezamos  empezasteis  empezaron
 lanzar   lanz    lancé	 lanzaste   lanzó    lanzamos   lanzasteis   lanzaron
 realizar realiz  realicé realizaste realizó  realizamos realizasteis realizaron
 comenzar comenz  comencé comenzaste comenzó  comenzamos comenzasteis comenzaron
-amenazar amenaz  amenacé amenazaste amenazó  amenazamos amenazasteis amenazaron
+empezar  empez   empecé	 empezaste  empezó   empezamos  empezasteis  empezaron
 gozar    goz     gocé	 gozaste    gozó     gozamos    gozasteis    gozaron
 tropezar tropez  tropecé tropezaste tropezó  tropezamos tropezasteis tropezaron
 rezar    rez     recé	 rezaste    rezó     rezamos    rezasteis    rezaron
+utilizar utiliz  utilicé utilizaste utilizó  utilizamos utilizasteis utilizaron
+protagonizar protagoniz protagonicé protagonizaste protagonizó protagonizamos..
 
-- gozar = to enjoy
-- rezar = rogar = to pray
-- abrazar = to hug, embrace
-- alcanzar = to reach
-- amenazar = to threaten
-- lanzar = to throw (think launch) = FR lancer
+- almorzar = have lunch
+- abrazar  = hug, embrace
+- alcanzar = reach
+- amenazar = threaten
+- cruzar   = cross
 - empezar MCU = comenzar = to begin / commence but MCU empezar
+- gozar   = enjoy
+- rezar   =  pray <ALT rogar>
 - realizar = <!FALSE-FRIEND!> to achieve, attain, accomplish
 - tropezar = to trip up, stumble.
-
+- utilizar = to use, utilize 
+- protagonizar = to star in a movie
 
 
 ############################################################
@@ -2862,7 +3341,9 @@ rezar    rez     recé	 rezaste    rezó     rezamos    rezasteis    rezaron
 
 - sonreirse   =
 
-- levantarse
+- tratarse de .. = to be about .. <ITSO a movie, book, description..>
+
+- levantarse = get up [from a lying position], 
 
 - apurarse    = to hurry up
 
@@ -2874,6 +3355,9 @@ rezar    rez     recé	 rezaste    rezó     rezamos    rezasteis    rezaron
 
 - disculparse - to apologise
 
+- ligar        = tie VT TODO check
+
+- ligarase     = VI to commit yourself to ST, 
 
 - disorientarse = to lose one's way, to get lost
 
@@ -3023,6 +3507,88 @@ I will have been
 
 ############################################################
 
+- VERBS: PRETERITE PRESENT-SUBJUNCTIVE - PATTERNS
+
+############################################################
+
+- the PRESENT-SUBJUNCTIVE has an uncanny correlation to the preterite. So ..
+
+- AND PATTERN IS: ONLY 2 KINDS: (i) ar and (ii) (COMBO -er -ir)
+
+PRESENT:  hablo hablas  habla    hablamos habláis   hablan
+SUBJUNC:  hable hables  hable    hablemos habléis   hablen
+PRETERIT: hablé hablaste habló   hablamos hablasteis hablaron
+
+PRESENT:  como comes   come     comemos  coméis    comen
+SUBJUNC:  coma comas   coma     comamos  comáis    coman
+PRETERIT: comí comiste comió    comimos  comisteis comieron
+
+PRESENT:  parto partes parte    *partimos*  partís     parten 
+SUBJUNC:  parta partas parta     partamos   partáis    partan
+PRETERIT: partí partiste partió  partimos   partisteis partieron
+
+### IMPORTANT PATTERN ABOVE: -er -ir SAME! with 1 MINOR EXCEPTION
+
+- PRESENT-INDICATIVE 1ST-PLUR -emos vs -imos IS *ONLY* EXCEPTION
+
+PRESENT:  parto .. SAME ------ partimos ------ SAME ----- 
+SUBJUNC:  parta ... SAME --------------------------------
+PRETERIT: partí .. SAME ---------------------------------
+
+- TODO - put irregs here
+
+# IRREG PRES-IND vs PRES-SUBJ vs PRET
+
+Tense- - - yo - -- tú - -- él/UD nosotros/as vosotros/as ellos/UDS
+
+estar:     estoy  estas     esta   estamos   estáis      estan
+am / were  esté   estés     esté   estemos   estéis      estén
+PRET       estuve estuviste estuvo estuvimos estuvisteis estuvieron
+
+haber:     he      has     ha    hemos    habéis    han
+have       haya    hayas   haya  hayamos  hayáis    hayan
+PRET       hube   hubiste  hubo  hubimos  hubisteis hubieron
+
+ser:       soy     eres    es    somos    sois     son
+am / were  sea     seas    sea   seamos   seáis    sean
+PRET       fui     fuiste  fue   fuimos   fuisteis fueron
+
+hacer:    hago   haces    hace  hacemos  hacéis    hacen
+make/do   haga   hagas    haga  hagamos  hagáis    hagan
+PRET      hice   hiciste  hizo  hicimos  hicisteis hicieron
+
+tener:    tengo   tienes  tiene tenemos  tenéis    tienen
+have      tenga   tengas  tenga tengamos tengáis   tengan
+PRET      tuve   tuviste  tuvo  tuvimos  tuvisteis tuvieron
+
+venir:    vengo   vienes  viene venimos  venís     vienen
+come      venga   vengas  venga vengamos vengáis   vengan
+PRET      vine    viniste vino  vinimos  vinisteis vinieron
+
+poder:      puedo  puedes  puede  podemos  podéis    pueden
+can/am able pueda  puedas  pueda  podamos  podáis    puedan
+PRET        pude   pudiste pudo   pudimos  pudisteis pudieron
+
+querer:    quiero  quieres  quiere queremos queréis quieren
+want       quiera  quieras  quiera queramos queráis quieran
+PRET       quise   quisiste quiso  quisimos quisisteis quisieron
+
+dar:       doy   das    da    damos  dais    dan
+give       dé    des    dé    demos  deis    den
+PRET       di    diste  dio   dimos  disteis dieron
+
+ir:        voy   vas    va    vamos    vais     van
+go         vaya  vayas  vaya  vayamos  vayáis   vayan
+PRET       fui   fuiste  fue  fuimos   fuisteis fueron << SAME SER
+
+ver:       veo   ves    ve    vemos    veis    ven
+see        vea   veas   vea   veamos   veáis   vean
+PRET       vi    viste  vio   vimos    visteis vieron
+
+
+
+############################################################
+
 # VERBS: SUBJUNCTIVES AND THE 2 CONDITIONALS
 
 ############################################################
@@ -3034,11 +3600,20 @@ I will have been
 
 - ENG "would": trigger => conditional - usually. ENG "would" USAGE correlates closely to SPA.
 
-- basically, the conditional does what it says, like:
+- basically, the conditional does what it says, in either of its variants, like:
 
-- IF  (some condition is met) then I/he/it WOULD (do some CONDITIONAL action)
+- [PRESENT] CONDITIONAL - just plain ol' simple conditional
+
+- IF  (some condition is met) then I/he/it WOULD DO (some CONDITIONAL action)
 
 - IE: (if-clause) .. (main-clause). 
+
+- PERFECT CONDITIONAL - 
+
+- IF  (some condition had been / were met) then I/he/it WOULD HAVE DONE (some CONDITIONAL action)
+
+- IE: (if-clause) .. (main-clause). 
+
 
 - need to consider which tense goes in the (if-clause) as opposed to which tense goes in the (main-clause). 
 
@@ -3066,6 +3641,11 @@ I will have been
 - If I had had more time, I would have learned  spanish in Barcelona
 
 = Si hubiera tenido más tiempo, habría aprendido español en Barcelona
+
+###  Perfect conditional mostly appears as * habría *
+
+- all conditionals except 1 single TODO FINISH
+
 
 
 ### Conditional with no explicit "if-clause" ..
@@ -3158,6 +3738,479 @@ Queremos salir a cenar a las ocho. = We want to go out to have dinner at eight o
 - En la época de la fresa, las fruterías suelen venderlas en cajas de 2 Kg.
 
 = During the strawberry season, fruit shops used to sell them in boxes of 2 kilos.
+
+
+############################################################
+
+# VERBS: IRREG PARTICIPLES REVIEW
+
+############################################################
+
+## VERBS WITH SIMPLE IRREG PAST PARTICIPLE
+
+- NB gerund AKA present-participle all regular in this list
+
+abrir     abierto 	'open(ed)'
+cubrir    cubierto	'covered'
+decir     dicho		'said'
+escribir  escrito	'written'
+-facer1	  -fecho	—
+hacer     hecho		'done, made'
+morir     muerto	'died, dead'
+poner     puesto	'put, placed'
+pudrir    podrido	'rotten'
+romper    roto		'broken'
+-solver1  -suelto	'solved'
+ver       visto		'seen'
+volver    vuelto	'(re)turned'
+
+## VERBS WITH REG AND IRREG PAST PARTICIPLE
+
+bendecir	bendecido	bendito	   'blessed'
+elegir		elegido		electo	   'elected, selected'
+confundir	confundido	confuso	   'confused'
+freír		freído		frito	   'fried'
+imprimir	imprimido	impreso	   'printed'
+maldecir	maldecido	maldito	   'damned'
+poseer		poseído		poseso	   'possessed'
+proveer		proveído	provisto   'supplied'
+suspender	suspendido	suspenso   'suspended, hung'
+  
+
+
+############################################################
+
+- VERBS: ALL TENSES REVIEW + MEMORY HELPER MNEMONICS
+
+############################################################
+
+- -ir/-er ARE SAME (VERY LITTLE EXCEPTION): SO ONLY 2 VERB TYPES
+
+- PRET 3RD SING <stem> - OH!    
+- only 2 slight variants: -ar or (combo -ir/-er)
+- 3RD PLUR -ar: <stem>-ar is -AAH!-ron  ALL ELSE YEAH!-ron
+- 1St SING -ar: <stem>-AY! = é, ALL ELSE <stem>-EE! = í (i)
+- 1ST PLUR -ar: <stem>-AH!-mos=-amos ALL ELSE <stem>-EE!-mos = ímos
+- 2ND SING IS CHARACTERISTIC -AH/EE- STEE so ar: -aste -ir/-er: iste
+
+- FUT ALL ENDINGS SAME REGARDLESS WHETHER -ar or -er/-ir
+- FUT THINK SONG "QUE SERA SERA" = <INF>-AH! (-a) .. (3RD SING)
+- .. AND QUE SERAN <INF>-AN (-an) .. (3RD PLUR)
+- ..1ST SING IS <INF>-AY!  = <INF>-é <THINK FR je serai>
+- ..1ST PLUR same as 1ST-SING but add mos = <INF>-émos
+- so: -é, -ás, -á, -emos, -éis, -án
+
+- IMPERFECT = ar: "*aba*" ALL ELSE "*ia*" TO BASIC STEM
+- SO IT'S LIKE PRES-IND, but substitute funny endings *aba*/ *ia* 
+- 1ST-SING is -a so -aba or -a. 3RD SING IS SAME.
+- ALL ELSE "DO THE RIGHT THING".
+
+- CONDITIONAL ALL! USE "*ia*" LIKE IMPERFECT -ir/er, BUT TO INF INSTEAD OF BASIC
+- all -ar -ir -er use same endings as -ir/-er IMPERFECT
+- BUT endings go onto INFINITIVE, UNLIKE IMPERFECT WHICH USES BASIC STEM
+
+- SUBJUNCTIVE PRESENT -ar and (-er/-ir) SWAP AROUND -AH for -AY
+- -er/-ir takes -a and -ar takes  é ON BASIC STEM
+- 1ST and 3RD SING SAME: -ar: -é and -er/-ir: -a
+- ALL ELSE "DO THE RIGHT THING".
+
+- IMPERFECT-1: CHANGING INDICATIVE TO SUBJUNCTIVE 
+- ar:    change *aba* to *ara* THEN "DO THE RIGHT THING".
+- er/ir: change *ia* to *iera* THEN "DO THE RIGHT THING".
+- THERE IS An <ALT> IMPERFECT-2, ..
+- ar:    change *aba* to *ase* instead of *ara* in -1,
+- er/ir: change *ia* to *iese* instead of *iera* in -1,
+- SUBJUNCTIVE IMPERFECT-2 ALT -AH-SEE OR -EE-YEAH-SEE
+- ar    =  -ase -ases   -ase -THEN "DO THE RIGHT THING".
+- er/ir = -iese -ieses -iese -THEN "DO THE RIGHT THING".
+
+- FUTURE: CHANGING INDICATIVE TO SUBJUNCTIVE
+- are -> SAME except 3P -aran -> -aren
+- [e/i]re -> iere -THEN "DO THE RIGHT THING".
+
+- FUTURE PERFECT: CHANGING INDICATIVE TO SUBJUNCTIVE
+- habré <PPL> -> hubiere <PPL> -THEN "DO THE RIGHT THING".
+
+- THERE IS NO SUCH THING AS A SUBJUNCTIVE PRETERITE
+
+
+
+############################################################
+
+- VERBS: ALL TENSES REVIEW: -er -ir SAME BUT FOR TINY DETAIL
+
+############################################################
+
+- Complete spread is below:
+
+- MORAL: 1 SINGLE DETAIL: IND PRESENT 1st + 2nd PERSON FIDDLY. 
+
+IND PRES          como    comes    come    comemos    coméis    comen
+IND PRES          vivo    vives    vive   *vivimos*  *vivís*    viven
+
+IND PRES PERF     - all PERF same -
+IND PRES PERF     he      has      ha      hemos      habéis    han <PPL>
+
+IND IMPERFECT     comía   comías   comía   comíamos   comíais   comían
+IND IMPERFECT     vivía   vivías   vivía   vivíamos   vivíais   vivían
+
+IND PRETERITE     comí    comiste  comió   comimos    comisteis comieron
+IND PRETERITE     viví    viviste  vivió   vivimos    vivisteis vivieron
+
+IND PLUPERFECT    - all PERF same -
+IND PLUPERFECT    había   habías   había   habíamos   habíais   habían <PPL>
+
+IND FUTURE        comeré  comerás  comerá  comeremos  comeréis  comerán
+IND FUTURE        viviré  vivirás  vivirá  viviremos  viviréis  vivirán
+
+IND FUT PERF      - all PERF same -
+IND FUT PERF      habré   habrás   habrá   habremos   habréis   habrán <PPL>
+
+CONDITIONAL       comería comerías comería comeríamos comeríais	comerían
+CONDITIONAL       viviría vivirías viviría viviríamos viviríais vivirían
+
+CONDITIONAL PERF  - all PERF same -
+CONDITIONAL PERF  habría  habrías  habría  habríamos  habríais  habrían <PPL>
+
+PRET-PERF         - all PERF same -
+PRET-PERF         hube    hubiste  hubo    hubimos    hubisteis hubieron <PPL>
+
+SUBJ PRESENT      coma    comas    coma    comamos    comáis    coman
+SUBJ PRESENT      viva    vivas    viva    vivamos    viváis    vivan
+
+SUBJ PRES PERF    - all PERF same -
+SUBJ PRES PERF    haya    hayas    haya    hayamos    hayáis    hayan <PPL>
+
+SUBJ IMPERF 1     comiera comieras comiera comiéramos comierais comieran
+SUBJ IMPERF 1     viviera vivieras viviera viviéramos vivierais vivieran
+
+SUBJ IMPERF 2     comiese comieses comiese comiésemos comieseis comiesen
+SUBJ IMPERF 2     viviese vivieses viviese viviésemos vivieseis viviesen
+
+SUBJ PLUPERFECT 1 - all PERF same -
+SUBJ PLUPERFECT 1 hubiera hubieras hubiera hubiéramos hubierais hubieran <PPL>
+
+SUBJ PLUPERFECT 2 - all PERF same -
+SUBJ PLUPERFECT 2 hubiese hubieses hubiese hubiésemos hubieseis hubiesen <PPL>
+
+SUBJ FUTURE       comiere comieres comiere comiéremos comiereis comieren
+SUBJ FUTURE       viviere vivieres viviere viviéremos viviereis vivieren
+
+SUBJ FUT PERFECT - all PERF same -
+SUBJ FUT PERFECT  hubiere hubieres hubiere hubiéremos hubiereis hubieren <PPL>
+
+
+############################################################
+
+- VERBS: ALL TENSES REVIEW: -ar vs (-er/ir) SYSTEMATIC DIFF
+
+###########################################################
+
+- Complete spread is below:
+
+- MORAL-1: SUBJ SWAP-OVER IS MAIN THING. 
+
+- MORAL-2: ah vs yeh EVERYWHERE
+
+IND PRES          DIFFS **
+IND PRES          hablo   hablas   habla   hablamos   habláis    hablan <**
+IND PRES          como    comes    come    comemos    coméis     comen  <**
+IND PRES          - - - - - - - - - - -    *vivimos*  *vivís* - - - -
+
+IND PRES PERF     - all PERF same -
+IND PRES PERF     he      has      ha      hemos      habéis     han <PPL>
+
+IND IMPERFECT     -ar = aba* -er/-ir = ía* (say ah-bah vs ee-yah)
+IND IMPERFECT     hablaba hablabas hablaba hablábamos hablabais  hablaban
+IND IMPERFECT     vivía   vivías   vivía   vivíamos   vivíais    vivían
+
+IND PRETERITE     1S -ar = é, vs í; 1P amos vs imos; 3P -ar = ahron vs yehron; 
+IND PRETERITE     hablé   hablaste habló   hablamos   hablasteis hablaron
+IND PRETERITE     viví    viviste  vivió   vivimos    vivisteis  vivieron
+
+IND PLUPERFECT    - all PERF same -
+IND PLUPERFECT    había   habías   había   habíamos   habíais   habían <PPL>
+
+IND FUTURE        - SAME
+IND FUTURE        hablaré hablarás hablará hablaremos hablaréis hablarán
+IND FUTURE        viviré  vivirás  vivirá  viviremos  viviréis  vivirán
+
+IND FUT PERF      - all PERF same -
+IND FUT PERF      habré   habrás   habrá   habremos   habréis   habrán <PPL>
+
+CONDITIONAL       - SAME
+CONDITIONAL       hablaría hablarías hablaría hablaríamos hablaríais hablarían
+CONDITIONAL       viviría  vivirías  viviría  viviríamos  viviríais  vivirían
+
+CONDITIONAL PERF  - all PERF same -
+CONDITIONAL PERF  habría  habrías  habría  habríamos  habríais  habrían <PPL>
+PRET-PERF         - all PERF same -
+PRET-PERF         hube    hubiste  hubo    hubimos    hubisteis hubieron <PPL>
+
+SUBJ PRESENT      ** THE SWAP-ROUND!! ah => eh and eh => ah
+SUBJ PRESENT      hable   hables   hable   hablemos   habléis   hablen
+SUBJ PRESENT      viva    vivas    viva    vivamos    viváis    vivan
+
+SUBJ PRES PERF    - all PERF same -
+SUBJ PRES PERF    haya    hayas    haya    hayamos    hayáis    hayan <PPL>
+
+SUBJ IMPERF 1     -a = ara* else iera* (say ah-ra vs yeh-ra)
+SUBJ IMPERF 1     hablara hablaras hablara habláramos hablarais hablaran
+SUBJ IMPERF 1     viviera vivieras viviera viviéramos vivierais vivieran
+
+SUBJ IMPERF 2     -a = ase* else iese* (say ah-say vs yeh-say)
+SUBJ IMPERF 2     hablase hablases hablase hablásemos hablaseis hablasen
+SUBJ IMPERF 2     viviese vivieses viviese viviésemos vivieseis viviesen
+
+SUBJ PLUPERFECT 1 - all PERF same -
+SUBJ PLUPERFECT 1 hubiera hubieras hubiera hubiéramos hubierais hubieran <PPL>
+
+SUBJ PLUPERFECT 2 - all PERF same -
+SUBJ PLUPERFECT 2 hubiese hubieses hubiese hubiésemos hubieseis hubiesen <PPL>
+
+SUBJ FUTURE      -a = are* else iere* (say ah-ray vs yeh-ray)
+SUBJ FUTURE       hablare hablares hablare habláremos hablareis hablaren
+SUBJ FUTURE       viviere vivieres viviere viviéremos viviereis vivieren
+
+SUBJ FUT PERFECT - all PERF same -
+SUBJ FUT PERFECT  hubiere hubieres hubiere hubiéremos hubiereis hubieren <PPL>
+
+
+
+
+############################################################
+
+- VERBS: IMPERFECTS INDICATIVE vs SUBJUNCTIVE - PATTERNS
+
+############################################################
+
+- GOLDEN RULE YET AGAIN: -er -ir SAME; ONLY 2 KINDS: -ar or -er/-ir
+
+- PRETERITE FALLS INTO SAME PATTERNS
+
+- Compare these ..
+
+HABLAR
+IND Imperfect:  hablaba hablabas hablaba hablábamos hablabais hablaban
+SUBJ Imperf-1:  hablara hablaras hablara habláramos hablarais hablaran
+SUBJ Imperf-2:  hablase hablases hablase hablásemos hablaseis hablasen
+PRETERITE:      hablé   hablaste habló   hablamos   hablasteis hablaron
+
+COMER
+IND Imperfect:  comía   comías   comía   comíamos   comíais   comían 
+SUBJ Imperf-1:  comiera comieras comiera comiéramos comierais comieran
+SUBJ Imperf-2:  comiese comieses comiese comiésemos comieseis comiesen
+PRETERITE:      comí    comiste  comió   comimos    comisteis comieron
+
+ABRIR
+IND Imperfect:  abría   abrías   abría   abríamos   abríais   abrían
+SUBJ Imperf-1:  abriera abrieras abriera abriéramos abrierais abrieran
+SUBJ Imperf-2:  abriese abrieses abriese abriésemos abrieseis abriesen
+PRETERITE:      GOES LIKE -er 
+
+SER
+IND Imperfect:  era     eras     era     éramos     erais     eran
+SUBJ Imperf-1:  fuera   fueras   fuera   fuéramos   fuerais   fueran
+SUBJ Imperf-2:  fuese   fueses   fuese   fuésemos   fueseis   fuesen
+PRETERITE:      fui     fuiste   fue     fuimos     fuisteis  fueron
+
+ESTAR
+IND Imperfect:  estaba    estabas    estaba    estábamos    estabais    estaban
+SUBJ Imperf-1:  estuviera estuvieras estuviera estuviéramos estuvierais estuvieran
+SUBJ Imperf-2:  estuviese estuvieses estuviese estuviésemos estuvieseis estuviesen
+PRETERITE:      estuve    estuviste  estuvo    estuvimos    estuvisteis estuvieron
+
+HABER
+IND Imperfect:  había     habías     había     habíamos     habíais     habían
+SUBJ Imperf-1:  hubiera   hubieras   hubiera   hubiéramos   hubierais   hubieran
+SUBJ Imperf-1:  hubiese   hubieses   hubiese   hubiésemos   hubieseis   hubiesen
+PRETERITE:      hube      hubiste    hubo      hubimos      hubisteis   hubieron
+
+HACER
+IND Imperfect:  hacía     hacías     hacía     hacíamos     hacíais     hacían
+SUBJ Imperf-1:  hiciera   hicieras   hiciera   hiciéramos   hicierais   hicieran
+SUBJ Imperf-2:  hiciese   hicieses   hiciese   hiciésemos   hicieseis   hiciesen
+PRETERITE:      hice      hiciste    hizo      hicimos      hicisteis   hicieron
+
+TENER
+IND Imperfect:  tenía     tenías     tenía     teníamos     teníais     tenían
+SUBJ Imperf-1:  tuviera   tuvieras   tuviera   tuviéramos   tuvierais   tuvieran
+SUBJ Imperf-2:  tuviese   tuvieses   tuviese   tuviésemos   tuvieseis   tuviesen
+PRETERITE:      tuve      tuviste    tuvo      tuvimos      tuvisteis   tuvieron
+
+ANDAR
+IND Imperfect:  andaba    andabas    andaba    andábamos    andabais    andaban
+SUBJ Imperf-1:  anduviera anduvieras anduviera anduviéramos anduvierais anduvieran
+SUBJ Imperf-2:  anduviese anduvieses anduviese anduviésemos anduvieseis anduviesen
+PRETERITE:      anduve    anduviste  anduvo    anduvimos    anduvisteis anduvieron
+
+DECIR
+IND Imperfect:  decía    decías    decía     decíamos    decíais    decían
+SUBJ Imperf-1:  dijera   dijeras   dijera    dijéramos   dijerais   dijeran
+SUBJ Imperf-2:  dijese   dijeses   dijese    dijésemos   dijeseis   dijesen
+PRETERITE:      dije     dijiste   dijo      dijimos     dijisteis  dijeron
+
+VER
+IND Imperfect:  veía     veías     veía      veíamos     veíais     veían
+SUBJ Imperf-1:  viera    vieras    viera     viéramos    vierais    vieran
+SUBJ Imperf-2:  viese    vieses    viese     viésemos    vieseis    viesen
+PRETERITE:      vi       viste     vio       vimos       visteis    vieron
+
+IR
+IND Imperfect:  iba      ibas      iba       íbamos      ibais      iban
+- SUBJ IMPERFS AND PRETERITE SHARE SAME WORDS WITH SER - 
+
+PODER
+IND Imperfect:  podía    podías    podía     podíamos    podíais    podían
+SUBJ Imperf-1:  pudiera  pudieras  pudiera   pudiéramos  pudierais  pudieran
+SUBJ Imperf-2:  pudiese	 pudieses  pudiese   pudiésemos  pudieseis  pudiesen
+PRETERITE:      pude     pudiste   pudo      pudimos     pudisteis  pudieron
+
+PONER
+IND Imperfect:  ponía    ponías    ponía     poníamos    poníais    ponían
+SUBJ Imperf-1:  pusiera  pusieras  pusiera   pusiéramos  pusierais  pusieran
+SUBJ Imperf-2:  pusiese  pusieses  pusiese   pusiésemos  pusieseis  pusiesen
+PRETERITE:      puse     pusiste   puso      pusimos     pusisteis  pusieron
+
+SABER
+IND Imperfect:  sabía    sabías    sabía     sabíamos    sabíais    sabían
+SUBJ Imperf-1:  supiera  supieras  supiera   supiéramos  supierais  supieran
+SUBJ Imperf-2:  supiese  supieses  supiese   supiésemos  supieseis  supiesen
+PRETERITE:      supe     supiste   supo      supimos     supisteis  supieron
+
+CABER GOES LIKE SABER
+
+
+
+############################################################
+
+## VERBS: FUTURES INDICATIVE vs SUBJUNCTIVE - PATTERNS
+
+############################################################
+
+### FUTURE PERFECTS IS EASIEST - JUST 1 MINOR VOWEL DIFFERENTIATES SUBJ vs IND ..
+
+- MORAL: fut IND = habr* (say ah-br), SUBJ = hubier* (say oo-byeh-r) <PPL>
+
+IND  FUT PERFECT: habré    habrás    habrá    habremos    habréis    habran   <PPL>
+SUBJ FUT PERFECT: hubiere  hubieres  hubiere  hubiéremos  hubiereis  hubieren <PPL>
+
+
+### FUTURES: 
+
+- -ar REG SUBJ IS SAME AS IND EXCEPT 3P is an -> en 
+
+- all else - -ir -er IRREGs - DISTINGUISH BY VOWEL CHANGE IND TO SUBJ..
+
+- REGULAR HABLAR - ALL SAME EXCEPT 3P is an -> en 
+IND FUTURE:  hablaré, hablarás, hablará,   hablaremos,   hablaréis,  hablarán
+SUBJ FUTURE: hablaré, hablarás, hablará,   hablaremos,   hablaréis,  hablaren
+
+- REGULAR VIVIR COMER - DISTINGUISH BY  *ir* -> *ier* (SAY EE-RAY -> YEH-RAY) 
+IND FUTURE:  viviré    vivirás     vivirá    viviremos   viviréis    vivirán
+SUBJ FUTURE: viviere   vivieres    viviere   viviéremos  viviereis   vivieren
+
+SER
+IND FUTURE:  seré    serás    será    seremos    seréis    serán
+SUBJ FUTURE: fuere   fueres   fuere   fuéremos   fuereis   fueren
+
+ESTAR
+IND FUTURE:  estaré    estarás    estará    estaremos    estaréis    estarán
+SUBJ FUTURE: estuviere estuvieres estuviere estuviéremos estuviereis estuvieren
+
+TENER
+IND FUTURE:  tendré  tendrás  tendrá  tendremos  tendréis  tendrán
+SUBJ FUTURE: tuviere tuvieres tuviere tuviéremos tuviereis tuvieren
+
+ANDAR
+IND FUTURE:  andaré    andarás    andará    andaremos    andaréis    andarán
+SUBJ FUTURE: anduviere anduvieres anduviere anduviéremos anduviereis anduvieren
+
+HABER
+IND FUTURE:  habré     habrás     habrá     habremos     habréis     habrán
+SUBJ FUTURE: hubiere   hubieres   hubiere   hubiéremos   hubiereis   hubieren
+
+HACER
+IND FUTURE:  haré    harás    hará    haremos    haréis    harán
+SUBJ FUTURE: hiciere hicieres hiciere hiciéremos hiciereis hicieren
+
+PODER
+IND FUTURE:  podré    podrás    podrá   podremos   podréis   podrán
+SUBJ FUTURE: pudiere  pudieres  pudiere pudiéremos pudiereis pudieren
+
+
+IR (ANOTHER AMBIGUOUS SHARE WITH SER)
+IND FUTURE:  iré      irás      irá     iremos     iréis     irán
+SUBJ FUTURE: fuere    fueres    fuere   fuéremos   fuereis   fueren
+
+DAR
+IND FUTURE:  daré     darás     dará    daremos    daréis    darán
+SUBJ FUTURE: diere    dieres    diere   diéremos   diereis   dieren
+
+VER
+IND FUTURE:  veré     verás     verá    veremos    veréis    verán
+SUBJ FUTURE: viere    vieres    viere   viéremos   viereis   vieren
+
+
+############################################################
+
+- WORDS: ANYONE ANYWHERE ANY* vs * CUALQU* - NOT 1-TO-1
+
+############################################################
+
+- cualquiera = anybody <ITSO general usage except ..>
+
+- cualquier = any
+
+- alguien = anybody / someone <ITSO interrogative / question >
+
+- nadie = nobody <ITSO anybody but nobody is emphasized >
+
+- algun sitio .. = anyplace <ITSO anywhere>
+
+- en qualquier parte [del  mundo] = anywhere [in the world] <ITSO no matter where> 
+
+- algo = anything
+
+-- ask anyone  =   Pregunta a cualquiera
+
+-- call anytime = Llame en cualquier momento
+
+-- use anything = Usar cualquier cosa
+
+-- it down anywhere = Siéntate en cualquier lugar
+
+-- Is anyone home? = ¿Hay alguien en casa?
+
+-- Did anyone call? = ¿Alguien llamó?
+
+-- Did you speak to anyone?  = ¿Hablaste con alguien?
+
+-- Service available anywhere in the world?  = Servicio disponible en cualquier parte del mundo?
+
+-- Is this service available anywhere in the world? = ¿Este servicio está disponible en cualquier parte del mundo?
+
+-- Anyone could have seen it  = Cualquiera podría haberlo visto
+
+-- Anyone could do this = Cualquiera podría hacer esto
+
+-- Can I carry anything else? = ¿Puedo llevar algo más?
+
+-- Anything containing liquid is forbidden = Todo lo que contenga líquido está prohibido
+
+-- Did you see anything suspicious?    = ¿Viste algo sospechoso?
+
+-- He has searched everywhere = Ha buscado por todas partes
+
+-- Everywhere I go, I see this = A donde quiera que vaya veo esto
+
+-- I take this with me everywhere = Tomo esto conmigo por todas partes
+
+-- This airline flies everywhere = Esta aerolínea vuela por todas partes
+
+-- .. que pueden llegar en cualquier momento = which can happen at any time
+
+
 
 
 
@@ -3289,63 +4342,83 @@ rehacer – to redo
 
 ## BEFORE DOING THE FAMILY, HERE'S FULL CONJUGATIONS
 
-### Tenir Present
+- tener / tenido / teniendo
 
-yo tengo
+### Tener Present IND
+
+yo tengo - I have 
 tú tienes
 él tiene
 nosotros tenemos
 vosotros tenéis
 ellos tienen
 
-### Tenir Future
+### Tener Future IND
 
-yo tendré
+yo tendré - I will have
 tú tendrás
 él tendrá
 nosotros tendremos
 vosotros tendréis
 ellos tendrán
 
-### Tenir Imperfect
+### Tener Imperfect IND
 
-yo tenía
+yo tenía - I had 
 tú tenías
 él tenía
 nosotros teníamos
 vosotros teníais
 ellos tenían
 
-### Tenir Preterite
+### Tener Preterite aka "Simple past IND"
 
-yo tuve
+yo tuve - I had
 tú tuviste
 él tuvo
 nosotros tuvimos
 vosotros tuvisteis
 ellos tuvieron
 
-### Tenir Conditional
+### Tener Perfect aka "Present-Perfect IND"
 
-yo tendría
-tú tendrías
-él tendría
-nosotros tendríamos
-vosotros tendríais
-ellos tendrían 
+yo he tenido - I have gotten / I have had / I have owned [ 2 bimmer-318s etc.]
+tú has tenido
+él ha tenido
+nosotros hemos tenido
+vosotros habéis tenido
+ellos han tenido
 
-### Tenir Pluperfect
+### Tener Pluperfect IND
 
-yo había tenido
+yo había tenido - I had had / I had got
 tú habías tenido
 él había tenido
 nosotros habíamos tenido
 vosotros habíais tenido
 ellos habían tenido 
 
-### Tenir  Conditional Perfect
+### Tener Future perfect IND
 
-yo habría tenido
+yo habré tenido - I will have had
+tú habrás tenido
+él habrá tenido
+nosotros habremos tenido
+vosotros habréis tenido
+ellos habrán tenido
+
+### Tener Conditional IND
+
+yo tendría - I would have
+tú tendrías
+él tendría
+nosotros tendríamos
+vosotros tendríais
+ellos tendrían 
+
+### Tener Conditional Perfect
+
+yo habría tenido - I would have got / I would have had
 tú habrías tenido
 él habría tenido
 nosotros habríamos tenido
@@ -3353,7 +4426,7 @@ vosotros habríais tenido
 ellos habrían tenido 
 
 
-### Tenir  Past Anterior
+### Tener  Past Anterior aka "Preterite Perfect IND"
 
 yo       hube tenido
 tú       hubiste tenido
@@ -3362,9 +4435,69 @@ nosotros hubimos tenido
 vosotros hubisteis tenido
 ellos    hubieron tenido 
 
+### Tener SUBJ Present
+
+yo tenga - I doubt that I have
+tú tengas
+él tenga
+nosotros tengamos
+vosotros tengáis
+ellos tengan
+
+### Tener SUBJ Present Perfect
+	
+yo haya tenido - I doubt that I have had
+tú hayas tenido
+él haya tenido
+nosotros hayamos tenido
+vosotros hayáis tenido
+ellos hayan tenido
+
+### Tener SUBJ Imperfect 1
+
+yo tuviera - I doubt that I had  / I doubt that I was having
+tú tuvieras
+él tuviera
+nosotros tuviéramos
+vosotros tuvierais
+ellos tuvieran
+
+### Tener SUBJ Imperfect 2
+
+yo tuviese - I doubt that I had
+tú tuvieses
+él tuviese
+nosotros tuviésemos
+vosotros tuvieseis
+ellos tuviesen
+
+### Tener SUBJ Pluperfect aka SUBJ past perfect
+
+yo hubiera/hubiese tenido - I doubt that I had had
+tú hubieras/hubieses tenido
+él hubiera/hubiese tenido
+nosotros hubiéramos/hubiésemos tenido
+vosotros hubierais/hubieseis tenido
+ellos hubieran/hubiesen tenido
 
 
+### Tener SUBJ Future
 
+yo tuviere  - I doubt that I will have 
+tú tuvieres
+él tuviere
+nosotros tuviéremos
+vosotros tuviereis
+ellos tuvieren
+
+### Tener SUBJ Future Perfect 
+
+yo hubiere tenido - I doubt that I will have had / gotten
+tú hubieres tenido
+él hubiere tenido
+nosotros hubiéremos tenido
+vosotros hubiereis tenido
+ellos hubieren tenido
 
 
 ### TENER FAMILY
@@ -3374,7 +4507,7 @@ atenerse – to abide by, to heed
 contener – to contain
 detener – to stop, detain, arrest, deter
 entretener – to entertain
-mantener – to maintain, to support
+mantener – to maintain, keep, support, get
 obtener – to obtain, to get
 retener – to retain
 sostener – to sustain, to defend
@@ -3400,10 +4533,14 @@ No ha entretenido su coche. (He has not maintained his car.)
 Se entretenía por tocar el piano. (She entertained herself by playing the piano.)
 
 mantener: to (physically) support, to sustain, to maintain, to remain or keep.
- Los precios se mantuvieron estables. (Prices remained stable.) 
+Tiene que mantener el cinturón de seguridad puesto. =  You must keep your seatbelt buckled.
 Mantenga limpia España. (Keep Spain clean.)
- Roberto se mantiene con caramelos. (Roberto keeps himself going with candy.)
+Roberto se mantiene con caramelos. (Roberto keeps himself going with candy.)
  Se ha mantenido como nuevo. (It has been maintained like new.)
+mantener el área seca  = to keep area dry
+Los precios se mantuvieron estables. (Prices remained stable.) 
+Queremos mantener este sistema. = We want to keep this system.
+¡Por esto tenemos que mantener la presión! = That is why we have to keep up the pressure!
 
 obtener: to get, to obtain.
  Obtuve la firma del actor. (I got the actor's signature.)
@@ -3821,3104 +4958,379 @@ I will have been
 - Solía gustar a susan = I used to like susan
 
 
+############################################################
+
+## SONG LYRICS: La Macarena
+
+############################################################
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Give your body joy Macarena
+Your body is to give you joy uh good thing
+Give your body joy Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Que en la jura de bandera el muchacho
+Se la dio con dos amigos
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera el muchacho
+Se la dio con dos amigos
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Macarena Macarena Macarena
+Que te gustan los veranos de Marbella
+Macarena Macarena Macarena
+Que te gusta la movida guerrillera
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Macarena suena con el Corte Ingles
+Y se compra los modelos mas modernos
+Le gustaria vivir en Nueva York
+Y ligar un novio nuevo
+
+Macarena suena con el Corte Ingles
+Y se compra los modelos mas modernos
+Le gustaria vivir en Nueva York
+Y ligar un novio nuevo
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera del muchacho
+Se la dio con dos amigos
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera del muchacho
+Se la dio con dos amigos
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
 
 
 
 ############################################################
 
-# VOCABULARY BUILDING INTRO
+## SONG LYRICS: Cielito Lindo - Lovely Sky
 
 ############################################################
 
-- sec TODO!
-
-# VOCABULARY BUILDING ONLINE HELPERS
-
-http://www.linguasorb.com/spanish/vocabulary/
-http://www.spanish411.net/Spanish-Vocabulary.asp
-
-
-
-############################################################
-
-# VOCABULARY ALPHABET
-
-############################################################
-
-- h - ache - (say 'ah-chay')
-
-- j - jota - (say 'hoh-ta')
-
-- k - kah - (say 'kah')
-
-- l - el 
-
-- ll - double-l   (say 'dooblay-el') 
-
-- n - eneh
-
-- N - enyeh (don't have the keyboard accent)
-
-- r - ere - (say 'air-eh') - suave-R
-
-- RR - double-R - (say 'dooblay-air') - fuerte-R
-
-- v - (say 'oo-veh')
-
-- w - double-B - (say 'dooblay-beh')
-
-- y =  (say 'ee-gee-air-ch')
-
-
-
-############################################################
-
-# VOCABULARY BODY PARTS
-
-############################################################
-
-
-## IMPORTANT ISSUE w REFLEXIVE VERBS + BODY PARTS: use el-la-* not su-tu-*
-
-- lit I wash myself the face NOT I wash myself my face
-
-- also, I sprain myself the ankle NOT I sprain myself my ankle
-
-- ankle - el tobillo
-
-- arm - el brazo
-
-- forearm = el antebrazo
-
-- armpit = la axila  ALSO el sobaco
-
-- ass = el culo [think FR] - also polite: el trasero [think trousers]
-
-- back = la espalda
-
-- belly = la panza
-
-- body = el cuerpo
-
-- bone = el hueso
-
-- bottom = [polite:] el trasero [think trousers]
-
-- breast = el pecho
-
--- (breast of chicken, cuisine-speak = la pechuga)
-
-- ear = el oido
-
--- el dolor de oidos = earache
-
-- elbow - el codo
-
-- eye = el ojo 
-
-- eyebrow = la ceja  - usually pl: las cejas
-
-- eyelashes = las pestanas
-
-- face = la cara
-
-- finger - dedo de mano
-
-- finger-nail = la una
-
--- el cepillo para las unas = nail-file/brush
-
-- foot - el pie [foot = pie = MASC, leg = pierna = FEM]
-
-- toenail = la una del pie
-
--- on foot - a pie
-
-- forehead - la frente
-
-- hair = el pelo [ ALSO el cabello = hair ?TODO MCU? ]
-
-- hand - la mano (EXCEPTION to -o = MASC rule)
-
-- head - la cabeza
-
--- el dolor de cabeza = headache
-
-- heel [BODY PART] = el talon 
-
--- heel [of a shoe] = el tacon .. so ..
-
--- could you replace the heels on these = podria cambiar los tacones?
-
-- hip = la cadera
-
-- leg - la pierna [foot = pie = MASC, leg = pierna = FEM]
-
-- kidneys = los rinones
-
-- knee - la rodilla
-
-- lungs = los pulmones
-
--- la pulmonia = pneumonia
-
-- mouth - la boca
-
-- neck = el cuello
-
--- necklace = el collar [BUT collar = el cuello]
-
--- necktie = la corbata
-
-- nose = la nariz
-
-- la ventana de la nariz = nostril
-
-- ? nose = la nata [? MADRID? never heard this usage in LATAM]
-
-- rib = la costilla
-
-- shoulder = el hombro
-
-- skin - la piel 
-
-- spine = la columna vertebral
-
-- stomach = el estomach
-
-- throat - la garganta
-
-- thumb = el pulgar  ALSO el dedo gordo
-
-- thigh = el muslo
-
-- toe = el dedo a pie
-
-- tongue = la lengua
-
-- tooth = la muela, el diente  [FR dent, and similar dent* constructions to ENG, so ..]
-
--- el/la dentist/dentista
-
--- la dentura postiza = dentures
-
--- el dolor de muelas = toothache
-
--- el hilo dental = dental floss
-
--- la pasta de dientes = toothpaste
-
--- el cepillo de dientes = toothbrush
-
--- la calza = tooth-filling
-
-- waist = la cintura
-
-- wrist = la muneca
-
+Ay, ay, ay, ay, canta y no llores
+Porque cantando se alegran
+Cielito lindo los corazones
+
+sing and do not weep
+Because singing makes you happy
+Lovely sky, the hearts
+
+De la sierra, morena
+Cielito lindo vienen bajando
+Un par de ojitos negros
+Cielito lindo de contrabando
+
+From the Sierra Morena,
+Lovely sky, come down,
+A pair of dark eyes,
+Lovely sky, of smuggling.
+
+De la sierra, morena
+Cielito lindo vienen bajando
+Un par de ojitos negros
+Cielito lindo de contrabando
+
+Ay, ay, ay, ay, canta y no llores
+Porque cantando se alegran
+Cielito lindo los corazones
+
+Ay, ay, ay, ay, canta y no llores
+Porque cantando se alegran
+Cielito lindo los corazones
+
+Ese lunar que tienes, 
+cielito lindo, Junto a la boca, 
+no se lo des a nadie
+Cielito lindo que a mi me toca
+
+That beauty spot that you have,
+Lovely sky, next to the mouth,
+Don’t give it to anyone else,
+Lovely sky, because it touches me.
+
+Ay, ay, ay, ay, canta y no llores
+Porque cantando se alegran
+Cielito lindo los corazones
+
+Si tu boquita morena,
+Fuera de azúcar, fuera de azúcar,
+Yo me lo pasaría,
+Cielito lindo, chupa que chupa.
+
+If your brown mouth,
+Was made out of sugar, was made out of sugar,
+I would spend my time,
+Lovely sky, absorbing it.
+
+De tu casa a la mía,
+Cielito lindo, no hay más que un paso,
+Antes que venga tu madre,
+Cielito lindo, dame un abrazo.
+
+From your place to my place,
+Lovely sky, there’s no more than a step,
+Before your mother comes,
+Lovely sky, give me a squeeze.
+
+Una flecha en el aire,
+Cielito lindo, lanzó Cupido,
+Una flecha en el aire,
+Cielito lindo, que a mí me ha herido.
+
+An arrow in the air,
+Lovely sky, Cupid has shot,
+An arrow in the air,
+Lovely sky, that has struck me.
+
+Ay, ay, ay, ay, canta y no llores
+Porque cantando se alegran
+Cielito lindo los corazones
 
 
 ############################################################
 
-# VOCABULARY BODY PARTS (INTERNAL / ORGANS)
+## VERB-WALK: BEBER vs VIVIR
 
 ############################################################
 
-- la amígdala     = tonsil
+beber  bebido/bebiendo :  bebo	bebes	bebe	bebemos	bebéis	beben
+vivir  vivido/viviendo :  vivo	vives	vive	vivimos	vivís	viven
 
-- el apéndice     = appendix
+- IMPERFECT
 
-- la arteria      = artery
+ bebía	bebías	bebía	bebíamos	bebíais	bebían
+ vivía	vivías	vivía	vivíamos	vivíais	vivían
 
-- la articulación = joint
+- Preterite
 
-- el bazo         = spleen
+ bebí	bebiste	bebió	bebimos	bebisteis	bebieron
+ viví	viviste	vivió	vivimos	vivisteis	vivieron
 
-- la calavera     = skull
+- Future
 
-- el cartílago    cartilage
+ beberé	beberás	beberá	beberemos	beberéis	beberán
+ viviré	vivirás	vivirá	viviremos	viviréis	vivirán
 
-- el cerebro      brain, cerebrum
+- SUBJ PRESENT
 
-- el colon        colon
+ beba	bebas	beba	bebamos	bebáis	beban
+ viva	vivas	viva	vivamos	viváis	vivan
 
-- la columna      backbone
+- SUBJ IMPERFECT
 
-- el corazón      heart
-
-- la costilla     rib
-
-- el cráneo       cranium, skull
-
-- el diente       tooth
-
-- el esqueleto    skeleton
-
-- el estómago     stomach
-
-- la garganta     throat
-
--- las pastillas para la garganta = sore-throat pastilles
-
-- el hígado       liver
-
-- el hueso        bone
-
-- el intestino delgado  =  small intestine
-
-- el intestino grueso   =  large intestine
-
-- la lengua      = tongue
-
-- el ligamento    ligament
-
-- la muela        tooth, molar
-
-- el músculo      muscle
-
-- el nervio       nerve
-
-- el oído         (inner) ear [BUT] la oreja (outer) ear
-
-- la oreja        (outer) ear [esp las orejas = ears]
-
-- el órgano       organ
-
-- el páncreas     pancreas
-
-- el pulmón      lung
-
-- el riNón       kidney
-
-- la sangre      blood
-
-- el tendón      tendon
-
-- la vejiga      bladder
-
-- la vena        vein
-
-- la vértebra    vertebrae
-
-- la vesícula biliar = gall bladder
+bebiera  bebieras  bebiera   bebiéramos  bebierais   bebieran
+viviera  vivieras  viviera   viviéramos  vivierais   vivieran
 
 
 ############################################################
 
-# VOCABULARY COLORS
-
-############################################################
-
-- anaranjado/a = orange
-
-- argentia TODO silver color and metal
-
-- azul = blue
-
-- celeste = light blue
-
-- azul marino = navy blue
-
-- dorado/a = gold color
-
-- marron = brown
-
-- color cafe  = brown
-
-- morado/a = purple [and some dialects slang bruise / black-eye]
-
-- el oro = gold metal
-
-- plateado/a = silver color
-
-- la plata = ? metal ? platinum metal
-	
-- violeta = violet TODO o/a ?
-
-
-############################################################
-
-# VOCABULARY FOODS
-
-############################################################
-
-- el albaricoque, el damasco, el chabacano = apricot
-
-- la berenjena = aubergine
-
-- el bistec = steak
-
-- la cebolla = onion TODO
-
-- la ciruela = plum
-
-- la coliflor cauliflower
-
-- el durazno = peach
-
-- la espinaca = spinach
-
-- la frambuesa = raspberry
-
-- la fresa, la frutilla = strawberry
-
-- el frijol, los frijoles = bean, beans [also la judia = bean]
-
-- los guisantes = peas TODO check M/F
-
-- el puerro = leak (the big root-vege)
-
-- la mazorca de maiz = TODO corn on the cob ?
-
-- el repollo = cabbage
-
-- la sandia = melon
-
-- el tocino = bacon
-
-- la uva = grape
-
-
-############################################################
-
-# VOCABULARY FULL ALPHABETICAL LIST
+## VERB-WALK: SENTAR vs SENTIR
 
 ############################################################
 
 
-- el abrigo = coat
+sentar sentado/sentando : siento sientas sienta  sentamos sentáis sientan
+sentir sentido/sintiendo: siento sientes siente  sentimos sentís  sienten
 
-- abajo = downstairs / down below
+- IMPERFECT
 
-- los abones - season tickets [FR abonement] - [SOME DIALECTS HAVE el abono = instalment payment] 
+sentaba sentabas sentaba  sentábamos sentabais sentaban
+sentía  sentías  sentía   sentíamos  sentíais  sentían
 
-- aborrer - to abhor, hate ?TODO? get conjugation + ejemplos
+- Preterite
 
--- aborrezco .. - I hate ..
+senté sentaste sentó   sentamos sentasteis  sentaron
+sentí sentiste sintió  sentimos sentisteis  sintieron
 
-- el abrigo = coat
+- Future
 
-- abrochar = to staple
+sentaré sentarás sentará  sentaremos sentaréis sentarán
+sentiré sentirás sentirá  sentiremos sentiréis sentirán
 
-- aburrido = boring
+- CONDITIONAL
 
-- aburrirse = to get bored
+sentaría sentarías sentaría   sentaríamos  sentaríais sentarían
+sentiría sentirías sentiría   sentiríamos  sentiríais sentirían
 
-- acabar = to finish
+- SUBJ PRESENT
 
-- acabo de .. (INF) = I have just (done something) 
+siente sientes siente  sentemos sentéis sienten
+sienta sientas sienta  sintamos sintáis sientan
 
--- Se nos acabaron las galletitas. = "We´ve run out of cookies."
+- SUBJ IMPERFECT
 
-- acabar por .. = (INF) "finally" as in:
+sentara  sentaras  sentara  sentáramos  sentarais  sentaran
+sintiera sintieras sintiera sintiéramos sintierais sintieran
 
--- Acabé por decirle la verdad. = "I finally told him the truth."
+- SUBJ FUTURE
 
-- Se acabo! = That's the end of the matter! or "That's that!" . EG ..
+sentare   sentares   sentare   sentáremos  sentareis  sentaren
+sintiere  sintieres  sintiere  sintiéremos sintiereis sintieren
 
--- ¡No irás y se acabó! = You won´t go and that´s that!
 
--- <CAUTION in Argentina acabar can mean "have an orgasm" but not in a rude sense>
+############################################################
 
-- el acantilado = cliff
+## VERB-WALK: SUBJUNCTIVE USAGE MCU EVERYDAY COMMON EGs
 
-- la acera = sidewalk / pavement [NB la acera VS el ecero : 2 completely unrelated words]
+############################################################
 
-- acerca de.. = about .. / concerning ..
+- Juan, I don't want you to think about that yet. = John, no quiero que pienses en eso todavia.
 
-- acercarse = to approach, to bring closer, to get closer
+- Juan, I don't want you to worry about that. = John, no quiero que te preocupes por eso.
 
-- acertar = to hit the mark, hit upon, succeed, do right
-
-- el acero = steel [NB la acera VS el ecero : 2 completely unrelated words]
-
-- acido = sour [MCU so more used in SPA, not as tenuous as saying "an acid taste"]
-
-- acoger = <VT>  to welcome, to receive, to take in, to admit, to accept
-
-- aconsejar = to counsel / advise
-
-- acordarse - to remember / recall
-
-- acostarse - to go to bed / retire [ despetarse = wake up, get up]
-
-- acostar - to put to bed [ALSO RELATED SLANG:] echarse la siesta
-
--- al acostarse.. - when you go to bed..
-
-- acostado/a - lying down [positions of the body: sentado/a parado/a]
-
-- adentro = inside
-
-- adelante = [straight] ahead
-
--- Siga adelate. = Go straight ahead.
-
--- Buenos días, pase adelante, por favor. = Good morning, come in, please.
-
--- Pasa adelante! = Lead on!
-
--- Nadie estaba de acuerdo, sin embargo, ellos decidieron seguir adelante. 
-
-= Nobody agreed, however they decided to go ahead anyway.
-
--- esta mas adelante = it's further on [down the road]
-
--- Un poco más adelante hay un cartel. = There's a signpost a little further on.
-
-- adelantarse = to overtake [esp driving a car]
-
-- [por] adelantado = in advance 
-
-- ademas de.. = besides.. , as well as .. 
-
-- adentro = inside
-
-- aficionado/a = [same as ENG]
-
-- afortunadamente = fortunately [desgracio = unfortunately]
-
-- las afueras = suburbs, outskirts
-
-- afuera = outside <FIG MCU esp LATAM>
-
--- de afuera .. = from the outside ..
-
--- por afuera .. = on the outside ..
-
--- Afuera! = Get out of the way!
-
--- decir algo para dientes afuera = say one thing but mean another
-
--- lo que pasa de puertas afuera = .. what goes on abroad / overseas ..
-
--- eso lo dice de boca para afuera = he's just saying that (but doesn't mean it)
-
--- apoyó la idea de boca para afuera = he paid lip-service to the idea
-
--- es muy valiente de labios para afuera = he seems brave on the face of it
-
-- la agarraderra = handle
-
-- agarrar = to hold, grasp, catch, grab
-
--- ya han agarrado al ladrón = they've already caught the thief
-
--- Agarra bien el bolso! = hold on to your handbag!
-
--- iban agarrados del brazo = they were walking arm in arm
-
--- 
-
-- el agarre = lover
-
-- la agenda = diary [plain ol' meaning unlike the overloaded ENG usage] 
-
-- agitar = to shake, to agitate
-
-- agotado = exhausted
-
-- agradable = nice, pleasant, agreeable
-
-- agradar = to please
-
-- agradecer = to thank, be grateful for
-
--- agradezco ..  = I thank .. OR I am grateful ..
-
-- agradecido = grateful
-
-- aguitar = to scare, frighten
-
-TODO figure out how NYC slang "agita" meshes with this - is it just the same word spelled wrong?
-
-- la aguja = needle [FR: aigule]
-
-- el agujero = hole <TODO ITSO ? just any old hole is the MCU "hoyo"> 
-
--- cavo un agujero = I dig a hole
-
-- ahorita = right away, just a moment ago, just this minute
-
-- el aire = air [USEFUL SCUBA]
-
-- el ajedrez = chess
-
-- el alambre = wire [TODO what sense?]
-
-- el alargue, alargador = extension lead
-
-- la ala = wing
-
-- la alarma = alarm
-
-- la alberca = [MEX] swimming pool [ MCU elsewhere piscina]
-
-- el alborotador = troublemaker
-
-- alegre = lively
-
-- las aletas = flippers ?TODO ? also scuba fins?
-
-- el alfiler = pin
-
-- la alfombra = rug, carpet <ALT el tapete = rug > <ALT la moqueta>
-
-- alfombrar VT = to carpet <ITSO this place must be completely carpeted>
-
-- alguien = anybody
-
-- alguien habla ingles? = does anyone speak English?
-
-- algo = anything
-
-- algo mas? = [would you like] anything more / further / else?
-
-- el almacen = big department store, warehouse, super-store
-
-- la almohada = pillow
-
-- el alohamiento = accomodation
-
-- el alohamiento y desayuno = B+B
-
-- alquilar = to rent
-
--- de alquilar = for hire [MCU -esp real-estate: se renta] 
-
-- el alquiler = rental
-
-- el alquiler de.. autos /barcos /bicicletas /esquis /tablas
-
-- la almohada = pillow
-
-- alrededor = around-abouts, hereabouts [ON SIGN IN MEX - don't litter hereabouts]
-
-- la altura = altitude, height
-
-- la altura maximum = max headroom
-
-- amable = kind, amiable
-
-- si fuera tan amable.. = if you would be so kind..
-
-- amamantar = to breast-feed
-
-- el amanecer = sunrise, daybreak
-
-- amargo = [ADJ] bitter
-
-- amarrete = stingy
-
-- ambos, ambas = both [?TODO ambas - agrees? how? ][ALSO "los dos" like FR]
-
-- la ampolla - blister
-
-- la ampolleta [SLANG SOME S-AM] light-bulb - MC: la bombilla
-
-- el ancho, la anchura = width, breadth
-
-- andar VI = to walk, to go
-
-- Andale! = "Let's go!"
-
-- el anden = platform [in train station], also a sidewalk
-
--- de que anden sale el tren para San Jose? = from which platform goes the train to SJ?
-
--- accesso de anden = "to the trains" (often seen in stations)
-
-- anteayer = the day before yesterday
-
-- antes (de) que (+ subjunctive) = before
-
-- lo antes de posible = ASAP
-
-- el anillo = ring [FR: anneau]
-
-- anoche = last night
-
-- el anticipo = [NOUN] advance (of money pending full payment)
-
-- el anticonceptivo = contraceptive
-
-- el anticongelante = antifreeze fluid (for car)
-
-- anticuado = [ADJ] out-of-date 
-
-- anticuario, (tienda de) antiguedades = antiques dealer / shop
-
-- las Antillas = the West Indies
-
-- antipatico = nasty, unpleasant
-
-- anular = to cancel [think: anul]
-
-- apagar = to switch off [ to switch on = prender ] 
-
-- el apagon = power cut / power black-out
-
-- apague el motor! = switch your engine off!
-
-- apague las luces! = turn your lights/beams off!
-
-- el aparato = device
-
-- el aparador = shop-window [MEX slang]
-
-- apasionante = thrilling, compelling
-
-- el apellido = surname, family-name
-
-- apenado = [ADJ] sorry, embarrassed, ashamed
-
-- apenarse = to be sorry, embarrassed, ashamed
-
-- apenas = scarcely
-
-- aperecer = to appear
-
-- se apetecer = to feel like [ so ..]
-
--- me apetece .. [whatever]
-
-- el apodo = nickname
-
-- la apoplejia = stroke, fit [ENG THINK apoplexy]
-
-- aprender = learn (like FR apprendre)
-
-- aprensivo = apprehensive, fearful
-
-- apretar  = tighten [up], squeeze, to be too tight, to press down [against/upon] apretado/apreta
-
-
-- apriete el buton para cruzar = 'press button to cross' [ON A PELICAN CROSSING]
-
-- aprovechar = to take advantage of ?TODO
-
-- aproximadamente = about, approximately
-
-- apto .. [restricted to only .. FIGURATIVE ]
-
-- apto para mayores de 18 anos = for adults only
-
-- apurado = in a hurry
-
-- apurarse = to be in a hurry
-
-- apurarte! = hurry up! shift ass!
-
-- la araNa = spider
-
-- el araNazo = [NOUN] scratch [THINK: spider-bite]
-
-- el arbol = tree [think FR arbre]
-
-- arrancar = start [motor, SO..]
-
--- no arranca = it won't start
-
-- el arranque = [NOUN] ignition (system)
-
-- arrecho = horny, aroused [ALSO CAN BE: incensed / furious]
-
-- arreglar = to sort out, to arrange, to fix (up)
-
-- arrendar = to rent, hire
-
-- arriba = up [MCU-IMPORTANT]
-
--- alli arriba = up there
-
-- la arroba = @ (ampersand in email-addr)
-
-- el arroyo = stream
-
-- los articulos = articles [things]
-
-- los articulos de artisania = arts and crafts
-
-- los articulos de boda = wedding presents
-
-- los articulos de deporte = sports goods /  stuff
-
-- los articulos de limpieza = household cleaning goods
-
-- los articulos de playa = beachwear / beach stuff
-
-- asi = like this/that, in this/that way, thus <REM casi = almost >
-
-- el ascensor = lift / elevator [same as FR]
-
-- el asiento = seat [la silla = chair]
-
-- asqueroso = disgusting
-
-
-- asomarse ? TODO ?
-
-- asombro = astonishment
-
-- asombroso = astonishing / amazing
-
-- asustar = to frighten
-
-- asustado = afraid
-
-- atacar = to attack
-
-- el atajo = shortcut
-
-- el ataque = attack [NOUN]
-
-- el ataque al corazon = heart attack
-
-- el ateo = atheist
-
--- soy ateo = I'm an atheist
-
-- atestado = crowded
-
-- atorarse = to get stuck [like a car in mud, passenger in a jam]
-
-- atracar = to mug / hold-up 
-
-- el atraco a mano armada = armed robbery / stick-up job
-
-- atraer = to attract
-
-- atras = behind, at the back
-
-- esta mas atras = it's further back
-
-- aNos atras = years ago
-
-- atrasado = late
-
-- el atraso = delay
-
-- la parte de atras = the back
-
-- atravesar = to go through, cross, run through
-
-- atroz = dreadful 
-
-- atropellar = to knock down
-
-- el audifono = hearing aid
-
-- aun = still / yet / even [ DIFFICULT AMBIGUITY]
-
-- aunque = altho, even though, even if
-
-- avergonzado = ashamed
-
-- la averia =  breakdown
-
-- averiarse = to break down
-
-- avisar = to inform
-
-- avivarse = to wise up, to get your act together
-
--- puede avisarme cuando lleguemos? = could you let me know when we get there?
-
-- el aviso = notice / advertisement / sign
-
-- ayer por la maNana = yesterday morning 
-
-- ayer por la tarde = yesterday evening 
-
--- anteayer = the day before yesterday
-
-- ayudar = to help, to assist [PO: ajuda]
-
-- la ayuda = help, assistance
-
-- el azulejo = tile
-
-- la baca = roof-rack
-
-- el bache = hole in the road
-
-- el banco = bank -and- bench/chair [confusing ambiguity w donde esta el banco? park-bench? ATM?]
-
-- barato = cheap <vs caro = expensive> <ITSO a good deal; tacaño = cheap ITSO cheap takky person>
-
-- la barba = beard [think FR]
-
-- bastante = quite a lot / quite 
-
-- la basura = trash / rubbish
-
-- el cubo de basura  trashcan
-
-- besar = to kiss [FR]
-
-- el beso = kiss [FR]
-
-- los bienes = goods, possessions, assets
-
-- la bifurcacion = fork in a road, Y-junction
-
--- [also] el desvio = turning in the road
-
-- el bigote = moustache
-
-- la bluse = blouse
-
-- la bolsa = bag -also- stock-exchange like beurse etc.
-
-- la bombilla - light-bulb
-
-- el bosque = forest
-
-- brincar = to jump
-
-- bruto = stupid
-
-- buscear = search for
-
-- la cacerola = saucepan [almost casserole-dish]
-
-- la cadena = chain [ ?TODO what kind? ]
-
-- caer = to fall
-
-- caerse = to fall over, to fall down [MCU ITSO both physical and figurative falling-down]
-
-- la caida = fall [NOUN MCU ITSO both physical and figurative falls - fall of Rome, nasty fall down the stairs etc.]
-
-- el cajon = drawer [like in a cabinet, chest of drawers]
-
-- el calcetin = sock
-
-- calentar = to heat up, warm, warm up
-
-- el callejon, la callejuella = side-street / alley
-
-- callese! = shut [the f*k] up!
-
-- calvo = bald
-
-- la calzada = street
-
--- calzada deteriorada = bad road surface
-
--- calzada irregular = uneven road surface
-
-- los calzones / calzoncillas = underpants / briefs
-
-- la cama = bed
-
-- el camarote = cabin [el cuarto = MCU for hotel room]
-
-- la camara = camera
-
-- caminar = to walk
-
--- me gusta caminar sin rumbo fijo = I like just wandering around any old where without destination
-
-- el camino = path
-
-- los camiones = vehicles (like FR camions) 
-
-- la camisa = shirt [think FR]
-
-- el campo = field [ so ..]
-
-- el campo de deportives = sports ground
-
-- el campo de futbol = footie ground
-
-- la canasta = basket
-
-- la cana = cane, esp sugar-cane
-
-- cana de pescar = fishing-rod
-
-- cantar = to sing
-
-- cansado = tired [BEWARE: casado vs cansado CONFUSING]
-
--- estoy cansado = I'm tired
-
-- la carcel = prison / jail
-
-- la cara = face [ ?TODO? caro rostro ?OTHERS? ]
-
-- caro = expensive [barato = cheap]
-
-- la carretera = road [so ..] ...
-
--- la carretera cortada = blocked road
-
--- la carretera de circunvalacion = bypass
-
--- la carretera de doble carril = 2-lane road
-
-- el carro = car
-
-- el carro rentado = rental car
-
-- la carroceria = bodywork
-
-- el carro-comedor = buffet car on a train
-
-- la carta = menu [!FALSE-FRIEND! same as FR: carta => ENG menu; menu = ENG dish-of-day ]
-
-- casado = married 
-
--- estoy casado = I'm married
-
--- estoy soltero = I'm single 
-
-- casi = almost
-	
-- en caso (de) que (+ subjunctive) = in case that
-
-- cazar = to hunt
-
-- la caza = hunting, game <ITSO "game" like deer + pheasants that you shoot + eat>
-
-- celos = jealousy
-
-- tener celos = to be jealous
-
-- celoso = jealous
-
-- el cepillo = brush
-
-- el cepillo de dientes = toothbrush
-
-- el cepillo de pelo = hairbrush
-
-- la cerilla = match [the kind you strike to alight] MEX el cerillo
-
-- cerrado = closed
-
-- la cerrada = cul-de-sac i.e. closed road
-
-- la cerradura = lock
-
-- cerramos los lunes = we are closed on mondays
-
-- el cerrojo = bolt
-
-- el cerro = hill
-
-- el cesped = lawn [ALSO la grama = lawn]
-
-- la cesta = basket [like a shopping basket, but more specific usage goes so ..]
-
-- el cesto de la compra = shopping basket 
-
-- el chaleco = waistcoat
-
-- el chaleco salvavidas = life-jacket
-
-- chillar = to shout / scream
-
-- el chiste = ?TODO
-
-- chocante = shocking
-
-- la cicatriz = scar
-
-- ciego = blind [as in can't see; blinds on a window => las persianas]
-
-- el cierre = zip
-
--- podria cambiar el cierre? = could you put a new zip in?
-
-- cierto = true
-
--- no es cierto = that's not true
-
-- la cita = appointment
-
-- la cinta = belt, tape, ribbon <ITSO old audio/computer tapes, airport baggage belts, ribbons>
-
-- el cinturon = belt
-
-- el cinturon de seguridad = safety-belt (in a plane, car)
-
-- el clavo = nail [the kind you hammer into wood or surfaces]
-
-- el cobertizo = shed
-
-- cobrar = to charge, to earn
-
-- la cobija = blanket, rug
-
-- cocer = to boil [think ENG: cook]
-
-- coger = to fuck [colloquially, the formal meaning "take" is no longer used]
-
--- recoger = to collect / pick up [ is ok and doesn't imply shagging]
-
-- la cola = queue / lineup
-
-- comenzar = to commence, begin
-
-- el comienzo = the beginning, the start [same word as "I begin"]
-
-- como? = how?
-
-- compaNera / o = girfriend / boyfriend
-
-- compartir = to share
-
-- comprar =to buy
-
-- las compras = the shopping
-
--- hacer las compras = do the shopping
-
--- hacer las compras = to do the shopping
-
--- ir de compras = go shopping
-
-- la compresa = sanitary towel, tampax
-
-- los comprimidos [MPL] = tablets for medication
-
-- la concha = shell [THINK CONCH]
-
-- concientizar = make aware
-
-- concientizarse = to realize ST
-
--- concientizar a algn de algo — to raise SO's consciousness about ST
-
-- congeladar = to freeze
-
-- los congelados = frozen foods [like the section in a supermarket]
-
-- congelador = freezer [dialect]
-
-- la contraseNa = password (as in login/pw)
-
-- los cordones = shoelaces
-
-- el correo = letter / mail
-
-- el correo elecronico = email
-
-- la(s) cortina = curtain(s)
-
-- cortés = courteous
-
-- corto(a) = short <ITSO length/duration>; scarce; <FIG timid, shy, "little receding guy">
-
-- corto de vista = short/near-sighted
-
-- coser = to sew
-
-- en cuanto.. = as soon as..
-
-- tan pronto como.. = as soon as..
-
-- cuando = when, whenever
-
--- cuando regresamos = when we get back
-
--- cuando? = when?
-
-- cual? = which one?
-
-- el cuarto = [AMBIGUOUS] quarter like quarter of an hour, BUT ..
-
-- el cuarto = room [in a hotel/apartment/house, ITSO your "quarters"]
-
-- la cubeta = bucket
-
-- la cubierta = deck [of ship or similar]
-
-- la cuchara = spoon 
-
-- el cuchillo = knife [FORK = tenedor]
-
-- cuidar = to look after, care for, nurse < PRONUNC kweeDAR, NOT koo-ee-dar >
-
-- cuidado! = careful!
-
-- cuidado con el escalon = mind the step
-
-- cuidado con el pero = beware of the dog
-
-- la culpa = fault/blame/guilt 
-
--- no es culpa mia! = it's not my fault
-
-- el cumpleanos = birthday
-
--- que cumplas muchos mas! = many happy returns!
-
-- la cuna = cot/crib
-
-- la cuneta = gutter
-
-- el cuota [think ENG quota same PRONUN]  - contribution, toll, membership-fee
-
-- curar = to cure
-
-- curado = LIT cured BUT FIG well drunk / stoned / plastered / toasted
-
-- curarse = to heal up / get better
-
-- la curva = curve [esp in road]
-
-- curva peligrosa = [esp on road-sign] dangerous bend [ahead]
-
-- dado que.. = given that.., seeing as.., in light of the fact (that).., considering..
-
-- en vista de que..  = given that.., seeing as.., in light of the fact (that).., considering..
-
-- danar = to damage
-
-- danarse = to hurt oneself, get hurt
-
-- danarse la espalda = to hurt one's back
-
-- me dano el brazo = I hurt my arm ?TODO get the verb-tense right
-
-- debajo de .. = under ..
-
-- deber = <FR devoir> MC to owe, must, should, ought to, be obliged to do *, ..
-
-- para llegar a Madrid, debe seguir estas indicaciones: <NB debe imperative usage> =
-
--- .. to get to Madrid, you must follow the following instructions:
-
-- debil = weak, <THINK "debilitated">
-
-- el dedo = finger
-
-- el dedo de pie = toe
-
-- dejar = to leave / let [MCU-!!!]
-
-- el dejado = <!!! 2 BIZARRE DIFFERENT> (a) dung, shit (b) legacy, money as bankrolled out by a patron or backer
-
-- dejado <ADJ> =  <!!! 4 RELATED BUT DIFFERENT> (a) left (behind somewhere) (b) lost (c) abandoned (d) slovenly, untidy
-
--- dejar USAGE EGs
-
--- ¡Deja de perseguirme a todos lados!  = Quit following me everywhere!
-
--- Déjese guiar por su instinto. = Let yourself be guided by your instinct.
-
--- Era difícil conseguir a una persona de confianza con quien dejar a los niños.  
-
-== It was hard to find a trustworthy person to leave the children with.
-
--- ¿Quiere dejar Ud. un mensaje?  = Do you want to leave a message?
-
--- ¿Quisiera dejar algún número?  == Were you wanting to leave any number?
-
--- Déjeme que revise el manual de operador y le devolveré la llamada.
-
-== Let me review the operator manual and return your call.
-
--- ¿Por qué dejó su empleo anterior? ==  Why did you leave your last job?
-
--- No está, ¿quieres dejar un recado?  = He's not here, do you want to leave a message?
-
--- Mi madre no me deja ver televisión entre semana. = My mother doesn't let me watch TV during the week.
-
--- Déjame la llave. = Leave me the key.
-
--- Lo dejo, gracias.  = I'll leave it, thank you.
-
-
-- delante = in front
-
-- en la parte de delante de .. = at the front of ..
-
-- delgado/a = thin [ADJ]
-
-- dentro = "inside" or "within", broad, useful usage like ..
-
-- dentro de poco = soon; dentro de dos semanas = in 2 weeks time
-
-- (los) demas = the rest, the others
-
-- demasiado = too much
-
-- demasiados = too many
-
-- la demora = delay
-
-- cuanto demora? how long does / will it take? 
-
-- demorarse =  to be late
-
--- el tren se demoro = the train was late
-
-- depende = "it depends" <.. similar to Eng usage>
-
-- el deporte = sport
-
-- el deportivo = sports
-
-- deprimido = depressed
-
-- derecha, "a la derecha de.." vs derecho, todo derecho <exactly as FR "a droite" vs "tout droit"> 
-
-- la derrota = defeat
-
-- el desacuerdo = disagreement
-
-- desagradable = unpleasant <SW disagreeable but MCU>
-
-- desaparecer = to disappear
-
-- decepcionado = disappointed 
-
-- decepcionante = disappointing
-
-- [por] desgracia - unfortunately <not quite the same as ENGish disgracefully>
-
-- descansar = to rest
-
-- el descanso = (a) rest (ITSO nap or break) (b) interval (c) landing (of a staircase)
-
-- descarado = cheeky
-
-- descarrrilarse = to become derailed
-
-- la descompostura = breakdown
-
-- descompuesto = broken
-
-- descubrir = to discover, uncover
-
-- descuidado = careless
-
-- desde = since
-
--- desde ayer .. = since yesterday
-
-- desde que = since ..
-
--- .. desde que llegamos aqui .. = .. since we got here ..
-
-- desear = to want/wish
-
--- que desea? = what can I do for you?
-
-
-- deshacer = to undo ?TODO does it also have ENG + GER ITSO "unmake" ?
-
-- deshacer las maletas = unpack [the bags / cases]
-
-- desgracio = unfortunately [afortunadamente = fortunately]
-
-- desmadre = mess, chaos, "motherless", <esp MEX>
-
--- que desmadre! = what a bloody mess!
-
-- desmayarse = to faint
-
-- desnudo = naked
-
-- desordenado = untidy, messy, disordered
-
-- despacio = slowly <think, not dispatch yourself! rather, pace yourself!>
-
-- despedirse = to say goodbye, bid farewell
-
-- la despedida = [NOUN] farewell
-
-- despegar = to take off
-
-- el despegue =  [NOUN] take-off
-
-- despertar = wake (someone) up
-
-- despertarse = wake up (oneself), get up [acostarse = to go to bed / retire ]
-
-- despierto = awake
-
-- despreocupado = thoughtless
-
-- despues = afterwards
-
-- despues de = after
-
-- después (de) que = after
-
-- el destinatario = addressee, destination of a mail/message/shipment
-
-- el destino = destination
-
-- el destornillador = screwdriver
-
-- destruir = to destroy
-
-- la desviacion, el desvio = diversion, detour
-
-- detener = detain / arrest / stop / hold up / delay
-	
-- detras [de] .. = behind ..
-
-- la deuda = debt
-
-- devolver = to vomit, <ALSO just "to give back">
-
-- dibujar = to draw
-
-- el dibujo = drawing, design
-
-- los dibujos animados = cartoons
-
-- la dieta = <same as ENG>
-
-- [estar] .. a dieta = [be] .. on a diet
-
-- digitar = to key / type onto a computer keyboard
-
-- disculpe! = excuse me! sorry!
-
-- el discurso = speech <think ENG: discourse>
-
-- el diseNo = design 
-
-- disimular = to conceal, hide, fake, pretend, 
-
--- Disimuló su tristeza con una falsa sonrisa = He concealed his sadness with a feigned smile.
-
--- Disimulé las manchas de mi rostro con maquillaje = I concealed/hid my facial blemishes with makeup.
-
-- distinto = different
-
-- distraido = distracted, absent-minded
-
-- doblar = to fold
-
-- la docena = dozen
-
-- donde.. = where.., wherever.. [conjunctive use IMPORTANT]
-
-- dormido = asleep
-
-- la ducha = shower
-
-- ducharse = to shower
-
-- dudar = to doubt
-
-- el dueno = owner, creditor
-
-- duele! = it hurts!
-
-- las dunas = the [sand] dunes
-
-- duro = hard [THINK FR: dure ENG: durable]
-
-- echar - to throw [away] <MCU is arrojar ITSO throw garbage out window>
-
-- echar al correo = to post [like, a letter]
-
-- echar el cerrojo = to bolt [a lock]
-
-- echar sangre = to bleed
-
-- la edad = age
-
--- que edad tienes? = how old are you?
-
-- el egresado = graduate
-
-- elegir = to choose - same as escoger
-
-- el embargo = <SPA much more than ENG embargo ALSO> attachment, condition, seizure, aggravation
-
-- sin embargo = however, notwithstanding
-
-- el embotellamiento = traffic jam
-
-- empacar = to pack
-
-- emotionante = exciting
-
-- empezar = to begin
-
-- empieza a las ocho = it starts at eight
-
-- empinado = steep
-
-- la empresa = enterprise, firm, corporation
-
-- empujar = push
-
-- encontrarse = to encounter, meet, come across [MCU-IMPORTANT]
-
--- conocerse = to meet for the first time
-
--- el lugar del encuentro = meeting-place, rendezvous-point
-
-- engaNar = to trick / swindle
-
-- encamotarse = to fall for; fall in love with
-
-- encantando, encantador, lindo = nice, lovely [useful, very common usage]
-
-- encerrar = to lock up
-
-- el enchufe = plug/socket
-
-- la encomienda= parcel
-
-- .. se encuentra .. = .. is located .. [encuentrarse MCU for where something is at] [from VR encontrarse ]
-
-- el encuentro = encounter or meeting [NOUN derived from VR encontrarse ]
-
-- el enemigo = enemy
-
-- enfadado = <ADJ> angry
-
-- enfermo = sick
-
--- voy a devolver = I'm going to be sick / puke / vomit / throw up
-
-- enojado = annoyed / angry
-
-- enojarse = to get annoyed / angry
-
-- enseNar = to teach
-
-- entender = to understand
-
--- no entiendo = I don't understand
-
--- entiendo? = do you understand?
-
-- entonces = therefore, so
-
-- entregar = to deliver
-
-- el escalon = the step < GENDER-BENDER >
-
-- las escaleras = stairs
-
-- las escoba = broom
-
-- escoger = to chose - same as elegir
-
-- escupir = to spit
-
-- el esfuerzo = effort
-
-- la esquina = corner <MCU than el rincon>
-
-- esperar = wait
-
--- esperarse = wait for someone
-
--- espereme! = wait for me!
-
--- no me espere = don't wait for me.
-
-- espeso = <ADJ> thick, sense
-
--- puede esperarme aqui? = could you wait for me here?
-
-- estornudar = to sneeze
-
-- exigir = to demand
-
-- el exprimiador = juicer, squeezeador <ever such a clever thing>
-
-- la falda = skirt
-
-- el fastidio = annoyance
-
-- fastidio = <ADJ> annoying
-
-- a fin (de) que (+ subjunctive).. = in order that..
-
-- la fecha = date [ AS IN 23-jan-2016]
-
-- feo = <ADJ> ugly
-
-- la firma = signature < NOT firm/company like ENG + GER >
-
-- flaco = skinny, thin <ALT "delgado" less edgy> <ALT "flaco" is edgy with junky/druggy connotation>
-
-- flaco = <a dangerous street drug c 2014: users appear "flaco" thru appetite loss + poverty>
-
-- la flecha = arrow
-
--- siga la flecha = follow the arrow
-
-- flojo = <ADJ> weak in skill/subject, light, not up-to-speed
-
-- fuerte = strong / loud / <MCU-IMPORTANT> <GRAMMATICAL description like strong-RR>
-
-- las gafas = spex
-
-- las gafas de buceo = dive-goggles
-
-- todo la gama = whole range <FR SAME>
-
-- el ganadero = cattle-rancher, cowboy
-
-- ganar = to win, earn
-
-- la ganga = bargain
-
-- el ganso = goose <FR le gans> <ENG gander>
-
-- la garantia = guarantee <NOUN>
-
-- garantizar = to guarantee
-
-- la garganta = throat
-
-- la gasolina = gas, gasoline, petrol <IE what fills cars>: normal, super
-
-- el gato = cat, jack <FOR A CAR>
-
-- los gemelos = twins, cufflinks <ALWAYS MPL>
-
-- gordo/a = fat <ADJ>
-
-- la gorra, el gorro = cap, bonnet <MCU sombrero for plain ol' hat>
-
-- el gorro de ducha / bano = shower-cap / bath-cap
-
-- el gorrero = dosser, scrounger, freeloader
-
-- la gota = drop <NOUN ITSO drop of liquid> <FIG>; gout <ITSO the disease>; 
-
--- El médico me recetó unas gotas para los ojos. == The doctor prescribed me some eye drops.
-
--- Por la frente del atleta corrían gotas de sudor. = Beads of sweat ran down the athlete's forehead.
-
--- En este libro no hay ni una gota de romance. = There's not one tiny drop of romance in this book.
-
-- la gotera = leak <LIT like from a pipe but FIG can mean "stain" or "complaint">
-
-
-- la grama = lawn <ALT el cesped = lawn>
-
-- guisar = to cook <ALT cocinar, cocer>
-
-- la guitarra = guitar
-
-- guloso = greedy
-
-- el gusano = worm - incl the one in the tequila bottle hence name of that tequila
-
-- hacer = to do, to make <MCU-IMPORTANT - SEE DEDICATED SECTIONS ON HACER >
-
--- hacerse = to become
-
--- hace buen tiempo hoy = The weather today is good
-
-- hacia = towards
-
-- hallar = to find <REG -ar>
-
-- hallarse = to be located (somewhere), to find oneself at [ALTS: encuentrarse, estar ]
-
-- harto = full, stuffed, pigged-out
-
-- estar harto de .. = to be fed up with [ITSO tired / pissed-off with]
-
-- es harto difficil = it's really difficult
-
-- hasta que.. = until..
-
-- la hembra = female [noun and abstract noun]
-
-- herir = to injure, hurt, wound; to beat, strike
-
-- la herida = wound
-
-- herido = injured, wounded
-
-- la / el hermana/o = sister / bro
-
-- las herramientas = tools
-
-- hervir = to boil
-
-- el hervidor = kettle
-
-- huevos hervidos
-
-- la hierba = grass
-
-- el hierro = iron
-
-- el hilo = thread
-
-- hinchadar = to swell ? TODO ?
-
-- hinchado = swollen
-
-- el hogar = home, household-goods
-
-- la hoja = leaf, sheet of paper
-
-- la hoja de afeiture = razor-blade
-
-- hondo = deep [but profundo is better and far more common]
-
-- honrado = honest
-
-- la hora, las horas = the hour, the hours MCU-IMPORTANT
-
--- me da su hora = what time is it [LIT give me your version of the time]
-
-- el horario = timetable / schedule
-
--- el horario de recogidas = collection times
-
--- las horas pico = rush hour / peak hour
-
-- la hormiga = ant [INTERESTING LATIN/PORT f => SPA h - just like facer => hacer, falar => hablar ]
-
-- el horno = oven
-
-- hospedarse = to stay <ITSO staying in a certain town or with someone, GER aufenthalten><ALT quedarse>
-
-- el hoyo = hole <MCU>
-
-TODO - find these: to drill, to extirpate, to cut out, to cut up, hammer
-
-- la hebilla = buckle
-
-- huir = to flee, run away, escape
-
-- el huido = flight, fleeing
-
--- No hemos huido de las malas noticias, ni de los problemas = We haven't run away from bad news or problems.
-
--- Decenas de miles de personas han huido. = Tens of thousands of people are on the run.
-
-
-- huelle a ..  = to stink of ..
-
-- humedo = damp [ mohado = wet]
-
-- el humo = smoke
-
-
-- al igual que.. = as.., just like..
-
-- impactante = striking, shocking
-
-- los impresos = printed matter, print
-
-- incluso .. = even .. [MCU ?TODO egs? ]
-
-- indemnizar = compensate [NOT exactly ITSO ENG indemnify]
-
-- indicar = to indicate MCU ?TODO? usage like FR ITSO he generally communicated this, never mind how
-
-- las indicaciones = instructions [SAME AS las instrucciones]
-
-- el/la indigena = native inhabitant esp "American Indian"
-
-- indispuesto = unwell [LIT indisposed, but MCU]
-
-- la industria = factory [besides "industry" same as ENG]
-
-- el infarto = heart attack
-
-- informar, informarse = same as ENG but refl is to become informed upon, to get info about ST
-
-- el informe = report
-
-- la infraccion = infraction or offence [SPA usage seems rather graver than ENG]
-
-- el ingeniero = engineer [ think FR/GER with an o on the end] 
-
-- ingresar = to enter
-
-- el ingreso, los ingresos [can use MSING or MPL] = income but el ingreso also means entrance, entry, input-socket
-
-- inscribirse = to enrol, enlist, register oneself [like ENG inscribe but MCU]
-
-- integro = complete, intact
-
--- el pan integro = whole-grain bread
-
-- intentar = to try [as in to attempt]
-
-- interino = meanwhile.. USAGE IN: en el interino ..
-
-- ir / irse = to go / to go away, leave = refl MCU
-
-- jalar = to pull [think ENG haul GER holen]
-
-- el jardin = garden
-
-- el jardin de niNos = kindergarten
-
-- la jarra = jug
-
-- el jarron = vase
-
-- joder = to irritate, annoy or to screw up, mess up - eg. Lo jodiste! = You screwed up!
-
-- jodido = annoying, nuisance, knackered
-
-- juntar = to collect, gather, join MCU
-
-- junto [a..] = next [to..]
-
-- juntos = together
-
-- juzgar = to judge
-
-- el lado = side
-
-- al lado de.. = beside .. , next to .. 
-
-- la lana = wool
-
-- el lapiz = pencil
-
-- el ladrillo = brick
-
-- la leche = milk <BUT MCU luck / vibe > <ITSO ..>
-
-- mal leche = bad luck <AND plain 'ol "leche" is the opposite, good vives>
+- Dudo que le gustara eso.  = I doubt that he would like that.
  
---  ¡Qué mala leche tengo! -- AARG my bad luck!
+- Dudo que lo apruebe. = I doubt that he would approve of that.
 
-- una leche = nothing or none <ITSO..>
+- Dudo que lleguemos a las diez = I doubt that we will arrive by ten <!! PRESENT SUBJ>
 
--- Emilio no habla una leche de inglés = Emilio doesn't speak a word of English
+-- <!! instead of "we will arrive" SPA: PRES SUBJ "we arrive" >
 
 
-- lejos = far
 
--- a lo lejos = in the distance
 
-- ligero/a = light <ITSO not heavy> <GER leicht>
 
--- la comida ligera = snack
+# 
+############################################################
 
-- limpiar = to clean
+# EXERCISES - CAR RENTAL
 
-- la limpieza = cleaning, cleanliness
+############################################################
 
-- la limpieza seco = dry-cleaning
+- La Paz +52 612 125 9696
 
-- los limpiaparabrisas = [windscreen] wipers
 
-- limpio = clean
+- unidad 12741 - una - dos - cuatro -siete - una
 
-- lindo/a = lovely [PORT] 
+- tenemos un coche para una semana.
 
--- que dia lindo! - what a nice day! <same as PORT>
+- hemos accordado vovler miercoles 8 february.
 
-- el lio = mess
+- la tarifa es 4200 pro semana, es 600 pro dia.
 
-- liso = flat, plain, straight <NOT QUITE SAME AS "plano">
+- queremos continuar cinco dias mas.
 
-- la lista = list
 
-- la lista de esperanza / espera = waiting list / standby list (for flights, hotel rooms..)
+############################################################
 
-- listo = ready to go <as in assembling a gang for dinner: listo?>
+- EXERCISES - SHOULD COULD WOULD PERFECTS SUBJUNCTIVES CONDITIONALS
 
--- listo <can be used for saying a dog is a useful dog, but not a human>
+############################################################
 
--- a good worker - trabajador - is: inteligente, but never listo]
 
-- la llamada = call, telephone-call, 
+- DO THESE: 
 
--- la llamada por cobra = reverse-charge call
+http://www.learnspanishfeelgood.com/spanish-if-clauses-conditional3.html
 
-- llamar = to call; to name
 
-- llamar por telefono = to telephone; to name
+- had we left earlier, we would have arrived before dinner 
 
-- llamarse = to be called / named, .. so ..
+== Si hubiéramos salido antes, habríamos llegado antes de la cena
 
--- como te llamas? = what's your name MCU
+- had I known about this problem, I would never have gone.
 
--- ¿Cómo se llama? <FORMAL> <ALT ¿Cual es su nombre?>
+== Si hubiera sabido sobre este problema, nunca me habría ido.
 
--- llamo / me llamo .. = my name is ..
+- I doubt that I will have finished this next friday
 
-- Su nombre? MCU like ENG just: "Name?"
+== Dudo que haya terminado este próximo viernes
 
--- llame a la puerta = please knock
+-
 
-- la llanta = tyre
+== 
 
-- el llantero = tyre repair guy / dealer / service
+- If I had not started this early on monday, I would not have finished it on friday
 
-- la llave = (a) tap / faucet OR (b) key OR (c: llave ingles) spanner
+== Si no hubiera comenzado tan temprano el lunes, no lo habría terminado el viernes
 
-- llegar = to arrive / to get to / to reach [MCU-IMPORTANT]
 
-- llenar = to fill
+- were they to suffer this, any normal person would be in depair
 
-- lleno = full
+= Si sufrieran esto, cualquier persona normal estaría en desesperación
 
-- relleno = filled up
+- had I experienced this, I would also have fallen into despair
 
-- llevar = to carry out / to accomplish / to bring about
+= Si hubiera experimentado esto, también habría caído en la desesperación
 
-- llevar a cabo = to carry / to take / to bring <THINK: heave> <MCU-IMPORTANT>
+- would you like to go?
 
-- llevo dos anos trabajando aqui = I've been working here 2 years
+= ¿Te gustaría ir?
 
-- llevar a juicio = to take to court
+- I doubt that we will have finished by next week
 
-- llevarse = to take away, to remove
+= Dudo que habremos terminado la próxima semana
 
-- llorar = to cry
+- I doubt that he had been able to work on that last week
 
-- llover = to rain
+= Dudo que haya podido trabajar en esa última semana
 
-- esta lloviendo = it's raining
+- were we to change our plan at that late date, there would be many increased expenses
 
-- la llovizna = drizzle
+= Si cambiamos nuestro plan en esa fecha tardía, habrá muchos gastos incrementados
 
-- la lluvia = rain
+- Before I made the plan, I made the budget
 
-- lo .., lo que .. lo <EGs USAGE>
+= Antes hice el plan, hice el presupuesto << TODO WRONG FIX
 
--- I buy a book: Compro un libro; I buy it =>  Lo compro.
+- Before we made the plan, we made the budget
 
--- I have a car: Tengo un coche;  I have it => Lo tengo
-
--- I want the food: Quiero la comida; I want it => La quiero.
-
--- I want to buy a book: Quiero comprar un libro; I want to buy it => Lo quiero comprar. BETTER: Quiero comprarlo.
-
--- I like to eat chicken – Me gusta comer el pollo; I like to eat it => Me gusta comerlo. OR: Lo me gusta comer
-
--- Do you know? = Sabes? -- I know = Yo sé BETTER: I know it – Yo lo sé
-
--- That which is good => Lo bueno
-
--- That which is the best => Lo mejor
-
--- That which is the same – Lo mismo
-
-- Lo que .. = What, that, that which
-
--- What I want is to speak Spanish => Lo que quiero es hablar Español
-
--- I know what you want to do => Yo sé lo que quieres hacer
-
--- I know that you want to do something => Yo sé que quieres hacer algo
-
--- “Merece lo que sueñas.” = Deserve what you dream – Octavio Paz
-
-
-- la localidad = place, seat
-
-- la locomotura = engine / motor 
-
-- el locutor / la locutora = TV presenter
-
-- lograr = to achieve, to succeed in
-
-- la longitud = length
-
-- la loza = crockery
-
-- los luces de cruce = dipped headlights
-
-- los luces de posicion = sidelights
-
-- los luces traseras = rear lights
-
-- la lucha = struggle, fight
-
-- la lucha libre = all-in wresting
-
-- luchar = to fight
-
-- el lugar = place
-
-- en lugar de = instead of ..
-
---  en lugar de tomar un café, voy a beber un té =instead of having a coffee, I'll drink a tea
-
-- tener lugar = to take place
-
--- El accidente tuvo lugar delante del centro comercial = The accident took place in front of the mall.
-
--- Sin estos cambios la ampliación, sencillamente, no podrá tener lugar 
-
-= Without these changes enlargement simply will not happen.
-
-
-- la luz = light <MCU BROAD USAGE LIKE sunshine, ..>
-
-- la luz de carretera = full beam 
-
-- el macho = <LIT> a giant banana <FIGURATIVELY same as eng>
-
-- macizo = solid <can be FIG in some dialects>
-
-- la madera = wood
-
-- el madrazo = beating
-
-- la madre = mother
-
-- la madruga = wee small hours
-
--- los cuatro de la madruga = 4am
-
-- madrugar = to stay up late or get up early
-
-- el madrugador = someone who stays up late or gets up early
-
-- maduro = ripe
-
-- la maestra = teacher esp primary school
-
-- maguey = agave cactus [from which tequila is made]
-
-- mal = bad / evil / wrong / sick  [MCU-IMPORTANT]
-
-- mal de alturas = altitude sickness  
-
-- mal genio / mal humor = bad temper, bad mood, anger
-
-- la malagua = jellyfish
-
-- el malandro = criminal / thug / gangsta [ slangish esp in venezuela]
-
-- maleducado = rude
-
-- el malentendido = misunderstanding
-
-- malo / maluco = sick / poorly / unwell
-
--- ! malucu = portuguese for sick in the head / crazy / insane - TODO find if also spanish
-
-
-- maiz = maize / corn
-
-- maje = stupid
-
-- la maNana = morning -or- tomorrow [ambiguous]
-
-- pasado maNana = the day after tomorrow
-
-- maNana por la maNana = tomorrow morning
-
-- maNana por la tarde = tomorrow afternoon / evening
-
-- la mancha = stain / dirt-mark
-
-- manchar = to stain
-
-- mandar = to send, to order [think: mandate]
-
-- el mandato = period in govt [think: mandate]
-
-- mande? = pardon? sorry?
-
-- la mandibula = jaw [think: mandibules, mandibular]
-
-- manejar = to drive - so..
-
--- manejar con cuidado
-
-- la manga = sleeve
-
--- sin manga = sleeveless [shirt, dress]
-
-- la mano [NB exceptional F noun ending in -o]
-
-- la manta = rug, blanket
-
-- el mantel = tablecloth
-
-- las mantelerias = table linen
-
-- el mantenimiento = maintenance
-
-- el mapa [NB exceptional M noun ending in -a]
-
-- el mapa de carreteras = road-map
-
-- el mapa de recorrido = network map
-
-- la maquina / maquinilla de afeitar electrica = electric shaver
-
-- la maquina de escribir = typewriter
-
-- la maquina de fotos = camera
-
-- el maletero = trunk / boot (of a car)
-
-- de manera que.. = in such a way that.., so that..
-
-- la mano = hand [ EXCEPTION to -o => M rule]
-
-- la manzana = city block - also, apple
-
-- maravilloso = marvelous
-
-- el mar = sea
-
-- el maranno = pig <ITSO rude peforative for a fat or disgusting person>
-
--- No seas tan marrano y lávate las manos antes de comer !
-
-= "Don't be such a pig and wash your hands before dinner!"
-
-<ALT swine used as pejoratives: cerdo, puercos, canalla >
-
-- marcar = to dial / to mark
-
-- marcar el numero = to dial the number
-
-- la marcha = gear
-
-- la marcha atras = reverse gear
-
-- la marea = tide
-
-- mareado = dizzy / sick / drunk <can be seasick, or just figuratively dizzy> <THINK: tide swept him around>
-
-- el mareo = sickness / faintness
-
-- el marido = husband
-
-- la mariposa = butterfly / fairy / pansy <FIG ITSO as in ENG, poofter, hence ..>
-
-- el marica / maricon / mariposo  = gay, poofter, homosexual
-
-- el martillo = hammer
-
-- mas = more [SO..]
-
-- mas pequeNo/a = smaller
-
-- ya no mas! = that's enough!, enough already!
-
-- menor = smaller, younger
-
-- menos = less, fewer
-
-- a menos que (+ subjunctive).. = unless ..
-
-- mentar = to insult
-
-- el mes = month
-
-- la mesa = table
-
-- el/la mesero/a = waiter / waitress / chambermaid
-
-- mestizo [same as ENG]
-
-- la meta = goal
-
-- metiche = nosy
-
-- [horno] microondas = microwave-often
-
-- el miedo = fear
-
-- la miel = honey [same as FR]
-
-- mientras .. = while .., 
-
-- mientras tanto .. = meanwhile ..
-
-- mientras que .. = whereas .., while .., as long as..
-
-- la migra [MC] = MEX immigration police authorities, esp U.S. Norte.
-
-- el militar = soldier / serviceman
-
-- la minifalda = mini-skirt
-
-- miope = myopic, short-sighted
-
-- mirar = to look at, behold, gaze upon, see [sense of eyeballing rather than seeing]
-
-- mitad = half
-
-- mitad de precio = half-price
-
-- la mochila = backpack, rucksack
-
-- el mochilero = backpacker
-
-- la moda = fashion [THINK FR]
-
-- de moda = fashionable
-
-- el/la modisto/a = fashion designer [female can just mean dressmaker]
-
-- mojado  = wet [humedo = damp]
-
-- molestar = to disturb, to bother [much MCU than ENG molest]
-
-- molesto = annoying
-
-- las monedas = coins / change [same as FR monnaie - feminine pl]
-
-- la moneda national = national currency
-
-- el montacargas = service elevator
-
-- el montaje = assembly
-
-- montar = to get in, to ride, to assemble  [MCU-IMPORTANT]
-
-- montar en bicicleta = get on your bike
-
-- morado = purple [and some dialects slang bruise / black-eye]
-
-- morbo = morbid interest
-
-- morder = to bite
-
-- la mordedura = the bite [as in: a bite of an apple, a mozzy-bite] 
-
-- la mordida = bribe
-
-- moreno = <ADJ> dark-haired/skinned <vs rubio or slang "mono" blondie><personal appearance>
-
-- el moreton = bruise
-
-- morir = to die [think FR mourir]
-
-- la mosca = fly [ MCU many latinos use mosca for any flying pest esp mosquitos ]
-
-- el mostrador = counter, check-in desk
-
-- mostrar = show [think FR montrer]
-
-- la moto = motorbike [ EXCEPTION to -o => M rule]
-
-- la motora = motorboat
-
-- mover = to move  [MCU-IMPORTANT]
-
-- nadie = noone / nobody [ FR personne ] 
-
-- ningun = neither
-
-- nunca = jamas = never [FR jamais] [usage: nunca is the usual thing to tag on to a stanza]
-
--- [siempre = opposite of nunca = jamas]
-
-- la obra = work [think FR ENG oeuvre, but SPA doesnt have pompous connotation]
-
-- las obras = roadworks
-
-- el obrero = worker
-
-- el obstruador = shutter
-
-- obstruido = blocked
-
-- ocultar = to hide
-
-- oculto = hidden
-
-- ocupado = busy
-
-- odiar = to hate
-
-- ojalá ... = may .., ..hope that .., ..wish .., .. <EGs best ..>
-
--- Ojalá que ... = I hope .., if only ..
-
--- ¡Ojalá tengas tiempo!  = Hope you have time!
-
--- Ojalá hubieras conocido al cantante. = I wish you had met the singer.
-
--- ¡Ojalá vaya a verlo! = Hope I am going to see it!
-
--- Ojalá nieve mañana. = I wish it would snow tomorrow.
-
--- Ojalá lo siga creyendo. = May he continue to do so.
-
-- la ola = wave [the kind you surf on in the ocean]
-
-- la olla = pan [like you cook with] and FIG: en la olla or just "olla" = broke, SOL, bust, skint
-
-- el olor = odor, smell
-
-- oler = to smell [same usage as ENG so ..]
-
--- Me gusta oler las flores. = I like smelling the flowers.
-
--- Mi hermano no podía oler la comida. = My brother couldn't smell his meal.
-
--- Olíamos el aire fresco del bosque. = We smelled the fresh air of the forest.
-
--- El coche olía a gasolina. = The car smelled of gasoline.
-
--- Desde que comencé a amamantar a mi bebé siento que huelo a vaca. = ..
---- .. Since I started to nurse my baby I have felt that I smell like a cow.
-
--- Tu casa huele a tabaco. = Your house smells of tobacco.
-
--- No huele a los baratos perfumes. = It doesn't smell like the cheap perfumes.
-
-- olerse = VR to "smell itself" ITSO "whiffs of something suspicious" so ..
-
-- Me lo olía yo desde el sábado. = I've suspected it since Saturday.
-
-- Cuando se huele algo se evoca la memoria emocional. = When you suspect something it triggers the emotional memory.
-
-- las ondas = waves TODO WHATIS difference?
-
--- las microondas = microwaves as in antenna, tower, service, also oven.
-
-- Buena onda = Good vibe <PROBABLY FROM SURFER-SPEAK EG..>
-
--- Las bebidas estaban buenas pero el bar no tenía buena onda. = The drinks were fine, but the bar wasn’t very cool.
-
-- honda microondas
-
-- olvidar = forget
-
-- se me olvido = I've forgotten
-
-- la oración = sentence, prayer
-
-- la orden = instruction, order
-
-- el orden = order
-
-- a sus ordenes! = at your service!
-
-- en orden = that's ok [or more formally, "all in order"]
-
-- la oveja = sheep
-
-- la pala = spade
-
-- la palanca = influence
-
--- necesitas tener palanca = you need to know an influential person
-
-- la palanca de velocidades = gear-shift lever
-
-- el palo = pole, stick, tree
-
-- el palo de esqui = ski pole
-
-- el paludismo = malaria
-
-- el panteon = cemetary
-
-- la panza = belly
-
-- para que (+ subjunctive).. = so that..
-
-- pararse = to stand up [HENCE parado]
-
-- parado/a - standing up [positions of the body: acostado/a sentado/a]
-
-- particular = private EG una casa particular 
-
-- un particular = a private individual
-
-- parecer
-
-- la pared = wall (inside) - el muro = wall (outside) - TODO "el morro" = just portuguese or argent slang?
-
-- la pasa, las pasas = raisin(s)
-
-- pasar [ DON'T CONFUSE w PASEAR] [MC-IMPORTANT] - to happen, to pass [WIDE USAGE], to overtake
-
--- que pasa? = what happened? how did it go?
-
--- que paso? = how's it going? / coming along?
-
--- pasarlo bien = to enjoy yourself, show yourself a pretty good time
-
-- pasear <TODO DON'T CONFUSE w PASAR?> to go for a walk, drive, ride <NB caminar MCU for gofor a walk>
-
-- el paseo = walk, drive, ride
-
-- el paso subterraneo = pedestrian underpass / (ENG-ENG subway)
-
-- paso prohibido
-
-- la pasta = [WIDER USAGE THAN ENG - incl shoe-polish, pastry, biscuits cookies AWA italian pasta ]
-
-- la pastilla = pill
-
-- patinar = to skate, to skid
-
-- el patrimonio = heritage, legacy, birthright <!FALSE-FRIEND! BUT ALSO SOME SAME USAGES AS ENG>
-
-- el pato = duck
-
-- el pavo = turkey
-
-- el peaton = pedestrian <NOUN>
-
-- peatonal = pedestrian <ADJ>
-
-- el pedazo = piece
-
--- un pedazo de .. = a piece of ..
-
-- pedir = to ask for, to order, ask ITSO request NOT ITSO question preguntar
-
--- podemas pedir ya? = can we order now? [restaurant]
-
--- .. pedir .. que .. <SUBJUNCTIVE> = ask .. SO .. to do ST. 
-
--- Le pedí a Juan que me diera el diseño = I asked Juan to give me the design NB SUBJUNCTIVE!
-
-- el pedo = trouble, aggro
-
-- pegar = to hit, to stick, to glue [something onto something]
-
--- no me pega la gana = I don't feel like it
-
-- el peine, la penilla = comb
-
-- peinar = to comb
-
-- peinarse= to comb one's hair
-
-- pelar = to peal, to skin [?TODO? check ?]
-
-- pelado = barren, skint, penniless, impoverished
-
-- la pelea = fight, scrap
-
-- la pelicula = movie, film
-
-- una pelicula en version original [like FR] = "version-original" movie
-
-- pelirrojo = <ADJ> red-headed
-
-- perder = to lose [FR]
-
--- me perdi, quisiera ir a.. = I'm lost, I'd like to go to..
-
--- perdi el bolso = I've lost my bag
-
-- perezoso = <ADJ> lazy
-
-- perseguir - to pursue, chase, aim for, go after   <THINK persecute>
-
--  a pesar de (que).. = in spite of (the fact that).., despite...
-
-- la pila = battery [little one in a torch, cam BUT la batteria = car battery]
-
-- la pildora = pill
-
-- el pincel - paintbrush <ITSO an artist's brush> <or make-up brush>
-
-- pintar = to paint
-
-- la pintura = painting
-
-- las pinzas = tweezers, pincers
-
-- el piso = floor [of a building, like ground-floor, 2nd-floor ]
-
-- la piragua = canoe
-
-- la plancha = (a) [flat-]iron (like you do shirts with) OR (b) flat iron grill (like you do pollo a la plancha on) 
-
-- plano = flat
-
-- la plata = silver
-
-- plateado = siler (adj color)
-
-- la planta = floor <of a building, like ground-floor, 2nd-floor - MCU: piso >
-
-- los pobres = "the poor" <ITSO the poor are always with us>
-
-- la pobreza = poverty
-
-- poner = to put
-
-- ponerse = to become
-
-- ponerse de pie = to stand up <ALT of pararse> ?TODO?
-
-- portarse = to behave oneself (particularly kids): portarse bien / mal 
-
-- la pregunta = question answer < la respuesta = answer; VERBS: preguntar, reponder >
-
-- premiar = <!FALSE-FRIEND!> to award
-
-- prestar = to lend/borrow [MCU]
-
-- prestar atencion = to pay attention
-
-- pretender = <FF> to attempt, to try <to do something>
-
-- prevenir  = to prevent, prepare, make ready, anticipate, foresee, avoid
-
-- la primera planta = 1st floor [same confusion btw dialects as in ENG: 2nd is 1 above ground? or? ]
-
-- el piso = floor [of a building, like ground-floor, 2nd-floor ALSO: planta ]
-
-- el ultimo piso = top floor
-
-- pocos= few
-
--- unos pocos.. = a few ..
-
-- podrido = rotten (esp. rotten "off" food eg. meat / vegs / eggs)
-
-- por eso.. = that's why.., therefore..
-
-- poner = to put, place, set	<MCU-IMPORTANT>
-
-- ponerse = (a) to stand up  <OR> (b) to become <EASIER: "hacerse">  
-
-- el pradow = meadow
-
-- prender = to switch on [ apagar = to switch off ]
-
-- principio = first
-
--- al principio = at first, in the beginning, at the start
-
-- prohibida la entrada a menores de 12 .. = no admission for kids under 12 ..
-
-- prohibida la vuelta = no u-turn
-
-- prohibida su reproduccion = copyright reserved
-
-- prohibida su venta = not for sale
-
-- prohibido asomarse = do not lean out of the window
-
-- prohibido echar basura  = no litter [LIT no chucking litter]  [ALT arrojar]
-
--- se prohibe echar basura  = no litter <SAME AS ABOVE> TODO 2 [ALT arrojar]
-
--- se prohibe hablar con el chofer [as often signed on bus, don't talk to the driver] 
-
-- prohibido el paso = no entry / trespassing
-
-- prohibido estacionarse = no parking
-
-- prohibido estacionarse excepto carga y descarga = no parking except for loading and unloading
-
-- prohibido 
-
-- pronto = rapid <NB NOT temprano which means early>
-
--- <NB SO 'make it snappy' => pronto, 'make sure you're there early' => temprano> 
-
-- proseguir - to pursue, proceed, carry on with     <THINK prosecute>
-
-- buen provecho! = bon appetit!
-
-- provocar = to cause [think ENG: provoke but without the hostility] TODO - regular -ar
-
-- pues = since / so  [MCU-IMPORTANT]
-
-- puesto que .. = since.. [MCU-IMPORTANT]
-
-
-- el punto = . / point / spot / dot
-
-- el punto de vista = point of view
-
-- quebrar = to break, smash; to fail, go bankrupt
-
-
--- Hemos oído que algunos bancos son demasiado grandes para quebrar.
-
-= We have heard that some banks are too big to fail.
-
-- la quebrada = ravine
-
-- quedarse = to stay
-
-- quedarse con .. = to keep ..
-
--- puedo quedarmelo? = can I keep it?
-
--- por favor, quedeselo! = please keep it!
-
-- que hubo? / quihubo? / quiubo? = how's it going? how's things?
-
-- quejarse = to complain
-
-- quemar = to burn
-
--- quemado = burnt -- esta quemado! = this is burnt!
-
--- la quemadura de sol = sunburn 
-
-- TODO q etc look in book
-
-- quien? = who?
-
-- quien es? = who is it? <NB sometimes written as one word "quienes?"
-
-- el rabo = tail
-
-- la rama = stick
-
-- raro = strange, funny-peculiar
-
-- recien = recently
-
-- recoger = to collect/fetch, pick up <NB do not confuse with coger = shag>
-
--- lo pasare a recoger = I'll go and fetch it
-
-- la red = net <ITSO all ENG senses: internet, fishing net, mosquito net>
-
-- la regla, el reglamento = rule <regla has wider meaning like period set by rules>
-
-- reir = to laugh
-
-- remar = to row
-
-- el remo = oar
-
-- la reparacion = repair <FR same>
-
-- reponerse = to recover
-
-- los repuestos = spare parts
-
-- repugnante = disgusting <SW but MCU>
-
-- el regalo = present, gift 
-
-- el requisito = requirement, pre-req, condition
-
-- el res = cow, bull <NB res is BOTH cow /bull: follow macho / embre rule to distinguish>
-
-- resbalar = to slip
-
-- resbaladizo = slippery
-
-- rescatar = to rescue
-
-- las reservas = reservations
-
-- resfriado = cold <MCU just "frio">
-
-- respirar = to breathe
-
-- la respuesta = answer <NB la pregunta = question; VERBS: reponder, preguntar >
-
-- el rincon = corner <MCU: la esquina> TODO investigate ever so tiny difference in usage
-
-- la risa = laughter
-
--- me da risa! = it makes me laugh!
-
-- rogar [que ..] = to beg, plead [that ..]
-
-- la ropa sucia = dirty clothes
-
-- la rueda = wheel <NB when referring to a spare wheel, you also just say "rueda">
-
-- la silla de ruedas = wheelchair
-
-- ruegarse = to request < ?TODO? this verb is almost unknown but  .. se ruega .. MCU>
-
-- ruego.. = I request..
-
-- se ruega .. = please .. <LIT its is requested .. > <SO ..>
-
-- se ruega desalojen su cuarte antes la doce = please vacate your [hotel] room by noon
-
-- se ruega pagar en caja = please pay at the desk
-
-- se ruega no .. = please don't .. -SO-
-
-- se ruega no estacionarse = no parking
-
-- se ruega no molestar = do not disturb
-
-- ruido = noisy [ADJ]
-
-- mucho ruido = [DISPLEASURE THAT IT'S SO NOISY AROUND HERE]
-
-- la sabana = sheet
-
-- saldar = (a) sell at reduced price, offer on a [clearance] sale OR (b) clear / pay off a bill or debt
-
-- saldo = (a) a sale / special offer (b) balance on a bill or bank account
-
-- salir = to leave
-
--- cuando sale el proximo autobus para .. ? = when is the next bus to ..?
-
--- que hora sale el ultimo autobus? = what time is the last bus? 
-
-- salgo! = I'm off / I'm leaving / I'm outahere
-
-- salivar = to spit
-
-- saltar = to jump
-
-- sangrar = to bleed
-
-- la sangre = blood
-
-- sano = healthy
-
-- la sarten = frypan
-
-- el sastre = tailor
-
-- seco
-
-- secar
-
-- secarse el pelo
-
-- el sed = thirst
-
-- tengo sed = I'm thirsty
-
-- la seda = silk
-
-- según.. = according to..
-
-- delgado = thin, slim <ALT "flaco" is maybe edgier and skinnier>
-
-- las seNas = address
-
-- sencillo = simple <EG hamburguesa sencillo: plain without extras>
-
-- sensible = sensitive < !FALSE-FRIEND! >
-
-- sentar bien = to suit <ITSO seems ok with..>
-
-- sentarse = to sit down
-
-- en seguida = immediately, right away / now
-
-- seguido = often
-
-- seguir = to follow
-
--- siguiente = following, next
-
--- al dia siguiente = the day after
-
--- siguiente! = Next! <BUT "next time" = la próxima vez; "next year" = el próximo año>
-
--- siguiente pagina = next page
-
--- Siga las instrucciones exactamente. = Follow the directions exactly.
-
--- Siga usted practicando estas oracíones. = Continue practicing these sentences.
-
--- No podemos permitir que esto siga. = We cannot allow this to go on.
-
-- el ser = <NOUN> being <TODO? ITSO WHAT?>
-
-- simpatico = friendly <think FR sympa> <antipático vs simpático = nice vs nasty>
-
-- sordo = deaf [think FR sour]
-
-- sucia = dirty
-
-- la suerte = luck
-
--- buena suerte! = good luck!
-
-- segun .. = according to ..
-
-- de segundo mano = 2nd hand [usage exactly as ENG]
-
-- el segundo piso = 2nd floor
-
-- el semaforo = traffic-lights
-
-- sentado/a - seated, sitting down [positions of the body: acostado/a parado/a]
-
-- siempre que .. = as long as ..
-
-- lo siento = sorry! -or- I'm sorry
-
-- la silla = chair
-
-- la silla de playa = deck-chair
-
-- la silla / sillita de ruedas = wheel-chair (sillita can mean "buggy")
-
-- simpatico = nice, kind [FR/ENG: sympa]
-
-- sin duda = undoubtedly
-
-- sin embargo = however.. -or- nevertheless.. 
-
-- singado = mean
-
-- no .. sino  .. TODO
-
-- sino que .. = but..
-
-- el sitio = place, site TODO ? can also mean web-site?
-
-- en ningun sitio = nowhere -or-no place
-
-- el soborno = bribe
-
-- sobrar = to be left over, to be too many, superfluous
-
--- los sobros = leftovers
-
-- sobre = above, on, upon  [MCU-IMPORTANT]
-
-- sobre todos .. = above all ..
-
-- sobrevivir = to survive
-
-- el/la sobrino/a = nephew/niece
-
-- sobrio = sober
-
-- Socorro! = Help!
-
-- soler MCU - "to usually do" or "to be accustomed to."
-
-< soler is a DEFECTIVE verb: has no future or a conditional tense.>
-
-- solia <INF> = .. "used to" <INF> - a rough ALT to the imperfect tense - SIMPLE too.
-
--- No es el cuerpo marrano que solía tener... = It's not the fat body I used to have...
-
--- Cuando era niño, solía ir a la playa (tense = past) = "When I was a boy, I used to go to the beach"
-
-- Mi primo solía ir a este lago para ver a los patos.
-
-= My cousin used to go to this lake to see the ducks.
-
--- En verano, suelo ir a la playa = "In summer, I usually go (tend to go) to the beach"
-
-- Los museos en España suelen descansar los lunes.  = Museum in Spain are usually closed on Mondays
-
-- En la época de la fresa, las fruterías suelen venderlas en cajas de 2 Kg.
-
-= During the strawberry season, fruit shops used to sell them in boxes of 2 kilos.
-
-
-- sonreir = to smile
-
-- la sonrisa = smile
-
-- suave = soft <ALT blando/a>
-
--- El "suave, suave" ya no vale. = 'Softly, softly' will not do anymore.
-
--- No ha sido un enfoque suave. = It has not been a soft approach.
-
--- Parece posible que el aterrizaje sea suave. = A soft landing does seem possible.
-
--- Esa almohada es suave. = That pillow is soft.
-
-
-- sucio = dirty
-
-- sudar = to sweat
-
-- la/el suegra/o = mother-/father- in-law
-
-- el suelo = soil
-
-- la sueNa = dream
-
-- el surtido = selection, assortment
-
-- el susto = shock [NOT the electric kind]
-
-- susurrar = to whisper
-
-- tacaño = <ADJ> stingy, cheap person <ITSO takky person vs "barato" cheap ITSO a thing that's a good deal>
-
-- el tamaNo = size <BUT clothes size = la talla THINK FR> 
-
-- tan = .. <MCU-IMPORTANT>
-
-- tan pronto como.. = as soon as..
-
-- en cuanto.. = as soon as..
-
-- la tapa = lid <ambiguity with las tapas AARG>
-
-- la talla = size <for clothing like size-16 shirt THINK FR>
-
-- la taza = cup [think FR tasse GE tassa]
-
-- el techo = ceiling [tejado = roof]
-
-- el tejado = roof <ceiling = el techo> <ALSO la azotea = roof ?TODO? >
-
-- temer = to fear
-
-- temprano = early <NOT pronto - that means rapid>
-
-- el tenedor = fork <KNIFE = cuchillo SPOON = cuchara >
-
-- las tijeras = scissors
-
-- tocar = [AMBIGUOUS] to touch, to play a musical instrument, or hit the doorbell, [OR OTHERS]
-
-- todavia no = not yet
-
-- tonto = silly
-
-- torcer    torcido/torciendo       = to twist, sprain, strain, bend, warp, wring  <ITSO your ankle/wrist/neck> *1 c=>z
-- destorcer destorcido/destorciendo = to untwist, untangle *1 c=>z
-<think: torque torsion TODO are those also spanish?>
-
--- me torci el tobillo = I twisted my ankle [NB usage reflx with def-article "el" *NOT* possessive "mi"]
-
-- el tornillo = screw
-
-- torpe = clumsy
-
-- la torre = tower
-
-- la tos = cough
-
-- toser = to cough
-
-- el trabajador/ la trabajadora = worker [NB per-gender noun or/ora]
-
-- trabajo = work [like FR]
-
-- trabajar = to work [like FR]
-
-- traer = to bring
-
-- tragar = to swallow 
-
-- tragarse = to swallow [FIG: to put up with, to fall for, to fall in love with]
-
-- el trago = drinking
-
-- el trailer = [same as ENG: trailer, large truck, rig, caravan]
-
-- los trainers = [same as ENG: trainers, running shoes, sneakers]
-
-- los tramites = bureaucracy, paperwork
-
-- el transito = traffic [ALSO la circulation]
-
-- tranquilo = quiet
-
-- tranquilizarse = to calm down
-
-- trapear = to mop
-
-- el trapo de cocina - dishcloth
-
-- tras = after
-
-- el trasbordo = transfer, change [esp in a train/plane/bus journey]
-
--- hacer trasbordo en Madrid = change at Madrid
-
-- trasladar = to move
-
-- se traslada = under new management
-
-- trasnochar = to spend the night
-
-- el tratamiento = treatment
-
-- tratar = to treat, to try
-
-- el trato = way [habitual] of treating people [think ENG trait]
-
-- traves
-
-- a traves de.. = across..  / through..
-
-- travieso/a = naughty, mischievous (esp. a kid)
-
-- el tren tranvia = local train that stops everywhere, as opposed to "tren directo"
-
-- trazar = to trace, to draw
-
-- triste = sad [same as FR]
-
-- la tristeza = sadness
-
-- el trueno = thunder
-
-- tuerce a la izquierda = turn left [TYPICALLY ON ROAD-SIGN]
-
-- el turno = turn / shift / round [ITSO my go next, whose turn is it?]
-
-- es mi turno = it's my turn, [IN A PUB: it's my round]
-- varios = several [CONFUSING - not "various"]
-
-- usado = second-hand [i.e. "used" as in used cars]
-
-- el varon = male / also ITSO gentlemanly serious hombre
-
-- varonil = manly 
-
-- el vaso = glass, tumbler [like you drink from, but MCU for vino: copa] 
-
-- el vato = watt [electrical ITSO 100 vasos]
-
-- la vela = sail [like on a sailboat]
-
--- el barco de velas = sailboat
-
-- la venda = bandage [MCU "la curlta" for a little band-aid]
-
-- la venta = sale 
-
-- de venta aqui = on sale here
-
-- ventas a credito = credit / HP plans available
-
-- ventas a plazos = HP plan
-
-- ventas al contado = cash sale
-
-- la ventanilla = ticket office [window/kiosk, like in a bus/train station]
-
-- la ventana = window [plain ol', as opposed to glassy display / shop window: vitrina]
-
-- [de] veras = really, honestly
-
-- la verdad = the truth
-
--- verdad? don't you? do you really? huh? isn't it? innit? is he really? etc..
-
-
-- los vestuarios = fitting / changing rooms
-
-- el vestido = dress
-
-- [des]vestir = to [un]dress <think FR: vetements>
-
-- vestirse = <MCU is VR for dressing yourself> to get dressed, dress, put on clothes
-
-- [des]vestirse = to get [un]dressed
-
-- los vestuarios = fitting / dressing / changing rooms
-
-- el verano = summer
-
-- veranear = to take a vacation
-
-- veraneante = vacationer, holiday-maker < ROUGHLY tourist>
-
-- el centro de veraneo = resort < gringos main-drag
-
-- veras! = honest! really! <can also just say "verdad">
-
-- verda? = right? innit? do you (really)? 
-
-- la verguenza = shame ?TODO? ITSO what?
-
-- el vidrio = glass, glassware
-
-- la vidriera = ALT of vitrina [SA]
-
-- el viento = wind
-
-- la vitrina [FR la vitrine, uncommon, vidrio ? TODO ]
-
-- la via = (a) <SAME as "anden" = platform> (b) track, way, route <NOT journey which is viaje>
-
-- por via aerea = by airmail
-
-- via oral/rectal = (medicine) swallowed / stuck up yr a$$ 
-
-- viajar = to travel
-
-- el viajero = traveller
-
-- la vibora = viper [ENG same], snake
-
-- la vida = life
-
-- la vida loca = etc..
-
-- la violacion = rape < !FALSE-FRIEND! NOT ENG "(traffic) violation" => infraccion >
-
-- violar = to rape
-
-- la vispera = the day before
-
-- en vista de que..  = given that.., seeing as.., in light of the fact (that).., considering..
-
-- dado que.. = given that.., seeing as.., in light of the fact (that).., considering..
-
-- la/el viuda/o = widow/widower
-
-- vivir = to live
-
-- vivo = alive
-
-- el voceador = newsagent, paper-shop, guy who works / owns such
-
-- el vocero = spokesman
-
-- volar = fly
-
--- el volantin = kite
-
-- voltear = to knock over, turn over
-
-- volver = to come back
-
-- volver a hacer algo = to do something [over] again
-
-- vomitar = to vomit
-
-- la voz = voice
-
-- el vuelo = flight [SO..]
-
--- el vuelo regular = scheduled flight [as opposed to charter]
-
--- el vuelo nacional / internacional
-
-- la vuelta = a trip, journey
-
-- ya esta! = there you are!
-
-- ya mero! = <MEX> right here right now!
-
-- ya que.. = since..
-
-- yace = lies +BS
-
-- la yerba = herb
-
-- el yerno = son-in-law
-
-- yo mismo.. = I myself..
-
-- zafarse = to escape, get away <MCU: escape>
-
-- el zamuro <MCU>, zopilote <MEX>= vulture, buzzard
-
-- zurdo = left-handed [CONFUSION sordo deaf, same pronuniation]
-
-
+= Antes de hacer el plan, hicimos el presupuesto
 
 
 
